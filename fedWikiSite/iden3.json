@@ -1,0 +1,281 @@
+{
+  "title": "iden3",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "2bcd816449c7ac4f",
+      "text": "__iden3__ makes it easy for you to create self-sovereign identities on [[Ethereum]]. Prove things about yourself while safeguarding your privacy.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "6647ca95c236ad25",
+      "text": "- https://iden3.io"
+    },
+    {
+      "type": "markdown",
+      "id": "338d0572dcfff1fa",
+      "text": "# Privacy by design\n- Prove things about yourself while safeguarding your privacy\n- Prove you are eligible to vote, without revealing who you are.\n- Pay your taxes, without revealing how much you earn.\n- Prove to someone that you are a member of a political party, while preventing that someone from sharing that information with others.\n\n\n"
+    },
+    {
+      "type": "markdown",
+      "id": "72a5cc335bdabe3a",
+      "text": "These are all things that are possible with zero-knowledge proofs -- a key part of our technology (and modern cryptography in general).\n"
+    },
+    {
+      "type": "markdown",
+      "id": "4490a29a9ecb7bdb",
+      "text": "# zk-SNARK\n"
+    },
+    {
+      "type": "markdown",
+      "id": "c10dbc903a3e4c15",
+      "text": "Note that at iden3, we use a specific type of zero-knowledge proof known as a zk-SNARK.\n\n\n"
+    },
+    {
+      "type": "markdown",
+      "id": "71409f701e33853a",
+      "text": "You can think of a [[zk-SNARK]] as an efficient way to produce a zero-knowledge proof. Zk-SNARKs allow us to generate proofs that are short enough to publish to a blockchain. Which means they can read later by anyone who wishes to verify them."
+    },
+    {
+      "type": "markdown",
+      "id": "7bbed9aeaa2d0108",
+      "text": "# Why decentralizing identity is key to fixing our democracy\n"
+    },
+    {
+      "type": "markdown",
+      "id": "d03efe7589b7821e",
+      "text": "Our modern power structures are failing us miserably. No matter how well meaning, our leaders no longer seem to be able to solve the increasingly complex problems facing our society. The solution begins with changing the way we think about identity.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "eff7c965c460a6f3",
+      "text": "Decentralized identity: a natural check on government and corporate power\n"
+    },
+    {
+      "type": "markdown",
+      "id": "7b66c046bb7b686d",
+      "text": "# Self-Sovereign Identity\n\nIf history has taught us anything, it's that power belongs to those who control the information. Right now that power belongs to the gatekeepers of our identities: governments and corporations. Decentralized identity systems put the power back in our hands."
+    },
+    {
+      "type": "markdown",
+      "id": "29163efebc6bc662",
+      "text": "# See also\n- [[Jordi Baylina]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "iden3",
+        "story": []
+      },
+      "date": 1571002706496
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7bbed9aeaa2d0108"
+      },
+      "id": "7bbed9aeaa2d0108",
+      "type": "add",
+      "date": 1571002707582
+    },
+    {
+      "type": "edit",
+      "id": "7bbed9aeaa2d0108",
+      "item": {
+        "type": "markdown",
+        "id": "7bbed9aeaa2d0108",
+        "text": "# Why decentralizing identity is key to fixing our democracy\n"
+      },
+      "date": 1571002720470
+    },
+    {
+      "type": "add",
+      "id": "d03efe7589b7821e",
+      "item": {
+        "type": "markdown",
+        "id": "d03efe7589b7821e",
+        "text": "Our modern power structures are failing us miserably. No matter how well meaning, our leaders no longer seem to be able to solve the increasingly complex problems facing our society. The solution begins with changing the way we think about identity.\n"
+      },
+      "after": "7bbed9aeaa2d0108",
+      "date": 1571002737501
+    },
+    {
+      "type": "add",
+      "id": "eff7c965c460a6f3",
+      "item": {
+        "type": "markdown",
+        "id": "eff7c965c460a6f3",
+        "text": "Decentralized identity: a natural check on government and corporate power\n"
+      },
+      "after": "d03efe7589b7821e",
+      "date": 1571002743864
+    },
+    {
+      "type": "add",
+      "id": "7b66c046bb7b686d",
+      "item": {
+        "type": "markdown",
+        "id": "7b66c046bb7b686d",
+        "text": "# Self-Sovereign Identity\n\nIf history has taught us anything, it's that power belongs to those who control the information. Right now that power belongs to the gatekeepers of our identities: governments and corporations. Decentralized identity systems put the power back in our hands."
+      },
+      "after": "eff7c965c460a6f3",
+      "date": 1571002750313
+    },
+    {
+      "id": "338d0572dcfff1fa",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "338d0572dcfff1fa",
+        "text": "Privacy by design\nProve things about yourself while safeguarding your privacy\nProve you are eligible to vote, without revealing who you are.\n\nPay your taxes, without revealing how much you earn.\n\nProve to someone that you are a member of a political party, while preventing that someone from sharing that information with others.\n\nThese are all things that are possible with zero-knowledge proofs -- a key part of our technology (and modern cryptography in general).\n\nNote that at iden3, we use a specific type of zero-knowledge proof known as a zk-SNARK.\n\nYou can think of a zk-SNARK as an efficient way to produce a zero-knowledge proof. Zk-SNARKs allow us to generate proofs that are short enough to publish to a blockchain. Which means they can read later by anyone who wishes to verify them."
+      },
+      "date": 1571002766389
+    },
+    {
+      "type": "edit",
+      "id": "338d0572dcfff1fa",
+      "item": {
+        "type": "markdown",
+        "id": "338d0572dcfff1fa",
+        "text": "# Privacy by design\n- Prove things about yourself while safeguarding your privacy\n- Prove you are eligible to vote, without revealing who you are.\n- Pay your taxes, without revealing how much you earn.\n- Prove to someone that you are a member of a political party, while preventing that someone from sharing that information with others.\n\n\n"
+      },
+      "date": 1571002792081
+    },
+    {
+      "type": "add",
+      "id": "72a5cc335bdabe3a",
+      "item": {
+        "type": "markdown",
+        "id": "72a5cc335bdabe3a",
+        "text": "These are all things that are possible with zero-knowledge proofs -- a key part of our technology (and modern cryptography in general).\n"
+      },
+      "after": "338d0572dcfff1fa",
+      "date": 1571002798046
+    },
+    {
+      "type": "add",
+      "id": "4490a29a9ecb7bdb",
+      "item": {
+        "type": "markdown",
+        "id": "4490a29a9ecb7bdb",
+        "text": "# zk-SNARK\n"
+      },
+      "after": "72a5cc335bdabe3a",
+      "date": 1571002817122
+    },
+    {
+      "type": "add",
+      "id": "c10dbc903a3e4c15",
+      "item": {
+        "type": "markdown",
+        "id": "c10dbc903a3e4c15",
+        "text": "Note that at iden3, we use a specific type of zero-knowledge proof known as a zk-SNARK.\n\n\n"
+      },
+      "after": "4490a29a9ecb7bdb",
+      "date": 1571002820410
+    },
+    {
+      "type": "add",
+      "id": "71409f701e33853a",
+      "item": {
+        "type": "markdown",
+        "id": "71409f701e33853a",
+        "text": "You can think of a [[zk-SNARK]] as an efficient way to produce a zero-knowledge proof. Zk-SNARKs allow us to generate proofs that are short enough to publish to a blockchain. Which means they can read later by anyone who wishes to verify them."
+      },
+      "after": "c10dbc903a3e4c15",
+      "date": 1571002827498
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "29163efebc6bc662"
+      },
+      "id": "29163efebc6bc662",
+      "type": "add",
+      "after": "7b66c046bb7b686d",
+      "date": 1571002844378
+    },
+    {
+      "type": "edit",
+      "id": "29163efebc6bc662",
+      "item": {
+        "type": "markdown",
+        "id": "29163efebc6bc662",
+        "text": "# See also\n"
+      },
+      "date": 1571002848880
+    },
+    {
+      "type": "edit",
+      "id": "29163efebc6bc662",
+      "item": {
+        "type": "markdown",
+        "id": "29163efebc6bc662",
+        "text": "# See also\n- [[Jordi Baylina]]"
+      },
+      "date": 1571002855275
+    },
+    {
+      "id": "2bcd816449c7ac4f",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "2bcd816449c7ac4f",
+        "text": "- https://iden3.io"
+      },
+      "after": "d03efe7589b7821e",
+      "date": 1571002871430
+    },
+    {
+      "id": "2bcd816449c7ac4f",
+      "type": "move",
+      "order": [
+        "2bcd816449c7ac4f",
+        "338d0572dcfff1fa",
+        "72a5cc335bdabe3a",
+        "4490a29a9ecb7bdb",
+        "c10dbc903a3e4c15",
+        "71409f701e33853a",
+        "7bbed9aeaa2d0108",
+        "d03efe7589b7821e",
+        "eff7c965c460a6f3",
+        "7b66c046bb7b686d",
+        "29163efebc6bc662"
+      ],
+      "date": 1571002875366
+    },
+    {
+      "type": "edit",
+      "id": "2bcd816449c7ac4f",
+      "item": {
+        "type": "markdown",
+        "id": "2bcd816449c7ac4f",
+        "text": "iden3 makes it easy for you to create self-sovereign identities on Ethereum. Prove things about yourself while safeguarding your privacy.\n"
+      },
+      "date": 1571002908036
+    },
+    {
+      "type": "add",
+      "id": "6647ca95c236ad25",
+      "item": {
+        "type": "markdown",
+        "id": "6647ca95c236ad25",
+        "text": "- https://iden3.io"
+      },
+      "after": "2bcd816449c7ac4f",
+      "date": 1571002908718
+    },
+    {
+      "type": "edit",
+      "id": "2bcd816449c7ac4f",
+      "item": {
+        "type": "markdown",
+        "id": "2bcd816449c7ac4f",
+        "text": "__iden3__ makes it easy for you to create self-sovereign identities on [[Ethereum]]. Prove things about yourself while safeguarding your privacy.\n"
+      },
+      "date": 1571002921081
+    }
+  ]
+}

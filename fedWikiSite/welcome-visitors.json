@@ -1,0 +1,1329 @@
+{
+  "title": "Welcome Visitors",
+  "story": [
+    {
+      "text": "On this site we document the [[Speakers]] at the forthcoming [[Democracy Garden]] event in Barcelona. October 25-26 2019.",
+      "id": "7b56f22a4b9ee974",
+      "type": "paragraph"
+    },
+    {
+      "type": "markdown",
+      "id": "a5b4fcd381046467",
+      "text": "# Workshops\n"
+    },
+    {
+      "type": "markdown",
+      "id": "d44aefa25c54ed16",
+      "text": "- [[Workshop: Future Law]]\n- [[Workshop: Age of Consent]]\n- [[Workshop: Republic of Science]]\n- [[Workshop: Digital Republics]]\n- [[Workshop: SPACE network]]"
+    },
+    {
+      "type": "markdown",
+      "id": "2bbd646ff3f44b51",
+      "text": "# Topics"
+    },
+    {
+      "type": "markdown",
+      "id": "f7f09b6026457c87",
+      "text": "- [[Resolution]]\n- [[Agenda]]\n- [[Workshops]]\n"
+    },
+    {
+      "type": "markdown",
+      "id": "7eecd73c8abb7bd9",
+      "text": "- [[Workshop Template]]\n"
+    },
+    {
+      "type": "markdown",
+      "id": "dd3299215af48906",
+      "text": "- [[Inventors on the blockchain]]\n- [[Digital Republics]]\n- [[Future Law]]\n- [[Imagine]]\n"
+    },
+    {
+      "type": "markdown",
+      "id": "65ffb244a1e43ffc",
+      "text": "# More Topics\n"
+    },
+    {
+      "type": "markdown",
+      "id": "9a709c8341fec7b3",
+      "text": "- [[Weapons of Mass Creation]]\n- [[Governance of Science]]\n"
+    },
+    {
+      "type": "markdown",
+      "id": "b0dfb21f28c7eddf",
+      "text": "# Speakers\n"
+    },
+    {
+      "type": "markdown",
+      "id": "a2fef3cbafc35841",
+      "text": "- [[Alex Shkor]]\n- [[Henning Dietrich]]\n- [[Jean-Pierre Bekolo]]\n- [[David Bovill]]\n- [[Jordi Baylina]]\n- [[Toomas Hendrik Ilves]]"
+    },
+    {
+      "type": "markdown",
+      "id": "da3e92e9a0a73a7b",
+      "text": "# Activity\n\nExplore [[recent changes]] in [[the federation]] over the past few days, by exploring the links below:\n  \n- [[Future Activity]]\n- [[Proto Activity]]\n- [[Democracy Activity]]\n"
+    },
+    {
+      "type": "markdown",
+      "id": "0627a4f03c77279b",
+      "text": "- [[Changes to this Site]]\n- [[Federation Activity]]\n- [[Drop in]] to our Fedwiki chat - [https://riot.im/app/#/room/#fedwiki:matrix.org riot.im]"
+    },
+    {
+      "type": "markdown",
+      "id": "a7ff5f0a69a8d29a",
+      "text": "# Rosters"
+    },
+    {
+      "type": "roster",
+      "id": "0c3e6b60d3ff79c7",
+      "text": "Future Wiki\n\nREFERENCES future.democracy.garden/future-sites"
+    },
+    {
+      "type": "roster",
+      "id": "af3ec051364619c3",
+      "text": "Democracy Sites\n\nREFERENCES progressivedemocracy.cc/democracy-sites"
+    },
+    {
+      "type": "roster",
+      "id": "1f033129150d6fd0",
+      "text": "Proto Institute Members\n\nROSTER rest.livecode.world/proto"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Welcome Visitors",
+        "story": []
+      },
+      "date": 1420938191608
+    },
+    {
+      "type": "add",
+      "item": {
+        "text": "Welcome to this [[Federated Wiki]] site. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate.",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "id": "7b56f22a4b9ee974",
+      "date": 1420938199166
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "Pages about us."
+      },
+      "after": "7b56f22a4b9ee974",
+      "id": "821827c99b90cfd1",
+      "date": 1420938202921
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "factory",
+        "id": "63ad2e58eecdd9e5",
+        "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.\n\nMake all pages here yours alone with the login below."
+      },
+      "after": "821827c99b90cfd1",
+      "id": "63ad2e58eecdd9e5",
+      "date": 1420938208737
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "Pages where we do and share."
+      },
+      "after": "63ad2e58eecdd9e5",
+      "id": "2bbd646ff3f44b51",
+      "date": 1420938212624
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "factory",
+        "id": "05e2fa92643677ca",
+        "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save."
+      },
+      "after": "2bbd646ff3f44b51",
+      "id": "05e2fa92643677ca",
+      "date": 1420938216782
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
+      },
+      "after": "05e2fa92643677ca",
+      "id": "ee416d431ebf4fb4",
+      "date": 1420938220851
+    },
+    {
+      "type": "edit",
+      "id": "63ad2e58eecdd9e5",
+      "item": {
+        "type": "paragraph",
+        "id": "63ad2e58eecdd9e5",
+        "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.\n\nMake all pages here yours alone with the login below.",
+        "text": "[[Ward Cunningham]]"
+      },
+      "date": 1570304717900
+    },
+    {
+      "type": "edit",
+      "id": "05e2fa92643677ca",
+      "item": {
+        "type": "paragraph",
+        "id": "05e2fa92643677ca",
+        "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
+        "text": "[[Inclusive Media for Diverse Groups]]"
+      },
+      "date": 1570304766694
+    },
+    {
+      "type": "edit",
+      "id": "05e2fa92643677ca",
+      "item": {
+        "type": "paragraph",
+        "id": "05e2fa92643677ca",
+        "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
+        "text": "[[Inclusive Media]]"
+      },
+      "date": 1570304836116
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0c3e6b60d3ff79c7"
+      },
+      "id": "0c3e6b60d3ff79c7",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1570305491766
+    },
+    {
+      "type": "edit",
+      "id": "0c3e6b60d3ff79c7",
+      "item": {
+        "type": "roster",
+        "id": "0c3e6b60d3ff79c7",
+        "text": "all.ward.asia.wiki.org"
+      },
+      "date": 1570305512534
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "821827c99b90cfd1",
+        "63ad2e58eecdd9e5",
+        "2bbd646ff3f44b51",
+        "05e2fa92643677ca",
+        "0c3e6b60d3ff79c7",
+        "ee416d431ebf4fb4"
+      ],
+      "id": "0c3e6b60d3ff79c7",
+      "date": 1570305524035
+    },
+    {
+      "type": "fork",
+      "site": "all.ward.asia.wiki.org",
+      "date": 1570358269293
+    },
+    {
+      "type": "edit",
+      "id": "0c3e6b60d3ff79c7",
+      "item": {
+        "type": "roster",
+        "id": "0c3e6b60d3ff79c7",
+        "text": "all.ward.asia.wiki.org\nfuture.democracy.garden\n"
+      },
+      "date": 1570358305611
+    },
+    {
+      "type": "edit",
+      "id": "0c3e6b60d3ff79c7",
+      "item": {
+        "type": "roster",
+        "id": "0c3e6b60d3ff79c7",
+        "text": "\n\nall.ward.asia.wiki.org\nfuture.democracy.garden"
+      },
+      "date": 1570358318794
+    },
+    {
+      "type": "edit",
+      "id": "0c3e6b60d3ff79c7",
+      "item": {
+        "type": "roster",
+        "id": "0c3e6b60d3ff79c7",
+        "text": "Future Wiki Social Layer\n\nall.ward.asia.wiki.org\nfuture.democracy.garden"
+      },
+      "date": 1570358357556
+    },
+    {
+      "type": "edit",
+      "id": "0c3e6b60d3ff79c7",
+      "item": {
+        "type": "roster",
+        "id": "0c3e6b60d3ff79c7",
+        "text": "Future Wiki\n\nall.ward.asia.wiki.org\nfuture.democracy.garden"
+      },
+      "date": 1570358379431
+    },
+    {
+      "type": "add",
+      "id": "f7f09b6026457c87",
+      "item": {
+        "type": "paragraph",
+        "id": "f7f09b6026457c87",
+        "text": "[[Future Democracy]]"
+      },
+      "after": "05e2fa92643677ca",
+      "date": 1570358414255
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "af3ec051364619c3"
+      },
+      "id": "af3ec051364619c3",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1570358654365
+    },
+    {
+      "type": "edit",
+      "id": "af3ec051364619c3",
+      "item": {
+        "type": "roster",
+        "id": "af3ec051364619c3",
+        "text": "Democracy Sites\n\nREFERENCES progressivedemocracy.cc/democracy-sites"
+      },
+      "date": 1570358668763
+    },
+    {
+      "id": "af3ec051364619c3",
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "821827c99b90cfd1",
+        "63ad2e58eecdd9e5",
+        "2bbd646ff3f44b51",
+        "05e2fa92643677ca",
+        "f7f09b6026457c87",
+        "0c3e6b60d3ff79c7",
+        "af3ec051364619c3",
+        "ee416d431ebf4fb4"
+      ],
+      "date": 1570358672844
+    },
+    {
+      "type": "edit",
+      "id": "2bbd646ff3f44b51",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "# Topics"
+      },
+      "date": 1570358690446
+    },
+    {
+      "type": "edit",
+      "id": "2bbd646ff3f44b51",
+      "item": {
+        "type": "markdown",
+        "id": "2bbd646ff3f44b51",
+        "text": "# Topics"
+      },
+      "date": 1570358691845
+    },
+    {
+      "type": "add",
+      "id": "7b29b03c6a8208e1",
+      "item": {
+        "type": "paragraph",
+        "id": "7b29b03c6a8208e1",
+        "text": "[[David Bovill]]"
+      },
+      "after": "63ad2e58eecdd9e5",
+      "date": 1570358727527
+    },
+    {
+      "id": "7b29b03c6a8208e1",
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "821827c99b90cfd1",
+        "7b29b03c6a8208e1",
+        "63ad2e58eecdd9e5",
+        "2bbd646ff3f44b51",
+        "05e2fa92643677ca",
+        "f7f09b6026457c87",
+        "0c3e6b60d3ff79c7",
+        "af3ec051364619c3",
+        "ee416d431ebf4fb4"
+      ],
+      "date": 1570358905663
+    },
+    {
+      "type": "edit",
+      "id": "f7f09b6026457c87",
+      "item": {
+        "type": "paragraph",
+        "id": "f7f09b6026457c87",
+        "text": "- [[Future Democracy]]"
+      },
+      "date": 1570360161071
+    },
+    {
+      "type": "remove",
+      "id": "05e2fa92643677ca",
+      "date": 1570360162798
+    },
+    {
+      "type": "edit",
+      "id": "f7f09b6026457c87",
+      "item": {
+        "type": "markdown",
+        "id": "f7f09b6026457c87",
+        "text": "- [[Future Democracy]]"
+      },
+      "date": 1570360164564
+    },
+    {
+      "type": "edit",
+      "id": "f7f09b6026457c87",
+      "item": {
+        "type": "markdown",
+        "id": "f7f09b6026457c87",
+        "text": "- [[Future Democracy]]\n- [[Inclusive Media]]"
+      },
+      "date": 1570360170265
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "da3e92e9a0a73a7b"
+      },
+      "id": "da3e92e9a0a73a7b",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1570360211067
+    },
+    {
+      "type": "edit",
+      "id": "da3e92e9a0a73a7b",
+      "item": {
+        "type": "markdown",
+        "id": "da3e92e9a0a73a7b",
+        "text": "# Activity\n\nExplore [[recent activity]] in [[the federation]] over the past few days, by exploring the links below:\n  \n- [[Proto Activity]]\n- [[Democracy Activity]]\n- [[Changes to this Site]]\n- [[Federation Activity]]\n- [[Drop in]] to our Fedwiki chat - [https://riot.im/app/#/room/#fedwiki:matrix.org riot.im]"
+      },
+      "date": 1570360213692
+    },
+    {
+      "id": "da3e92e9a0a73a7b",
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "821827c99b90cfd1",
+        "7b29b03c6a8208e1",
+        "63ad2e58eecdd9e5",
+        "2bbd646ff3f44b51",
+        "f7f09b6026457c87",
+        "0c3e6b60d3ff79c7",
+        "af3ec051364619c3",
+        "da3e92e9a0a73a7b",
+        "ee416d431ebf4fb4"
+      ],
+      "date": 1570360216982
+    },
+    {
+      "type": "edit",
+      "id": "da3e92e9a0a73a7b",
+      "item": {
+        "type": "markdown",
+        "id": "da3e92e9a0a73a7b",
+        "text": "# Activity\n\nExplore [[recent changes]] in [[the federation]] over the past few days, by exploring the links below:\n  \n- [[Proto Activity]]\n- [[Democracy Activity]]\n- [[Changes to this Site]]\n- [[Federation Activity]]\n- [[Drop in]] to our Fedwiki chat - [https://riot.im/app/#/room/#fedwiki:matrix.org riot.im]"
+      },
+      "date": 1570360229776
+    },
+    {
+      "type": "remove",
+      "id": "ee416d431ebf4fb4",
+      "date": 1570360231177
+    },
+    {
+      "type": "edit",
+      "id": "da3e92e9a0a73a7b",
+      "item": {
+        "type": "markdown",
+        "id": "da3e92e9a0a73a7b",
+        "text": "# Activity\n\nExplore [[recent changes]] in [[the federation]] over the past few days, by exploring the links below:\n  \n- [[Future Activity]]\n- [[Democracy Activity]]\n- [[Changes to this Site]]\n- [[Federation Activity]]\n- [[Drop in]] to our Fedwiki chat - [https://riot.im/app/#/room/#fedwiki:matrix.org riot.im]"
+      },
+      "date": 1570360247669
+    },
+    {
+      "type": "edit",
+      "id": "f7f09b6026457c87",
+      "item": {
+        "type": "markdown",
+        "id": "f7f09b6026457c87",
+        "text": "- [[Future Democracy]]\n- [[Inclusive Media]]\n"
+      },
+      "date": 1570360261391
+    },
+    {
+      "type": "add",
+      "id": "a7ff5f0a69a8d29a",
+      "item": {
+        "type": "markdown",
+        "id": "a7ff5f0a69a8d29a",
+        "text": "# Rosters"
+      },
+      "after": "f7f09b6026457c87",
+      "date": 1570360262946
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "# Researchers"
+      },
+      "date": 1570360301261
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "markdown",
+        "id": "821827c99b90cfd1",
+        "text": "# Researchers"
+      },
+      "date": 1570360302663
+    },
+    {
+      "type": "edit",
+      "id": "7b29b03c6a8208e1",
+      "item": {
+        "type": "paragraph",
+        "id": "7b29b03c6a8208e1",
+        "text": "- [[David Bovill]]"
+      },
+      "date": 1570360311712
+    },
+    {
+      "type": "remove",
+      "id": "63ad2e58eecdd9e5",
+      "date": 1570360314632
+    },
+    {
+      "type": "edit",
+      "id": "7b29b03c6a8208e1",
+      "item": {
+        "type": "markdown",
+        "id": "7b29b03c6a8208e1",
+        "text": "- [[David Bovill]]"
+      },
+      "date": 1570360318166
+    },
+    {
+      "type": "edit",
+      "id": "7b29b03c6a8208e1",
+      "item": {
+        "type": "markdown",
+        "id": "7b29b03c6a8208e1",
+        "text": "- [[David Bovill]]\n[[Ward Cunningham]]"
+      },
+      "date": 1570360322077
+    },
+    {
+      "type": "edit",
+      "id": "7b29b03c6a8208e1",
+      "item": {
+        "type": "markdown",
+        "id": "7b29b03c6a8208e1",
+        "text": "- [[David Bovill]]\n- [[Ward Cunningham]]"
+      },
+      "date": 1570360326907
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Here we begin to explore the learning we have gathered from writing in [[the federation]] and previous experiences the authors have had in writing in hypertext environments.",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1570360493687
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Here we begin to explore the learning we have gathered from writing in [[the federation]] and previous experiences the authors have had in writing in [[hypertext]] environments.",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1570360505069
+    },
+    {
+      "type": "add",
+      "id": "b15c435c3da56e9f",
+      "item": {
+        "type": "paragraph",
+        "id": "b15c435c3da56e9f",
+        "text": "Our focus here is to consider how this form of social writing - a process we have called [[writing with strangers]] - can be extended to take part in a wider democratic process of deliberation - of deciding together."
+      },
+      "after": "7b56f22a4b9ee974",
+      "date": 1570360586419
+    },
+    {
+      "type": "edit",
+      "id": "b15c435c3da56e9f",
+      "item": {
+        "type": "paragraph",
+        "id": "b15c435c3da56e9f",
+        "text": "Our focus here is to consider how this form of social writing (a process we have called [[writing with strangers]]), can be extended to take part in a wider democratic process of deliberation - of deciding together."
+      },
+      "date": 1570360599300
+    },
+    {
+      "type": "add",
+      "id": "421c7a2a97088503",
+      "item": {
+        "type": "paragraph",
+        "id": "421c7a2a97088503",
+        "text": "When considering the future of wiki - that is the future of collaborative writing as motivated by a social rather than purely profit motive - we need to consider a number key aspects of the process: "
+      },
+      "after": "b15c435c3da56e9f",
+      "date": 1570360769964
+    },
+    {
+      "id": "2bbd646ff3f44b51",
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "b15c435c3da56e9f",
+        "2bbd646ff3f44b51",
+        "421c7a2a97088503",
+        "821827c99b90cfd1",
+        "7b29b03c6a8208e1",
+        "f7f09b6026457c87",
+        "a7ff5f0a69a8d29a",
+        "0c3e6b60d3ff79c7",
+        "af3ec051364619c3",
+        "da3e92e9a0a73a7b"
+      ],
+      "date": 1570360772744
+    },
+    {
+      "id": "f7f09b6026457c87",
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "b15c435c3da56e9f",
+        "2bbd646ff3f44b51",
+        "421c7a2a97088503",
+        "f7f09b6026457c87",
+        "821827c99b90cfd1",
+        "7b29b03c6a8208e1",
+        "a7ff5f0a69a8d29a",
+        "0c3e6b60d3ff79c7",
+        "af3ec051364619c3",
+        "da3e92e9a0a73a7b"
+      ],
+      "date": 1570360775552
+    },
+    {
+      "type": "edit",
+      "id": "f7f09b6026457c87",
+      "item": {
+        "type": "markdown",
+        "id": "f7f09b6026457c87",
+        "text": "- [[Inclusive Media]]\n- [[Future Democracy]]"
+      },
+      "date": 1570360929789
+    },
+    {
+      "type": "edit",
+      "id": "da3e92e9a0a73a7b",
+      "item": {
+        "type": "markdown",
+        "id": "da3e92e9a0a73a7b",
+        "text": "# Activity\n\nExplore [[recent changes]] in [[the federation]] over the past few days, by exploring the links below:\n  \n- [[Future Activity]]\n- [[Future Sites]]\n- [[Democracy Activity]]\n- [[Changes to this Site]]\n- [[Federation Activity]]\n- [[Drop in]] to our Fedwiki chat - [https://riot.im/app/#/room/#fedwiki:matrix.org riot.im]"
+      },
+      "date": 1570364425554
+    },
+    {
+      "type": "edit",
+      "id": "0c3e6b60d3ff79c7",
+      "item": {
+        "type": "roster",
+        "id": "0c3e6b60d3ff79c7",
+        "text": "Future Wiki\n\nREFERENCES future.democracy.garden/future-sites"
+      },
+      "date": 1570364864243
+    },
+    {
+      "type": "edit",
+      "id": "da3e92e9a0a73a7b",
+      "item": {
+        "type": "markdown",
+        "id": "da3e92e9a0a73a7b",
+        "text": "# Activity\n\nExplore [[recent changes]] in [[the federation]] over the past few days, by exploring the links below:\n  \n- [[Future Activity]]\n- [[Democracy Activity]]\n- [[Changes to this Site]]\n- [[Federation Activity]]\n- [[Drop in]] to our Fedwiki chat - [https://riot.im/app/#/room/#fedwiki:matrix.org riot.im]"
+      },
+      "date": 1570484775927
+    },
+    {
+      "id": "da3e92e9a0a73a7b",
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "b15c435c3da56e9f",
+        "2bbd646ff3f44b51",
+        "421c7a2a97088503",
+        "f7f09b6026457c87",
+        "821827c99b90cfd1",
+        "7b29b03c6a8208e1",
+        "da3e92e9a0a73a7b",
+        "a7ff5f0a69a8d29a",
+        "0c3e6b60d3ff79c7",
+        "af3ec051364619c3"
+      ],
+      "date": 1570484817412
+    },
+    {
+      "type": "edit",
+      "id": "da3e92e9a0a73a7b",
+      "item": {
+        "type": "markdown",
+        "id": "da3e92e9a0a73a7b",
+        "text": "# Activity\n\nExplore [[recent changes]] in [[the federation]] over the past few days, by exploring the links below:\n  \n- [[Future Activity]]\n- [[Proto Activity]]\n- [[Democracy Activity]]\n- [[Changes to this Site]]\n- [[Federation Activity]]\n- [[Drop in]] to our Fedwiki chat - [https://riot.im/app/#/room/#fedwiki:matrix.org riot.im]"
+      },
+      "date": 1570628947990
+    },
+    {
+      "id": "1f033129150d6fd0",
+      "type": "add",
+      "item": {
+        "type": "roster",
+        "id": "1f033129150d6fd0",
+        "text": "Proto Institute Members\n\nROSTER rest.livecode.world/proto"
+      },
+      "after": "a7ff5f0a69a8d29a",
+      "date": 1570628967330
+    },
+    {
+      "id": "1f033129150d6fd0",
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "b15c435c3da56e9f",
+        "2bbd646ff3f44b51",
+        "421c7a2a97088503",
+        "f7f09b6026457c87",
+        "821827c99b90cfd1",
+        "7b29b03c6a8208e1",
+        "da3e92e9a0a73a7b",
+        "a7ff5f0a69a8d29a",
+        "0c3e6b60d3ff79c7",
+        "af3ec051364619c3",
+        "1f033129150d6fd0"
+      ],
+      "date": 1570628971657
+    },
+    {
+      "type": "edit",
+      "id": "da3e92e9a0a73a7b",
+      "item": {
+        "type": "markdown",
+        "id": "da3e92e9a0a73a7b",
+        "text": "# Activity\n\nExplore [[recent changes]] in [[the federation]] over the past few days, by exploring the links below:\n  \n- [[Future Activity]]\n- [[Proto Activity]]\n- [[Democracy Activity]]\n"
+      },
+      "date": 1570628979497
+    },
+    {
+      "type": "add",
+      "id": "0627a4f03c77279b",
+      "item": {
+        "type": "markdown",
+        "id": "0627a4f03c77279b",
+        "text": "- [[Changes to this Site]]\n- [[Federation Activity]]\n- [[Drop in]] to our Fedwiki chat - [https://riot.im/app/#/room/#fedwiki:matrix.org riot.im]"
+      },
+      "after": "da3e92e9a0a73a7b",
+      "date": 1570628980180
+    },
+    {
+      "type": "edit",
+      "id": "f7f09b6026457c87",
+      "item": {
+        "type": "markdown",
+        "id": "f7f09b6026457c87",
+        "text": "- [[Inclusive Media]]\n- [[Future Democracy]]\n- [[Weapons of mass creation]]"
+      },
+      "date": 1570780830889,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1570780853845
+    },
+    {
+      "type": "edit",
+      "id": "f7f09b6026457c87",
+      "item": {
+        "type": "markdown",
+        "id": "f7f09b6026457c87",
+        "text": "- [[Inclusive Media]]\n- [[Future Democracy]]\n- [[Weapons of Mass Creation]]"
+      },
+      "date": 1570780875799
+    },
+    {
+      "type": "fork",
+      "site": "future.democracy.garden",
+      "date": 1570812235546
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "On this site we document the speakers at the forthcoming [[Democracy Garden]] event in Barcelona. October 25-26 2019.",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1570812327740
+    },
+    {
+      "type": "remove",
+      "id": "b15c435c3da56e9f",
+      "date": 1570812330666
+    },
+    {
+      "type": "edit",
+      "id": "f7f09b6026457c87",
+      "item": {
+        "type": "markdown",
+        "id": "f7f09b6026457c87",
+        "text": "- [[Democracy Garden]]\n- [[Republic of Science]]\n- [[Future Law]]\n- [[Imagine]]\n- [[Weapons of Mass Creation]]"
+      },
+      "date": 1570812390582
+    },
+    {
+      "type": "remove",
+      "id": "821827c99b90cfd1",
+      "date": 1570812393420
+    },
+    {
+      "type": "remove",
+      "id": "7b29b03c6a8208e1",
+      "date": 1570812395902
+    },
+    {
+      "type": "remove",
+      "id": "421c7a2a97088503",
+      "date": 1570812430924
+    },
+    {
+      "type": "edit",
+      "id": "f7f09b6026457c87",
+      "item": {
+        "type": "markdown",
+        "id": "f7f09b6026457c87",
+        "text": "- [[Democracy Garden]]\n- [[Republic of Science]]\n- [[Future Law]]\n- [[Imagine]]\n- [[Weapons of Mass Creation]]\n"
+      },
+      "date": 1570812435465
+    },
+    {
+      "type": "add",
+      "id": "b0dfb21f28c7eddf",
+      "item": {
+        "type": "markdown",
+        "id": "b0dfb21f28c7eddf",
+        "text": "# Speakers\n"
+      },
+      "after": "f7f09b6026457c87",
+      "date": 1570812441159
+    },
+    {
+      "type": "add",
+      "id": "a2fef3cbafc35841",
+      "item": {
+        "type": "markdown",
+        "id": "a2fef3cbafc35841",
+        "text": "- [[Alex Shkor]]\n- [[Henning Dietrich]]\n- [[Jean-Pierre Bekolo]]\n- [[David Bovill]]"
+      },
+      "after": "b0dfb21f28c7eddf",
+      "date": 1570812505902
+    },
+    {
+      "type": "add",
+      "id": "a5b4fcd381046467",
+      "item": {
+        "type": "paragraph",
+        "id": "a5b4fcd381046467",
+        "text": "# Brainding"
+      },
+      "after": "7b56f22a4b9ee974",
+      "date": 1570973437105
+    },
+    {
+      "type": "edit",
+      "id": "a5b4fcd381046467",
+      "item": {
+        "type": "markdown",
+        "id": "a5b4fcd381046467",
+        "text": "# Brainding"
+      },
+      "date": 1570973438528
+    },
+    {
+      "type": "edit",
+      "id": "a5b4fcd381046467",
+      "item": {
+        "type": "markdown",
+        "id": "a5b4fcd381046467",
+        "text": "# Branding\n"
+      },
+      "date": 1570973443534
+    },
+    {
+      "type": "add",
+      "id": "ab3c77514570e91a",
+      "item": {
+        "type": "markdown",
+        "id": "ab3c77514570e91a",
+        "text": "The future (yellow)\nNeeds a helping hand (fade to white)\n-"
+      },
+      "after": "a5b4fcd381046467",
+      "date": 1570973494707
+    },
+    {
+      "type": "edit",
+      "id": "ab3c77514570e91a",
+      "item": {
+        "type": "markdown",
+        "id": "ab3c77514570e91a",
+        "text": "The future (yellow)\nNeeds a helping hand (fade to white)\n---"
+      },
+      "date": 1570973568034
+    },
+    {
+      "type": "edit",
+      "id": "ab3c77514570e91a",
+      "item": {
+        "type": "markdown",
+        "id": "ab3c77514570e91a",
+        "text": "The future (yellow)\nNeeds a helping hand (fade to white)\n---\ndsf"
+      },
+      "date": 1570973584871
+    },
+    {
+      "type": "edit",
+      "id": "ab3c77514570e91a",
+      "item": {
+        "type": "markdown",
+        "id": "ab3c77514570e91a",
+        "text": "The future (yellow)\nNeeds a helping hand (fade to white)\n--\ndsf"
+      },
+      "date": 1570973588866
+    },
+    {
+      "type": "edit",
+      "id": "ab3c77514570e91a",
+      "item": {
+        "type": "markdown",
+        "id": "ab3c77514570e91a",
+        "text": "The future (yellow)\nNeeds a helping hand (fade to white)\n-\ndsf"
+      },
+      "date": 1570973594084
+    },
+    {
+      "type": "edit",
+      "id": "ab3c77514570e91a",
+      "item": {
+        "type": "markdown",
+        "id": "ab3c77514570e91a",
+        "text": "- The future (yellow)\n- Needs a helping hand (fade to white)\n\n- Credits"
+      },
+      "date": 1570973628459
+    },
+    {
+      "type": "edit",
+      "id": "ab3c77514570e91a",
+      "item": {
+        "type": "markdown",
+        "id": "ab3c77514570e91a",
+        "text": "1. The future (yellow)\n1. Needs a helping hand (fade to white)\n1. Credits"
+      },
+      "date": 1570973653268
+    },
+    {
+      "type": "edit",
+      "id": "f7f09b6026457c87",
+      "item": {
+        "type": "markdown",
+        "id": "f7f09b6026457c87",
+        "text": "- [[Democracy Garden]]\n- [[Republic of Science]]\n- [[Future Law]]\n- [[Imagine]]\n"
+      },
+      "date": 1570981016501
+    },
+    {
+      "type": "add",
+      "id": "65ffb244a1e43ffc",
+      "item": {
+        "type": "markdown",
+        "id": "65ffb244a1e43ffc",
+        "text": "More Topics\n"
+      },
+      "after": "f7f09b6026457c87",
+      "date": 1570981023336
+    },
+    {
+      "type": "add",
+      "id": "9a709c8341fec7b3",
+      "item": {
+        "type": "markdown",
+        "id": "9a709c8341fec7b3",
+        "text": "- [[Weapons of Mass Creation]]\n"
+      },
+      "after": "65ffb244a1e43ffc",
+      "date": 1570981025375
+    },
+    {
+      "type": "edit",
+      "id": "65ffb244a1e43ffc",
+      "item": {
+        "type": "markdown",
+        "id": "65ffb244a1e43ffc",
+        "text": "# More Topics\n"
+      },
+      "date": 1570981028240
+    },
+    {
+      "type": "edit",
+      "id": "f7f09b6026457c87",
+      "item": {
+        "type": "markdown",
+        "id": "f7f09b6026457c87",
+        "text": "- [[Democracy Garden]]\n- [[Republic of Science]]\n- [[Republic of Science and Open Innovation]]\n- [[Future Law]]\n- [[Imagine]]\n"
+      },
+      "date": 1570981156610
+    },
+    {
+      "type": "edit",
+      "id": "9a709c8341fec7b3",
+      "item": {
+        "type": "markdown",
+        "id": "9a709c8341fec7b3",
+        "text": "- [[Weapons of Mass Creation]]\n- [[Governance of Science]]\n"
+      },
+      "date": 1570985952498
+    },
+    {
+      "type": "edit",
+      "id": "f7f09b6026457c87",
+      "item": {
+        "type": "markdown",
+        "id": "f7f09b6026457c87",
+        "text": "- [[Democracy Garden]]\n- [[Republic of Science]]\n- [[Inventors on the blockchain]]\n- [[Future Law]]\n- [[Imagine]]\n"
+      },
+      "date": 1571000183403
+    },
+    {
+      "type": "edit",
+      "id": "f7f09b6026457c87",
+      "item": {
+        "type": "markdown",
+        "id": "f7f09b6026457c87",
+        "text": "- [[Democracy Garden]]\n- [[Inventors on the blockchain]]\n- [[Future Law]]\n- [[Imagine]]\n"
+      },
+      "date": 1571000280251
+    },
+    {
+      "type": "edit",
+      "id": "f7f09b6026457c87",
+      "item": {
+        "type": "markdown",
+        "id": "f7f09b6026457c87",
+        "text": "- [[Democracy Garden]]\n- [[Inventors on the blockchain]]\n- [[Digital Republics]]\n- [[Future Law]]\n- [[Imagine]]\n"
+      },
+      "date": 1571000342646
+    },
+    {
+      "type": "edit",
+      "id": "a2fef3cbafc35841",
+      "item": {
+        "type": "markdown",
+        "id": "a2fef3cbafc35841",
+        "text": "- [[Alex Shkor]]\n- [[Henning Dietrich]]\n- [[Jean-Pierre Bekolo]]\n- [[David Bovill]]\n- [[Jordi Baylina]]"
+      },
+      "date": 1571002397388
+    },
+    {
+      "type": "edit",
+      "id": "a2fef3cbafc35841",
+      "item": {
+        "type": "markdown",
+        "id": "a2fef3cbafc35841",
+        "text": "- [[Alex Shkor]]\n- [[Henning Dietrich]]\n- [[Jean-Pierre Bekolo]]\n- [[David Bovill]]\n- [[Jordi Baylina]]\n- [[Toomas Hendrik Ilves]]"
+      },
+      "date": 1571003170116
+    },
+    {
+      "id": "259d0e8c989dc563",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "259d0e8c989dc563",
+        "text": "# Workshop\n\n- [[Jean-Pierre Bekolo]]\n- [[Carlos Yarzo]]\n- [[Collaborative Screenwriting]]\n- [[Legislative Theatre]]\n- [[Reality is the New fiction]]\n- [[Screenwriting]]\n- [[Personas & Character Development]]\n- [[Paper prototyping]]\n- [[Liquid Law]]\n- [[Common Law Algorithm Design]]\n- [[Agile Legal Development]]\n"
+      },
+      "after": "7b56f22a4b9ee974",
+      "date": 1571072008575
+    },
+    {
+      "id": "259d0e8c989dc563",
+      "type": "remove",
+      "date": 1571072030199
+    },
+    {
+      "type": "edit",
+      "id": "f7f09b6026457c87",
+      "item": {
+        "type": "markdown",
+        "id": "f7f09b6026457c87",
+        "text": "- [[Democracy Garden]]\n"
+      },
+      "date": 1571072110627
+    },
+    {
+      "type": "add",
+      "id": "dd3299215af48906",
+      "item": {
+        "type": "markdown",
+        "id": "dd3299215af48906",
+        "text": "- [[Inventors on the blockchain]]\n- [[Digital Republics]]\n- [[Future Law]]\n- [[Imagine]]\n"
+      },
+      "after": "f7f09b6026457c87",
+      "date": 1571072112355
+    },
+    {
+      "type": "edit",
+      "id": "f7f09b6026457c87",
+      "item": {
+        "type": "markdown",
+        "id": "f7f09b6026457c87",
+        "text": "- [[Democracy Garden]]\n- [[Agenda]]\n"
+      },
+      "date": 1571562099545
+    },
+    {
+      "type": "edit",
+      "id": "f7f09b6026457c87",
+      "item": {
+        "type": "markdown",
+        "id": "f7f09b6026457c87",
+        "text": "- [[Democracy Garden]]\n- [[Agenda]]\n- [[Workshops]]\n"
+      },
+      "date": 1571562727282
+    },
+    {
+      "type": "add",
+      "id": "7eecd73c8abb7bd9",
+      "item": {
+        "type": "markdown",
+        "id": "7eecd73c8abb7bd9",
+        "text": "- [[Workshop Template]]\n"
+      },
+      "after": "f7f09b6026457c87",
+      "date": 1571562749135
+    },
+    {
+      "type": "remove",
+      "id": "ab3c77514570e91a",
+      "date": 1571571369361
+    },
+    {
+      "type": "edit",
+      "id": "a5b4fcd381046467",
+      "item": {
+        "type": "markdown",
+        "id": "a5b4fcd381046467",
+        "text": "# Workshops\n"
+      },
+      "date": 1571571373255
+    },
+    {
+      "id": "fa21e60205b0f487",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "fa21e60205b0f487",
+        "text": "- [[Workshop: Age of Consent]]"
+      },
+      "after": "a5b4fcd381046467",
+      "date": 1571571376612
+    },
+    {
+      "id": "d44aefa25c54ed16",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "d44aefa25c54ed16",
+        "text": "- [[Workshop: Future Law]]\n"
+      },
+      "after": "fa21e60205b0f487",
+      "date": 1571571380148
+    },
+    {
+      "id": "d44aefa25c54ed16",
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "a5b4fcd381046467",
+        "d44aefa25c54ed16",
+        "fa21e60205b0f487",
+        "2bbd646ff3f44b51",
+        "f7f09b6026457c87",
+        "7eecd73c8abb7bd9",
+        "dd3299215af48906",
+        "65ffb244a1e43ffc",
+        "9a709c8341fec7b3",
+        "b0dfb21f28c7eddf",
+        "a2fef3cbafc35841",
+        "da3e92e9a0a73a7b",
+        "0627a4f03c77279b",
+        "a7ff5f0a69a8d29a",
+        "0c3e6b60d3ff79c7",
+        "af3ec051364619c3",
+        "1f033129150d6fd0"
+      ],
+      "date": 1571571381826
+    },
+    {
+      "type": "edit",
+      "id": "fa21e60205b0f487",
+      "item": {
+        "type": "markdown",
+        "id": "fa21e60205b0f487",
+        "text": "- [[Workshop: Age of Consent]]\n"
+      },
+      "date": 1571573357990
+    },
+    {
+      "type": "add",
+      "id": "bed652a246c71640",
+      "item": {
+        "type": "markdown",
+        "id": "bed652a246c71640",
+        "text": "- [[Workshop: Republic of Science]]"
+      },
+      "after": "fa21e60205b0f487",
+      "date": 1571573373340
+    },
+    {
+      "type": "edit",
+      "id": "bed652a246c71640",
+      "item": {
+        "type": "markdown",
+        "id": "bed652a246c71640",
+        "text": "- [[Workshop: Republic of Science]]\n"
+      },
+      "date": 1571573382141
+    },
+    {
+      "type": "add",
+      "id": "9e20e51f10e1cf26",
+      "item": {
+        "type": "markdown",
+        "id": "9e20e51f10e1cf26",
+        "text": "- [[Workshop: Digital Republics]]"
+      },
+      "after": "bed652a246c71640",
+      "date": 1571573397107
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "On this site we document the [[Speakers]] at the forthcoming [[Democracy Garden]] event in Barcelona. October 25-26 2019.",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1571762720139
+    },
+    {
+      "type": "remove",
+      "id": "fa21e60205b0f487",
+      "date": 1571772017246
+    },
+    {
+      "type": "edit",
+      "id": "d44aefa25c54ed16",
+      "item": {
+        "type": "markdown",
+        "id": "d44aefa25c54ed16",
+        "text": "- [[Workshop: Future Law]]\n- [[Workshop: Age of Consent]]\n"
+      },
+      "date": 1571772019457
+    },
+    {
+      "type": "remove",
+      "id": "bed652a246c71640",
+      "date": 1571772020619
+    },
+    {
+      "type": "edit",
+      "id": "d44aefa25c54ed16",
+      "item": {
+        "type": "markdown",
+        "id": "d44aefa25c54ed16",
+        "text": "- [[Workshop: Future Law]]\n- [[Workshop: Age of Consent]]\n- [[Workshop: Republic of Science]]\n"
+      },
+      "date": 1571772022560
+    },
+    {
+      "type": "remove",
+      "id": "9e20e51f10e1cf26",
+      "date": 1571772023550
+    },
+    {
+      "type": "edit",
+      "id": "d44aefa25c54ed16",
+      "item": {
+        "type": "markdown",
+        "id": "d44aefa25c54ed16",
+        "text": "- [[Workshop: Future Law]]\n- [[Workshop: Age of Consent]]\n- [[Workshop: Republic of Science]]\n- [[Workshop: Digital Republics]]"
+      },
+      "date": 1571772024969
+    },
+    {
+      "type": "edit",
+      "id": "d44aefa25c54ed16",
+      "item": {
+        "type": "markdown",
+        "id": "d44aefa25c54ed16",
+        "text": "- [[Workshop: Future Law]]\n- [[Workshop: Age of Consent]]\n- [[Workshop: Republic of Science]]\n- [[Workshop: Digital Republics]]\n- [[Workshop: SPACE network]]"
+      },
+      "date": 1571775849806
+    },
+    {
+      "type": "edit",
+      "id": "f7f09b6026457c87",
+      "item": {
+        "type": "markdown",
+        "id": "f7f09b6026457c87",
+        "text": "- [[Resolution]]\n- [[Agenda]]\n- [[Workshops]]\n"
+      },
+      "date": 1571916739020
+    }
+  ]
+}

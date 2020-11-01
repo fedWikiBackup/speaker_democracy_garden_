@@ -1,0 +1,73 @@
+{
+  "title": "Smart contract",
+  "journal": [
+    {
+      "date": 1571609159674,
+      "type": "create",
+      "item": {
+        "story": "",
+        "title": "Smart contract"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1571609345517,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1571609363129
+    }
+  ],
+  "story": [
+    {
+      "type": "markdown",
+      "id": "380ff3d6-4397-4d9b-8f03-005893b3e77b",
+      "text": "A __smart contract__ is a computer protocol intended to digitally facilitate, verify, or enforce the negotiation or performance of a [[contract]]. Smart contracts allow the performance of credible transactions without third parties. These transactions are trackable and irreversible - [https://en.wikipedia.org/wiki/Smart_contract wikipedia]"
+    },
+    {
+      "type": "markdown",
+      "id": "708cd3f4-13c4-4003-b195-676f99be7e34",
+      "text": "Proponents of smart contracts claim that many kinds of contractual clauses may be made partially or fully self-executing, self-enforcing, or both. The aim of smart contracts is to provide security that is superior to traditional contract law and to reduce other [[transaction costs]] associated with contracting. Various [[cryptocurrency]] have implemented types of smart contracts."
+    },
+    {
+      "type": "markdown",
+      "id": "20cac991-e352-4793-867f-20d3c61b6154",
+      "text": "# Sections"
+    },
+    {
+      "type": "html",
+      "id": "44f4cdf9-1cc6-4930-95b9-c96c1c676043",
+      "text": "<form action='https://rest.livecode.world/mediawiki/importSection'><input name=section_title size=60 value='History'>\n<input name=url type=hidden value='https://en.wikipedia.org/w/index.php?title=Smart contract&action=edit&section=1'>\n<input type=submit value=create></form>"
+    },
+    {
+      "type": "html",
+      "id": "9885f7d4-6fbe-4c2f-af08-96798c207f62",
+      "text": "<form action='https://rest.livecode.world/mediawiki/importSection'><input name=section_title size=60 value='Implementations'>\n<input name=url type=hidden value='https://en.wikipedia.org/w/index.php?title=Smart contract&action=edit&section=2'>\n<input type=submit value=create></form>"
+    },
+    {
+      "type": "html",
+      "id": "c3a73af1-527c-4525-b885-751dce4d736e",
+      "text": "<form action='https://rest.livecode.world/mediawiki/importSection'><input name=section_title size=60 value='Replicated titles and contract execution'>\n<input name=url type=hidden value='https://en.wikipedia.org/w/index.php?title=Smart contract&action=edit&section=3'>\n<input type=submit value=create></form>"
+    },
+    {
+      "type": "html",
+      "id": "361c48e6-7b65-41a0-a787-cdc7ccec5034",
+      "text": "<form action='https://rest.livecode.world/mediawiki/importSection'><input name=section_title size=60 value='Security issues'>\n<input name=url type=hidden value='https://en.wikipedia.org/w/index.php?title=Smart contract&action=edit&section=4'>\n<input type=submit value=create></form>"
+    },
+    {
+      "type": "markdown",
+      "id": "29f7fb57-9baa-4db0-9168-39081cfcc4b2",
+      "text": "# See also"
+    },
+    {
+      "type": "markdown",
+      "id": "4ba91b22-9594-43c3-92fa-f34dc1c383a0",
+      "text": "- [[Code and Other Laws of Cyberspace]]\n- [[Secure multiparty computation]]\n- [[Ricardian contract]]"
+    }
+  ]
+}

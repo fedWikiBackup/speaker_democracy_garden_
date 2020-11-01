@@ -1,0 +1,78 @@
+{
+  "title": "The problem with change",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "19d2231c74670112",
+      "text": "Change is always problematic. Change without proper systems to manage that change tends to be violent, and highly disruptive. Let's look at some of these problems, and the implications for the future [[governance of science]]."
+    },
+    {
+      "type": "markdown",
+      "id": "ed8449b5dd0a00a6",
+      "text": "The problem is there is no clear finance, or incentive for anyone to undertake such structural change. Add to this the fact that taking a systemic view of the scientific system crosses several academic disciplines, is complex, and abstract - then not only is it not in anyones interest to recognise the problem, but the problem is not easy to see using current institutional processes.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "9c6af2e0db0630ef",
+      "text": "If the problem is the lack of the ability to sense changes in the environment, and then adapt and evolve to those changes - then we need to put in place systems that meet this function. That is we need to adopt systems that allow better adaptation and evolution of the internal knowledge economy of science [[governance of science]]."
+    },
+    {
+      "type": "markdown",
+      "id": "a6ae39f0f9a0b3a8",
+      "text": "__Next__: [[Governance of Science]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "The problem with change",
+        "story": []
+      },
+      "date": 1570871015279
+    },
+    {
+      "id": "19d2231c74670112",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "19d2231c74670112",
+        "text": "Change is always problematic. Change without proper systems to manage that change tends to be violent, and highly disruptive. Let's look at some of these problems, and the implications for the future [[governance of science]]."
+      },
+      "date": 1570871017906
+    },
+    {
+      "id": "ed8449b5dd0a00a6",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "ed8449b5dd0a00a6",
+        "text": "The problem is there is no clear finance, or incentive for anyone to undertake such structural change. Add to this the fact that taking a systemic view of the scientific system crosses several academic disciplines, is complex, and abstract - then not only is it not in anyones interest to recognise the problem, but the problem is not easy to see using current institutional processes.\n"
+      },
+      "after": "19d2231c74670112",
+      "date": 1570871020394
+    },
+    {
+      "id": "9c6af2e0db0630ef",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "9c6af2e0db0630ef",
+        "text": "If the problem is the lack of the ability to sense changes in the environment, and then adapt and evolve to those changes - then we need to put in place systems that meet this function. That is we need to adopt systems that allow better adaptation and evolution of the internal knowledge economy of science [[governance of science]]."
+      },
+      "after": "ed8449b5dd0a00a6",
+      "date": 1570871023888
+    },
+    {
+      "id": "a6ae39f0f9a0b3a8",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "a6ae39f0f9a0b3a8",
+        "text": "__Next__: [[Governance of Science]]"
+      },
+      "after": "9c6af2e0db0630ef",
+      "date": 1570871033195
+    }
+  ]
+}

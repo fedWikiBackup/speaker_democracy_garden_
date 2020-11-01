@@ -1,0 +1,97 @@
+{
+  "title": "Speakers",
+  "story": [
+    {
+      "text": "On this site we document the [[Speakers]] at the forthcoming [[Democracy Garden]] event in Barcelona. October 25-26 2019.",
+      "id": "7b56f22a4b9ee974",
+      "type": "paragraph"
+    },
+    {
+      "type": "markdown",
+      "id": "a2fef3cbafc35841",
+      "text": "- [[Alex Shkor]]\n- [[Henning Dietrich]]\n- [[Jean-Pierre Bekolo]]\n- [[David Bovill]]\n- [[Jordi Baylina]]\n- [[Toomas Hendrik Ilves]]"
+    },
+    {
+      "type": "markdown",
+      "id": "b0dfb21f28c7eddf",
+      "text": "# See also\n"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Speakers",
+        "story": []
+      },
+      "date": 1571762722946
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c18bb482f9866c63"
+      },
+      "id": "c18bb482f9866c63",
+      "type": "add",
+      "date": 1571762724163
+    },
+    {
+      "id": "7b56f22a4b9ee974",
+      "type": "add",
+      "item": {
+        "text": "On this site we document the [[Speakers]] at the forthcoming [[Democracy Garden]] event in Barcelona. October 25-26 2019.",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1571762728283
+    },
+    {
+      "id": "b0dfb21f28c7eddf",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "b0dfb21f28c7eddf",
+        "text": "# Speakers\n"
+      },
+      "after": "7b56f22a4b9ee974",
+      "date": 1571762733517
+    },
+    {
+      "id": "a2fef3cbafc35841",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "a2fef3cbafc35841",
+        "text": "- [[Alex Shkor]]\n- [[Henning Dietrich]]\n- [[Jean-Pierre Bekolo]]\n- [[David Bovill]]\n- [[Jordi Baylina]]\n- [[Toomas Hendrik Ilves]]"
+      },
+      "after": "b0dfb21f28c7eddf",
+      "date": 1571762736007
+    },
+    {
+      "type": "edit",
+      "id": "b0dfb21f28c7eddf",
+      "item": {
+        "type": "markdown",
+        "id": "b0dfb21f28c7eddf",
+        "text": "# See also\n"
+      },
+      "date": 1571762740699
+    },
+    {
+      "id": "b0dfb21f28c7eddf",
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "a2fef3cbafc35841",
+        "b0dfb21f28c7eddf",
+        "c18bb482f9866c63"
+      ],
+      "date": 1571762742072
+    },
+    {
+      "type": "remove",
+      "id": "c18bb482f9866c63",
+      "date": 1571762744169
+    }
+  ]
+}

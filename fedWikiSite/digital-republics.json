@@ -1,0 +1,101 @@
+{
+  "title": "Digital Republics",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "8693f2fc21111bb3",
+      "text": "Digital Republics: for scientist and the everyone else \n"
+    },
+    {
+      "type": "markdown",
+      "id": "b19a8488be6af833",
+      "text": "# Panel Discussion"
+    },
+    {
+      "type": "markdown",
+      "id": "093c6109e54ce8be",
+      "text": "# See also\n\n- [[Republic of Science]]\n- [[Digital Republic]]\n"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Digital Republics",
+        "story": []
+      },
+      "date": 1571000345867
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8693f2fc21111bb3"
+      },
+      "id": "8693f2fc21111bb3",
+      "type": "add",
+      "date": 1571000347087
+    },
+    {
+      "type": "edit",
+      "id": "8693f2fc21111bb3",
+      "item": {
+        "type": "markdown",
+        "id": "8693f2fc21111bb3",
+        "text": ": for scientist and the everyone else (Panel discussion)"
+      },
+      "date": 1571000353354
+    },
+    {
+      "type": "edit",
+      "id": "8693f2fc21111bb3",
+      "item": {
+        "type": "markdown",
+        "id": "8693f2fc21111bb3",
+        "text": "Digital Republics: for scientist and the everyone else (Panel discussion)"
+      },
+      "date": 1571000358549
+    },
+    {
+      "type": "edit",
+      "id": "8693f2fc21111bb3",
+      "item": {
+        "type": "markdown",
+        "id": "8693f2fc21111bb3",
+        "text": "Digital Republics: for scientist and the everyone else \n"
+      },
+      "date": 1571000368214
+    },
+    {
+      "type": "add",
+      "id": "b19a8488be6af833",
+      "item": {
+        "type": "markdown",
+        "id": "b19a8488be6af833",
+        "text": "# Panel Discussion"
+      },
+      "after": "8693f2fc21111bb3",
+      "date": 1571000374482
+    },
+    {
+      "id": "093c6109e54ce8be",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "093c6109e54ce8be",
+        "text": "# See also\n\n- [[Republic of Science]]\n"
+      },
+      "after": "b19a8488be6af833",
+      "date": 1571000389483
+    },
+    {
+      "type": "edit",
+      "id": "093c6109e54ce8be",
+      "item": {
+        "type": "markdown",
+        "id": "093c6109e54ce8be",
+        "text": "# See also\n\n- [[Republic of Science]]\n- [[Digital Republic]]\n"
+      },
+      "date": 1571761837053
+    }
+  ]
+}

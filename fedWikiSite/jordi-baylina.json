@@ -1,0 +1,236 @@
+{
+  "title": "Jordi Baylina",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "b343258d-e86a-412c-b1a5-49afb7aac747",
+      "text": "Jordi Baylina of Giveth presented blockchain backed liquid democracy and identity systems, and how these could be adapted for use in modern day society."
+    },
+    {
+      "type": "video",
+      "id": "84b30fdb-83e7-4ba2-a598-67e9ff0ea32d",
+      "text": "YOUTUBE tW0iexgSEb4\n[[Liquid democracy]] on the blockchain]] - [[Jordi Baylina]] / [[Giveth]]. Broadcast on 15 Oct 2018."
+    },
+    {
+      "type": "markdown",
+      "id": "8b0f4c5e64e5e145",
+      "text": "# See also\n- [[iden3]]\n"
+    },
+    {
+      "type": "markdown",
+      "id": "120089fae8de31ec",
+      "text": "# References\n"
+    },
+    {
+      "type": "markdown",
+      "id": "e8cb0763d1b02796",
+      "text": "- https://twitter.com/jbaylina?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor\n- https://www.linkedin.com/in/jbaylina/?originalSubdomain=ch\n- https://github.com/jbaylina\n- https://medium.com/@jbaylina\n"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Jordi Baylina",
+        "story": []
+      },
+      "date": 1571002412649
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "120089fae8de31ec"
+      },
+      "id": "120089fae8de31ec",
+      "type": "add",
+      "date": 1571002414161
+    },
+    {
+      "type": "edit",
+      "id": "120089fae8de31ec",
+      "item": {
+        "type": "markdown",
+        "id": "120089fae8de31ec",
+        "text": "- https://twitter.com/jbaylina?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+      },
+      "date": 1571002420534
+    },
+    {
+      "type": "edit",
+      "id": "120089fae8de31ec",
+      "item": {
+        "type": "markdown",
+        "id": "120089fae8de31ec",
+        "text": "- https://twitter.com/jbaylina?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor\n- https://www.linkedin.com/in/jbaylina/?originalSubdomain=ch"
+      },
+      "date": 1571002434254
+    },
+    {
+      "type": "edit",
+      "id": "120089fae8de31ec",
+      "item": {
+        "type": "markdown",
+        "id": "120089fae8de31ec",
+        "text": "- https://twitter.com/jbaylina?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor\n- https://www.linkedin.com/in/jbaylina/?originalSubdomain=ch\n- https://github.com/jbaylina"
+      },
+      "date": 1571002445471
+    },
+    {
+      "type": "edit",
+      "id": "120089fae8de31ec",
+      "item": {
+        "type": "markdown",
+        "id": "120089fae8de31ec",
+        "text": "- https://twitter.com/jbaylina?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor\n- https://www.linkedin.com/in/jbaylina/?originalSubdomain=ch\n- https://github.com/jbaylina\n- https://medium.com/@jbaylina"
+      },
+      "date": 1571002456892
+    },
+    {
+      "type": "edit",
+      "id": "120089fae8de31ec",
+      "item": {
+        "type": "markdown",
+        "id": "120089fae8de31ec",
+        "text": "- https://twitter.com/jbaylina?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor\n- https://www.linkedin.com/in/jbaylina/?originalSubdomain=ch\n- https://github.com/jbaylina\n- https://medium.com/@jbaylina\n- https://iden3.io"
+      },
+      "date": 1571002472047
+    },
+    {
+      "id": "b343258d-e86a-412c-b1a5-49afb7aac747",
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "b343258d-e86a-412c-b1a5-49afb7aac747",
+        "text": "Jordi Baylina of Giveth presented blockchain backed liquid democracy and identity systems, and how these could be adapted for use in modern day society."
+      },
+      "date": 1571002495064
+    },
+    {
+      "id": "84b30fdb-83e7-4ba2-a598-67e9ff0ea32d",
+      "type": "add",
+      "item": {
+        "type": "video",
+        "id": "84b30fdb-83e7-4ba2-a598-67e9ff0ea32d",
+        "text": "YOUTUBE tW0iexgSEb4\n[['Liquid democracy on the blockchainn' - Jordi Baylina / Giveth]]. Broadcast on 15 Oct 2018."
+      },
+      "after": "b343258d-e86a-412c-b1a5-49afb7aac747",
+      "date": 1571002498752
+    },
+    {
+      "type": "edit",
+      "id": "84b30fdb-83e7-4ba2-a598-67e9ff0ea32d",
+      "item": {
+        "type": "video",
+        "id": "84b30fdb-83e7-4ba2-a598-67e9ff0ea32d",
+        "text": "YOUTUBE tW0iexgSEb4\n[Liquid democracy]] on the blockchain]] - [[Jordi Baylina]] / [[Giveth]]. Broadcast on 15 Oct 2018."
+      },
+      "date": 1571002546295
+    },
+    {
+      "type": "edit",
+      "id": "84b30fdb-83e7-4ba2-a598-67e9ff0ea32d",
+      "item": {
+        "type": "video",
+        "id": "84b30fdb-83e7-4ba2-a598-67e9ff0ea32d",
+        "text": "YOUTUBE tW0iexgSEb4\n[[Liquid democracy]] on the blockchain]] - [[Jordi Baylina]] / [[Giveth]]. Broadcast on 15 Oct 2018."
+      },
+      "date": 1571002553058
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "338d0572dcfff1fa"
+      },
+      "id": "338d0572dcfff1fa",
+      "type": "add",
+      "after": "120089fae8de31ec",
+      "date": 1571002613564
+    },
+    {
+      "type": "edit",
+      "id": "338d0572dcfff1fa",
+      "item": {
+        "type": "markdown",
+        "id": "338d0572dcfff1fa",
+        "text": "Privacy by design\nProve things about yourself while safeguarding your privacy\nProve you are eligible to vote, without revealing who you are.\n\nPay your taxes, without revealing how much you earn.\n\nProve to someone that you are a member of a political party, while preventing that someone from sharing that information with others.\n\nThese are all things that are possible with zero-knowledge proofs -- a key part of our technology (and modern cryptography in general).\n\nNote that at iden3, we use a specific type of zero-knowledge proof known as a zk-SNARK.\n\nYou can think of a zk-SNARK as an efficient way to produce a zero-knowledge proof. Zk-SNARKs allow us to generate proofs that are short enough to publish to a blockchain. Which means they can read later by anyone who wishes to verify them."
+      },
+      "date": 1571002617582
+    },
+    {
+      "type": "edit",
+      "id": "120089fae8de31ec",
+      "item": {
+        "type": "markdown",
+        "id": "120089fae8de31ec",
+        "text": "# References\n"
+      },
+      "date": 1571002628820
+    },
+    {
+      "type": "add",
+      "id": "e8cb0763d1b02796",
+      "item": {
+        "type": "markdown",
+        "id": "e8cb0763d1b02796",
+        "text": "- https://twitter.com/jbaylina?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor\n- https://www.linkedin.com/in/jbaylina/?originalSubdomain=ch\n- https://github.com/jbaylina\n- https://medium.com/@jbaylina\n"
+      },
+      "after": "120089fae8de31ec",
+      "date": 1571002631211
+    },
+    {
+      "type": "add",
+      "id": "8b0f4c5e64e5e145",
+      "item": {
+        "type": "markdown",
+        "id": "8b0f4c5e64e5e145",
+        "text": "- [[iden3]]\n"
+      },
+      "after": "e8cb0763d1b02796",
+      "date": 1571002645879
+    },
+    {
+      "type": "add",
+      "id": "2bcd816449c7ac4f",
+      "item": {
+        "type": "markdown",
+        "id": "2bcd816449c7ac4f",
+        "text": "- https://iden3.io"
+      },
+      "after": "8b0f4c5e64e5e145",
+      "date": 1571002648869
+    },
+    {
+      "id": "338d0572dcfff1fa",
+      "type": "remove",
+      "date": 1571002766388
+    },
+    {
+      "id": "8b0f4c5e64e5e145",
+      "type": "move",
+      "order": [
+        "b343258d-e86a-412c-b1a5-49afb7aac747",
+        "84b30fdb-83e7-4ba2-a598-67e9ff0ea32d",
+        "8b0f4c5e64e5e145",
+        "120089fae8de31ec",
+        "e8cb0763d1b02796",
+        "2bcd816449c7ac4f"
+      ],
+      "date": 1571002861540
+    },
+    {
+      "type": "edit",
+      "id": "8b0f4c5e64e5e145",
+      "item": {
+        "type": "markdown",
+        "id": "8b0f4c5e64e5e145",
+        "text": "# See also\n- [[iden3]]\n"
+      },
+      "date": 1571002867087
+    },
+    {
+      "id": "2bcd816449c7ac4f",
+      "type": "remove",
+      "date": 1571002871428
+    }
+  ]
+}

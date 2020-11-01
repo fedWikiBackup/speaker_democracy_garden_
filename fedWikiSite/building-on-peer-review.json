@@ -1,0 +1,92 @@
+{
+  "title": "Building on peer review",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "f09fc08cfc09aea8",
+      "text": "Our most natural answer to where we may find these foundations is to build on [[peer review]]. However we need to take the principles of peer review seriously.  \n"
+    },
+    {
+      "type": "markdown",
+      "id": "ad891aca41103cac",
+      "text": "Historically, peer review preceeds science. It was taken (and adapted slightly), by [[Robert Boyle]] and others from the concept of witness evidence in the [[legal system]]. It therefore is not tied to a specific economic model. It is surely independent from the print-based publishing industry. We have moved on. Given modern communications technology we can both expect and demand to improve on such medieval structures.\n\n"
+    },
+    {
+      "type": "markdown",
+      "id": "644c7de609296b6f",
+      "text": "__Next__: [[So why are we so stuck?]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Building on peer review",
+        "story": []
+      },
+      "date": 1570822055361
+    },
+    {
+      "id": "f09fc08cfc09aea8",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "f09fc08cfc09aea8",
+        "text": "Our most natural answer to where we may find these foundations is to build on [[peer review]]. However we need to take the principles of peer review seriously.  \n"
+      },
+      "date": 1570822059158
+    },
+    {
+      "id": "ad891aca41103cac",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "ad891aca41103cac",
+        "text": "Historically, peer review preceeds science. It was taken (and adapted slightly), by [[Robert Boyle]] and others from the concept of witness evidence in the [[legal system]]. It therefore is not tied to a specific economic model. It is surely independent from the print-based publishing industry. We have moved on. Given modern communications technology we can both expect and demand to improve on such medieval structures.\n"
+      },
+      "after": "f09fc08cfc09aea8",
+      "date": 1570822061924
+    },
+    {
+      "type": "edit",
+      "id": "ad891aca41103cac",
+      "item": {
+        "type": "markdown",
+        "id": "ad891aca41103cac",
+        "text": "Historically, peer review preceeds science. It was taken (and adapted slightly), by [[Robert Boyle]] and others from the concept of witness evidence in the [[legal system]]. It therefore is not tied to a specific economic model. It is surely independent from the print-based publishing industry. We have moved on. Given modern communications technology we can both expect and demand to improve on such medieval structures.\n\n"
+      },
+      "date": 1570824016455
+    },
+    {
+      "type": "add",
+      "id": "644c7de609296b6f",
+      "item": {
+        "type": "markdown",
+        "id": "644c7de609296b6f",
+        "text": "__Next__: [[Building on peer review]]"
+      },
+      "after": "ad891aca41103cac",
+      "date": 1570824019629
+    },
+    {
+      "type": "edit",
+      "id": "644c7de609296b6f",
+      "item": {
+        "type": "markdown",
+        "id": "644c7de609296b6f",
+        "text": "__Next__: [[So why are we stuck?]]"
+      },
+      "date": 1570824027969
+    },
+    {
+      "type": "edit",
+      "id": "644c7de609296b6f",
+      "item": {
+        "type": "markdown",
+        "id": "644c7de609296b6f",
+        "text": "__Next__: [[So why are we so stuck?]]"
+      },
+      "date": 1570824063462
+    }
+  ]
+}

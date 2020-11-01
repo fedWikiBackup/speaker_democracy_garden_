@@ -1,0 +1,54 @@
+{
+  "title": "Gephi",
+  "journal": [
+    {
+      "date": 1571838652668,
+      "type": "create",
+      "item": {
+        "story": "",
+        "title": "Gephi"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1571838848648
+    }
+  ],
+  "story": [
+    {
+      "type": "markdown",
+      "id": "cbf40682-ca74-42ca-bb17-a9a4bc49cb8e",
+      "text": "# Sections - [https://en.wikipedia.org/wiki/Gephi wikipedia]"
+    },
+    {
+      "type": "html",
+      "id": "cb42c7ea-7896-4325-b0b9-914d0770f3ce",
+      "text": "<div style='padding: 12px; background:#eee; width:96%; align=centered;'>\n<a href='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Social_Network_Analysis_Visualization.png/420px-Social_Network_Analysis_Visualization.png' target='_blank'>\n<img style='display:block; margin:auto; width:100%;'\nsrc='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Social_Network_Analysis_Visualization.png/420px-Social_Network_Analysis_Visualization.png'>\n</a>\n\n<p class=caption>\nvisualization]] software package written in Java on the [[NetBeans\n- [https://commons.wikimedia.org/wiki/File:Social_Network_Analysis_Visualization.png wikimedia]\n</p></div>"
+    },
+    {
+      "type": "html",
+      "id": "80fae517-419a-435d-b44d-b4ea6dd3f063",
+      "text": "<div style='padding: 12px; background:#eee; width:96%; align=centered;'>\n<a href='https://upload.wikimedia.org/wikipedia/commons/6/6d/Gephi_0.9.1_Network_Analysis_and_Visualization_Software.png' target='_blank'>\n<img style='display:block; margin:auto; width:100%;'\nsrc='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Gephi_0.9.1_Network_Analysis_and_Visualization_Software.png/320px-Gephi_0.9.1_Network_Analysis_and_Visualization_Software.png'>\n</a>\n\n<p class=caption>\nGephi. network analysis and visualization software package\n- [https://upload.wikimedia.org/wikipedia/commons/6/6d/Gephi_0.9.1_Network_Analysis_and_Visualization_Software.png wikimedia]\n</p></div>"
+    },
+    {
+      "type": "html",
+      "id": "b87081f6-8fd2-46f2-b1bf-003717909d5a",
+      "text": "<form action='https://rest.livecode.world/mediawiki/importSection'><input name=section_title size=60 value='History'>\n<input name=url type=hidden value='https://en.wikipedia.org/w/index.php?title=Gephi&action=edit&section=1'>\n<input type=submit value=create></form>"
+    },
+    {
+      "type": "html",
+      "id": "802f31ce-aae8-4b40-a39a-2dc26669e257",
+      "text": "<form action='https://rest.livecode.world/mediawiki/importSection'><input name=section_title size=60 value='Applications'>\n<input name=url type=hidden value='https://en.wikipedia.org/w/index.php?title=Gephi&action=edit&section=2'>\n<input type=submit value=create></form>"
+    },
+    {
+      "type": "markdown",
+      "id": "543a8e28-c5e5-4c68-b58b-c7e4a1cbe41f",
+      "text": "# See also"
+    },
+    {
+      "type": "markdown",
+      "id": "bd0e3611-e065-4b08-ae3b-67cfb3ab0887",
+      "text": "- [[Graph (discrete mathematics)]]\n- [[Graph drawing]]\n- [[Graph theory]]\n- [[Graph (data structure)]]\n- [[Social network analysis software]]"
+    }
+  ]
+}

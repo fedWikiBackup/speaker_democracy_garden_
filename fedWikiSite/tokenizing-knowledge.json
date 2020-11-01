@@ -1,0 +1,220 @@
+{
+  "title": "Tokenizing Knowledge",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "8543585d33090f9c",
+      "text": "We begin with a consideration of what we are trying to both measure and incentivise, and that is:\n> [[knowledge creation]] for the [[common good]].\n"
+    },
+    {
+      "type": "markdown",
+      "id": "0f2da145f1219ddf",
+      "text": "Having established this principle, we must ask [[how we measure]] such a [[quality]] - that is how we might break up the act of knowledge creation into measurable chunks. This is what we mean by __knowledge tokenisation__.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "6df6094e2fac6b33",
+      "text": "There are of course many answers to such a question, and we cannot expect to build a perfect system first time trying. Just as our current system of peer review is far from perfect there will always be faults, flaws, bugs and room for improvement in our social structures. \n"
+    },
+    {
+      "type": "markdown",
+      "id": "80b2c787e4d1a664",
+      "text": "__Next__: Instead we need to ask: [[Is it good enough?]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Tokenizing Knowledge",
+        "story": []
+      },
+      "date": 1570821906714
+    },
+    {
+      "id": "8543585d33090f9c",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "8543585d33090f9c",
+        "text": "We begin with a consideration of what we are trying to both measure and incentivise, and that is [[knowledge creation]] for the [[common good]].\n"
+      },
+      "date": 1570821910463
+    },
+    {
+      "id": "0f2da145f1219ddf",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "0f2da145f1219ddf",
+        "text": "Having established this principle, we must ask how we measure such a quality, that is how we [[tokenize knowledge]]?\n"
+      },
+      "after": "8543585d33090f9c",
+      "date": 1570821913920
+    },
+    {
+      "id": "6df6094e2fac6b33",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "6df6094e2fac6b33",
+        "text": "There are of course many answers to such a question, and we cannot expect to build a perfect system first time trying. Just as our current system of peer review is far from perfect there will always be faults, flaws, bugs and room for improvement in our social structures. \n"
+      },
+      "after": "0f2da145f1219ddf",
+      "date": 1570821917150
+    },
+    {
+      "id": "1e1d26f60c81f2c5",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "1e1d26f60c81f2c5",
+        "text": "The question then becomes not \"[[Is it good?]]\" but \"Is the process good?\". That is we care more about the following:\n\n1. Make a solid start. [[Is it good enough?]]\n1. [[Will it improve over time?]]\n"
+      },
+      "after": "6df6094e2fac6b33",
+      "date": 1570821922277
+    },
+    {
+      "id": "0726246a844f41a3",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "0726246a844f41a3",
+        "text": "Of which the second question is both the most important, the hardest to answer, and the question most regularly ignored until it is too late. In this singular aspect you find the failure of your [[utopia]] of choice."
+      },
+      "after": "1e1d26f60c81f2c5",
+      "date": 1570821925341
+    },
+    {
+      "id": "1e1d26f60c81f2c5",
+      "type": "remove",
+      "date": 1570821936974
+    },
+    {
+      "id": "0726246a844f41a3",
+      "type": "remove",
+      "date": 1570821939298
+    },
+    {
+      "type": "edit",
+      "id": "8543585d33090f9c",
+      "item": {
+        "type": "markdown",
+        "id": "8543585d33090f9c",
+        "text": "We begin with a consideration of what we are trying to both measure and incentivise, and that is:\n> [[knowledge creation]] for the [[common good]].\n"
+      },
+      "date": 1570823113924
+    },
+    {
+      "type": "edit",
+      "id": "0f2da145f1219ddf",
+      "item": {
+        "type": "markdown",
+        "id": "0f2da145f1219ddf",
+        "text": "Having established this principle, we must ask how we measure such a quality - that is (in this context), how we [[tokenize knowledge]]?\n"
+      },
+      "date": 1570823141206
+    },
+    {
+      "type": "edit",
+      "id": "0f2da145f1219ddf",
+      "item": {
+        "type": "markdown",
+        "id": "0f2da145f1219ddf",
+        "text": "Having established this principle, we must ask how we measure such a quality - that is (in this context), how we might [[tokenize knowledge]]?\n"
+      },
+      "date": 1570823156417
+    },
+    {
+      "type": "edit",
+      "id": "0f2da145f1219ddf",
+      "item": {
+        "type": "markdown",
+        "id": "0f2da145f1219ddf",
+        "text": "Having established this principle, we must ask how we measure such a quality - that is how we might break up the act of knowledge creation into measurable chunks - or in other words how we might[[tokenize knowledge]]?\n"
+      },
+      "date": 1570823225469
+    },
+    {
+      "type": "edit",
+      "id": "0f2da145f1219ddf",
+      "item": {
+        "type": "markdown",
+        "id": "0f2da145f1219ddf",
+        "text": "Having established this principle, we must ask [[how we measure]] such a quality - that is how we might break up the act of knowledge creation into measurable chunks - or in other words how we might[[tokenize knowledge]]?\n"
+      },
+      "date": 1570823252808
+    },
+    {
+      "type": "edit",
+      "id": "0f2da145f1219ddf",
+      "item": {
+        "type": "markdown",
+        "id": "0f2da145f1219ddf",
+        "text": "Having established this principle, we must ask [[how we measure]] such a [[quality]] - that is how we might break up the act of knowledge creation into measurable chunks - or in other words how we might[[tokenize knowledge]]?\n"
+      },
+      "date": 1570823268643
+    },
+    {
+      "type": "edit",
+      "id": "0f2da145f1219ddf",
+      "item": {
+        "type": "markdown",
+        "id": "0f2da145f1219ddf",
+        "text": "Having established this principle, we must ask [[how we measure]] such a [[quality]] - that is how we might break up the act of knowledge creation into measurable chunks. This is what we mean by \"knowledge tokenisation\".\n"
+      },
+      "date": 1570823325578
+    },
+    {
+      "type": "edit",
+      "id": "0f2da145f1219ddf",
+      "item": {
+        "type": "markdown",
+        "id": "0f2da145f1219ddf",
+        "text": "Having established this principle, we must ask [[how we measure]] such a [[quality]] - that is how we might break up the act of knowledge creation into measurable chunks. This is what we mean by __knowledge tokenisation__.\n"
+      },
+      "date": 1570823341309
+    },
+    {
+      "type": "add",
+      "id": "80b2c787e4d1a664",
+      "item": {
+        "type": "markdown",
+        "id": "80b2c787e4d1a664",
+        "text": "Instead we need to ask: [[is it good enough?]]"
+      },
+      "after": "6df6094e2fac6b33",
+      "date": 1570823399679
+    },
+    {
+      "type": "edit",
+      "id": "80b2c787e4d1a664",
+      "item": {
+        "type": "markdown",
+        "id": "80b2c787e4d1a664",
+        "text": "Instead we need to ask: [[Is it good enough?]]"
+      },
+      "date": 1570823406241
+    },
+    {
+      "type": "edit",
+      "id": "80b2c787e4d1a664",
+      "item": {
+        "type": "markdown",
+        "id": "80b2c787e4d1a664",
+        "text": "Next: Instead we need to ask: [[Is it good enough?]]"
+      },
+      "date": 1570823420584
+    },
+    {
+      "type": "edit",
+      "id": "80b2c787e4d1a664",
+      "item": {
+        "type": "markdown",
+        "id": "80b2c787e4d1a664",
+        "text": "__Next__: Instead we need to ask: [[Is it good enough?]]"
+      },
+      "date": 1570823427438
+    }
+  ]
+}

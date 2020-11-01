@@ -1,0 +1,355 @@
+{
+  "title": "Toomas Hendrik Ilves",
+  "journal": [
+    {
+      "date": 1571003572896,
+      "type": "create",
+      "item": {
+        "story": "",
+        "title": "Toomas Hendrik Ilves"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1571003752823
+    },
+    {
+      "type": "edit",
+      "id": "c92765a3-d88c-4f39-933a-f9648ea2ced4",
+      "item": {
+        "type": "markdown",
+        "id": "c92765a3-d88c-4f39-933a-f9648ea2ced4",
+        "text": "__Toomas Hendrik Ilves__ (; born 26 December 1953) is an [[Estonians]] politician who served as the [[List of Presidents of Estonia]] of [[Estonia]] from 2006 until 2016. Ilves worked as a [[diplomat]] and [[journalist]], and he was the leader of the [[Social Democratic Party (Estonia)]] in the 1990s. \n"
+      },
+      "date": 1571003763924
+    },
+    {
+      "type": "add",
+      "id": "8aba5d1ef241ac7e",
+      "item": {
+        "type": "markdown",
+        "id": "8aba5d1ef241ac7e",
+        "text": "He served in the government as Minister of Foreign Affairs from 1996 to 1998 and again from 1999 to 2002. Later, he was a [[Member of the European Parliament]] from 2004 to 2006. He was elected as President of Estonia by an electoral college on 23 September 2006 and his term as President began on 9 October 2006. He was reelected by Parliament in 2011 - [https://en.wikipedia.org/wiki/Toomas_Hendrik_Ilves wikipedia]"
+      },
+      "after": "c92765a3-d88c-4f39-933a-f9648ea2ced4",
+      "date": 1571003767028
+    },
+    {
+      "id": "8aba5d1ef241ac7e",
+      "type": "move",
+      "order": [
+        "c92765a3-d88c-4f39-933a-f9648ea2ced4",
+        "a4257bb3-6d99-4b38-9cee-254ffd1d70c4",
+        "8aba5d1ef241ac7e",
+        "408938cd-94d5-450e-a71d-fc26e5c5f3ad",
+        "aef1b2d1-5762-46b9-a2eb-ecafd69791d3",
+        "af30ff19-af6d-47ef-80d7-5d0aa752d35d",
+        "355f8ea4-85fb-454f-ba26-7d0bd9353d63",
+        "745f2f64-a7b7-4a84-8f7a-98bf988ae2fa",
+        "0828471b-ae26-459f-90b1-704cbd79c5e9",
+        "054016ca-3613-4b5c-b6a4-87a8401ccdc6"
+      ],
+      "date": 1571003771646
+    },
+    {
+      "id": "82f944b5-156f-4e15-a34a-8a0ef003ec2f",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "82f944b5-156f-4e15-a34a-8a0ef003ec2f",
+        "text": "# Career"
+      },
+      "after": "8aba5d1ef241ac7e",
+      "date": 1571003788231
+    },
+    {
+      "id": "98f4c2a0-d4e3-4747-8e5a-0276eb1c94db",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "98f4c2a0-d4e3-4747-8e5a-0276eb1c94db",
+        "text": "Ilves worked as a research assistant in Columbia University Department of Psychology from 1974 to 1979. From 1979 to 1981 he served as assistant director and English teacher at the Open Education Center in [[Englewood, New Jersey]]. Ilves then moved to [[Vancouver, British Columbia]], Canada; from 1981 to 1983 he was director and administrator of arts in [[Vancouver Arts Centre]] and from 1983 to 1984 he taught Estonian literature and linguistics in [[Simon Fraser University]] - [https://en.wikipedia.org/wiki/Toomas_Hendrik_Ilves#Career wikipedia]"
+      },
+      "after": "82f944b5-156f-4e15-a34a-8a0ef003ec2f",
+      "date": 1571003800909
+    },
+    {
+      "id": "95a5c488-4e0b-4f9b-92e1-a0852402edbf",
+      "type": "add",
+      "item": {
+        "type": "html",
+        "id": "95a5c488-4e0b-4f9b-92e1-a0852402edbf",
+        "text": "<div style='padding: 12px; background:#eee; width:96%; align=centered;'>\n<a href='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ilves_01.jpg/420px-Ilves_01.jpg' target='_blank'>\n<img style='display:block; margin:auto; width:100%;'\nsrc='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ilves_01.jpg/420px-Ilves_01.jpg'>\n</a>\n\n<p class=caption>\nMSC]] 2016\n- [https://commons.wikimedia.org/wiki/File:Ilves_01.jpg wikimedia]\n</p></div>"
+      },
+      "after": "98f4c2a0-d4e3-4747-8e5a-0276eb1c94db",
+      "date": 1571003821797
+    },
+    {
+      "id": "dd822267-6ffe-42a8-b14a-9f4ecd12a8e4",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "dd822267-6ffe-42a8-b14a-9f4ecd12a8e4",
+        "text": "From 1984 to 1993, Ilves worked in [[Munich]], Germany as a journalist for [[Radio Free Europe]], being the head of its Estonian desk since 1988. As Estonia had restored its independence in 1991, Ilves became Ambassador of Estonia to the United States in 1993, also serving as Ambassador to Canada and Mexico at the same time."
+      },
+      "after": "95a5c488-4e0b-4f9b-92e1-a0852402edbf",
+      "date": 1571003836104
+    },
+    {
+      "id": "172edfe8-78e6-479d-ac64-be6ff2fdbebd",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "172edfe8-78e6-479d-ac64-be6ff2fdbebd",
+        "text": "In December 1996, Ilves became [[Estonian Minister of Foreign Affairs]], serving until he resigned in September 1998, when he became a member of a small opposition party (Peasants' Party, agrarian-conservative). Ilves was soon elected chairman of the People's Party (reformed Peasants' Party), which formed an electoral cartel with the [[Estonian Social Democratic Party#1989–today]], a centrist party. After the [[1999 Estonian parliamentary election]] he became foreign minister again, serving until 2002, when the so-called Triple Alliance collapsed. He supported Estonian membership in the [[European Union]] and succeeded in starting the negotiations which led to Estonia joining the European Union on 1 May 2004. From 2001 to 2002 he was the leader of the People's Party Moderates. He resigned from the position after the party's defeat in the October 2002 municipal elections, in which the party received only 4.4% of the total votes nationwide. In early 2004, the Moderates party renamed itself the [[Estonian Social Democratic Party]]."
+      },
+      "after": "dd822267-6ffe-42a8-b14a-9f4ecd12a8e4",
+      "date": 1571003842934
+    },
+    {
+      "type": "edit",
+      "id": "172edfe8-78e6-479d-ac64-be6ff2fdbebd",
+      "item": {
+        "type": "markdown",
+        "id": "172edfe8-78e6-479d-ac64-be6ff2fdbebd",
+        "text": "In December 1996, Ilves became [[Estonian Minister of Foreign Affairs]], serving until he resigned in September 1998, when he became a member of a small opposition party (Peasants' Party, agrarian-conservative). Ilves was soon elected chairman of the People's Party (reformed Peasants' Party), which formed an electoral cartel with the [[Estonian Social Democratic Party#1989–today]], a centrist party. \n"
+      },
+      "date": 1571003863547
+    },
+    {
+      "type": "add",
+      "id": "0954e81d69170ed7",
+      "item": {
+        "type": "markdown",
+        "id": "0954e81d69170ed7",
+        "text": "After the [[1999 Estonian parliamentary election]] he became foreign minister again, serving until 2002, when the so-called Triple Alliance collapsed. He supported Estonian membership in the [[European Union]] and succeeded in starting the negotiations which led to Estonia joining the European Union on 1 May 2004. From 2001 to 2002 he was the leader of the People's Party Moderates. \n"
+      },
+      "after": "172edfe8-78e6-479d-ac64-be6ff2fdbebd",
+      "date": 1571003867868
+    },
+    {
+      "type": "add",
+      "id": "fc244650bdda9898",
+      "item": {
+        "type": "markdown",
+        "id": "fc244650bdda9898",
+        "text": "He resigned from the position after the party's defeat in the October 2002 municipal elections, in which the party received only 4.4% of the total votes nationwide. In early 2004, the Moderates party renamed itself the [[Estonian Social Democratic Party]]."
+      },
+      "after": "0954e81d69170ed7",
+      "date": 1571003869685
+    },
+    {
+      "id": "2b6028bd-59b0-4ef5-9ad7-1436ba2ca3f9",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "2b6028bd-59b0-4ef5-9ad7-1436ba2ca3f9",
+        "text": "In 2003, Ilves became an observer member of the [[European Parliament]] and, on 1 May 2004, a full member. In the 2004 elections to the European Parliament, Ilves was elected [[Member of the European Parliament]] in a landslide victory for the Estonian Social Democratic Party. He sat with the [[Party of European Socialists]] group in the Parliament. [[Katrin Saks]] took over his MEP seat when Ilves became President of Estonia in 2006. In 2011, he was re-elected for a second five-year term."
+      },
+      "after": "fc244650bdda9898",
+      "date": 1571003886857
+    },
+    {
+      "id": "e8a58330-53ed-43ad-8dac-241d352ba792",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "e8a58330-53ed-43ad-8dac-241d352ba792",
+        "text": "In 2013, it was announced that Ilves had accepted a position on the Council on CyberSecurity's Advisory Board. In 2015, it was announced that Ilves had agreed to join the group of advisers to the World Bank president [[Jim Yong Kim]]."
+      },
+      "after": "2b6028bd-59b0-4ef5-9ad7-1436ba2ca3f9",
+      "date": 1571003889938
+    },
+    {
+      "id": "6236bef4-c719-44b4-b7df-a7f97bb885a0",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "6236bef4-c719-44b4-b7df-a7f97bb885a0",
+        "text": "During his presidency, Ilves has been appointed to serve in several high positions in the field of ICT in the European Union. He served as chairman of the EU Task Force on eHealth from 2011 to 2012 and was chairman of the European Cloud Partnership Steering Board at the invitation of the [[European Commission]] from 2012 to 2014. In 2013 he chaired the High-Level Panel on Global Internet Cooperation and Governance Mechanisms convened by [[ICANN]]. From 2014 to 2015 Ilves was the co-chair of the advisory panel of the [[World Bank]]'s [[World Development Report]] 2016 \"Digital Dividends\" and was also the chair of [[World Economic Forum]]'s Global Agenda Council on Cyber Security beginning in June 2014."
+      },
+      "after": "e8a58330-53ed-43ad-8dac-241d352ba792",
+      "date": 1571003892856
+    },
+    {
+      "id": "9a6df6ec-6dd6-413c-a685-f4f45571ebeb",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "9a6df6ec-6dd6-413c-a685-f4f45571ebeb",
+        "text": "Beginning in 2016, Ilves has been co-chairing The [[World Economic Forum]] working group ''The Global Futures Council on Blockchain Technology''. In 2017 he joined [[Stanford University]] as a Bernard and Susan Liautaud Visiting Fellow at the [[Center for International Security and Cooperation]] in the [[Freeman Spogli Institute for International Studies]]. From July 2017, Ilves has been a Distinguished Visiting Fellow at the [[Hoover Institution]], Stanford University."
+      },
+      "after": "6236bef4-c719-44b4-b7df-a7f97bb885a0",
+      "date": 1571003896820
+    },
+    {
+      "id": "10ee7f15-9558-4f6a-bddb-5f2256da1f8e",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "10ee7f15-9558-4f6a-bddb-5f2256da1f8e",
+        "text": "Ilves belongs to the advisory council of the [[Alliance for Securing Democracy]]."
+      },
+      "after": "9a6df6ec-6dd6-413c-a685-f4f45571ebeb",
+      "date": 1571003902653
+    },
+    {
+      "id": "c821d06a-474e-4e5a-acdc-d99cfee23b8f",
+      "type": "add",
+      "item": {
+        "type": "html",
+        "id": "c821d06a-474e-4e5a-acdc-d99cfee23b8f",
+        "text": "<div style='padding: 12px; background:#eee; width:96%; align=centered;'>\n<a href='https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Toomas_Hendrik_Ilves%2C_President_of_Estonia_%2825502212355%29.jpg/420px-Toomas_Hendrik_Ilves%2C_President_of_Estonia_%2825502212355%29.jpg' target='_blank'>\n<img style='display:block; margin:auto; width:100%;'\nsrc='https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Toomas_Hendrik_Ilves%2C_President_of_Estonia_%2825502212355%29.jpg/420px-Toomas_Hendrik_Ilves%2C_President_of_Estonia_%2825502212355%29.jpg'>\n</a>\n\n<p class=caption>\nToomas Hendrik Ilves\n- [https://commons.wikimedia.org/wiki/File:Toomas_Hendrik_Ilves,_President_of_Estonia_(25502212355).jpg wikimedia]\n</p></div>"
+      },
+      "after": "a4257bb3-6d99-4b38-9cee-254ffd1d70c4",
+      "date": 1571003921173
+    },
+    {
+      "id": "a4257bb3-6d99-4b38-9cee-254ffd1d70c4",
+      "type": "move",
+      "order": [
+        "c92765a3-d88c-4f39-933a-f9648ea2ced4",
+        "c821d06a-474e-4e5a-acdc-d99cfee23b8f",
+        "8aba5d1ef241ac7e",
+        "82f944b5-156f-4e15-a34a-8a0ef003ec2f",
+        "98f4c2a0-d4e3-4747-8e5a-0276eb1c94db",
+        "95a5c488-4e0b-4f9b-92e1-a0852402edbf",
+        "dd822267-6ffe-42a8-b14a-9f4ecd12a8e4",
+        "172edfe8-78e6-479d-ac64-be6ff2fdbebd",
+        "0954e81d69170ed7",
+        "fc244650bdda9898",
+        "a4257bb3-6d99-4b38-9cee-254ffd1d70c4",
+        "2b6028bd-59b0-4ef5-9ad7-1436ba2ca3f9",
+        "e8a58330-53ed-43ad-8dac-241d352ba792",
+        "6236bef4-c719-44b4-b7df-a7f97bb885a0",
+        "9a6df6ec-6dd6-413c-a685-f4f45571ebeb",
+        "10ee7f15-9558-4f6a-bddb-5f2256da1f8e",
+        "408938cd-94d5-450e-a71d-fc26e5c5f3ad",
+        "aef1b2d1-5762-46b9-a2eb-ecafd69791d3",
+        "af30ff19-af6d-47ef-80d7-5d0aa752d35d",
+        "355f8ea4-85fb-454f-ba26-7d0bd9353d63",
+        "745f2f64-a7b7-4a84-8f7a-98bf988ae2fa",
+        "0828471b-ae26-459f-90b1-704cbd79c5e9",
+        "054016ca-3613-4b5c-b6a4-87a8401ccdc6"
+      ],
+      "date": 1571003935864
+    }
+  ],
+  "story": [
+    {
+      "type": "markdown",
+      "id": "c92765a3-d88c-4f39-933a-f9648ea2ced4",
+      "text": "__Toomas Hendrik Ilves__ (; born 26 December 1953) is an [[Estonians]] politician who served as the [[List of Presidents of Estonia]] of [[Estonia]] from 2006 until 2016. Ilves worked as a [[diplomat]] and [[journalist]], and he was the leader of the [[Social Democratic Party (Estonia)]] in the 1990s. \n"
+    },
+    {
+      "type": "html",
+      "id": "c821d06a-474e-4e5a-acdc-d99cfee23b8f",
+      "text": "<div style='padding: 12px; background:#eee; width:96%; align=centered;'>\n<a href='https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Toomas_Hendrik_Ilves%2C_President_of_Estonia_%2825502212355%29.jpg/420px-Toomas_Hendrik_Ilves%2C_President_of_Estonia_%2825502212355%29.jpg' target='_blank'>\n<img style='display:block; margin:auto; width:100%;'\nsrc='https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Toomas_Hendrik_Ilves%2C_President_of_Estonia_%2825502212355%29.jpg/420px-Toomas_Hendrik_Ilves%2C_President_of_Estonia_%2825502212355%29.jpg'>\n</a>\n\n<p class=caption>\nToomas Hendrik Ilves\n- [https://commons.wikimedia.org/wiki/File:Toomas_Hendrik_Ilves,_President_of_Estonia_(25502212355).jpg wikimedia]\n</p></div>"
+    },
+    {
+      "type": "markdown",
+      "id": "8aba5d1ef241ac7e",
+      "text": "He served in the government as Minister of Foreign Affairs from 1996 to 1998 and again from 1999 to 2002. Later, he was a [[Member of the European Parliament]] from 2004 to 2006. He was elected as President of Estonia by an electoral college on 23 September 2006 and his term as President began on 9 October 2006. He was reelected by Parliament in 2011 - [https://en.wikipedia.org/wiki/Toomas_Hendrik_Ilves wikipedia]"
+    },
+    {
+      "type": "markdown",
+      "id": "82f944b5-156f-4e15-a34a-8a0ef003ec2f",
+      "text": "# Career"
+    },
+    {
+      "type": "markdown",
+      "id": "98f4c2a0-d4e3-4747-8e5a-0276eb1c94db",
+      "text": "Ilves worked as a research assistant in Columbia University Department of Psychology from 1974 to 1979. From 1979 to 1981 he served as assistant director and English teacher at the Open Education Center in [[Englewood, New Jersey]]. Ilves then moved to [[Vancouver, British Columbia]], Canada; from 1981 to 1983 he was director and administrator of arts in [[Vancouver Arts Centre]] and from 1983 to 1984 he taught Estonian literature and linguistics in [[Simon Fraser University]] - [https://en.wikipedia.org/wiki/Toomas_Hendrik_Ilves#Career wikipedia]"
+    },
+    {
+      "type": "html",
+      "id": "95a5c488-4e0b-4f9b-92e1-a0852402edbf",
+      "text": "<div style='padding: 12px; background:#eee; width:96%; align=centered;'>\n<a href='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ilves_01.jpg/420px-Ilves_01.jpg' target='_blank'>\n<img style='display:block; margin:auto; width:100%;'\nsrc='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ilves_01.jpg/420px-Ilves_01.jpg'>\n</a>\n\n<p class=caption>\nMSC]] 2016\n- [https://commons.wikimedia.org/wiki/File:Ilves_01.jpg wikimedia]\n</p></div>"
+    },
+    {
+      "type": "markdown",
+      "id": "dd822267-6ffe-42a8-b14a-9f4ecd12a8e4",
+      "text": "From 1984 to 1993, Ilves worked in [[Munich]], Germany as a journalist for [[Radio Free Europe]], being the head of its Estonian desk since 1988. As Estonia had restored its independence in 1991, Ilves became Ambassador of Estonia to the United States in 1993, also serving as Ambassador to Canada and Mexico at the same time."
+    },
+    {
+      "type": "markdown",
+      "id": "172edfe8-78e6-479d-ac64-be6ff2fdbebd",
+      "text": "In December 1996, Ilves became [[Estonian Minister of Foreign Affairs]], serving until he resigned in September 1998, when he became a member of a small opposition party (Peasants' Party, agrarian-conservative). Ilves was soon elected chairman of the People's Party (reformed Peasants' Party), which formed an electoral cartel with the [[Estonian Social Democratic Party#1989–today]], a centrist party. \n"
+    },
+    {
+      "type": "markdown",
+      "id": "0954e81d69170ed7",
+      "text": "After the [[1999 Estonian parliamentary election]] he became foreign minister again, serving until 2002, when the so-called Triple Alliance collapsed. He supported Estonian membership in the [[European Union]] and succeeded in starting the negotiations which led to Estonia joining the European Union on 1 May 2004. From 2001 to 2002 he was the leader of the People's Party Moderates. \n"
+    },
+    {
+      "type": "markdown",
+      "id": "fc244650bdda9898",
+      "text": "He resigned from the position after the party's defeat in the October 2002 municipal elections, in which the party received only 4.4% of the total votes nationwide. In early 2004, the Moderates party renamed itself the [[Estonian Social Democratic Party]]."
+    },
+    {
+      "type": "html",
+      "id": "a4257bb3-6d99-4b38-9cee-254ffd1d70c4",
+      "text": "<div style='padding: 12px; background:#eee; width:96%; align=centered;'>\n<a href='https://upload.wikimedia.org/wikipedia/commons/4/45/Toomas_Hendrik_Ilves_2011-12-19.jpg' target='_blank'>\n<img style='display:block; margin:auto; width:100%;'\nsrc='https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Toomas_Hendrik_Ilves_2011-12-19.jpg/258px-Toomas_Hendrik_Ilves_2011-12-19.jpg'>\n</a>\n\n<p class=caption>\nToomas Hendrik Ilves. Estonian politician who served as the fourth President of Estonia\n- [https://upload.wikimedia.org/wikipedia/commons/4/45/Toomas_Hendrik_Ilves_2011-12-19.jpg wikimedia]\n</p></div>"
+    },
+    {
+      "type": "markdown",
+      "id": "2b6028bd-59b0-4ef5-9ad7-1436ba2ca3f9",
+      "text": "In 2003, Ilves became an observer member of the [[European Parliament]] and, on 1 May 2004, a full member. In the 2004 elections to the European Parliament, Ilves was elected [[Member of the European Parliament]] in a landslide victory for the Estonian Social Democratic Party. He sat with the [[Party of European Socialists]] group in the Parliament. [[Katrin Saks]] took over his MEP seat when Ilves became President of Estonia in 2006. In 2011, he was re-elected for a second five-year term."
+    },
+    {
+      "type": "markdown",
+      "id": "e8a58330-53ed-43ad-8dac-241d352ba792",
+      "text": "In 2013, it was announced that Ilves had accepted a position on the Council on CyberSecurity's Advisory Board. In 2015, it was announced that Ilves had agreed to join the group of advisers to the World Bank president [[Jim Yong Kim]]."
+    },
+    {
+      "type": "markdown",
+      "id": "6236bef4-c719-44b4-b7df-a7f97bb885a0",
+      "text": "During his presidency, Ilves has been appointed to serve in several high positions in the field of ICT in the European Union. He served as chairman of the EU Task Force on eHealth from 2011 to 2012 and was chairman of the European Cloud Partnership Steering Board at the invitation of the [[European Commission]] from 2012 to 2014. In 2013 he chaired the High-Level Panel on Global Internet Cooperation and Governance Mechanisms convened by [[ICANN]]. From 2014 to 2015 Ilves was the co-chair of the advisory panel of the [[World Bank]]'s [[World Development Report]] 2016 \"Digital Dividends\" and was also the chair of [[World Economic Forum]]'s Global Agenda Council on Cyber Security beginning in June 2014."
+    },
+    {
+      "type": "markdown",
+      "id": "9a6df6ec-6dd6-413c-a685-f4f45571ebeb",
+      "text": "Beginning in 2016, Ilves has been co-chairing The [[World Economic Forum]] working group ''The Global Futures Council on Blockchain Technology''. In 2017 he joined [[Stanford University]] as a Bernard and Susan Liautaud Visiting Fellow at the [[Center for International Security and Cooperation]] in the [[Freeman Spogli Institute for International Studies]]. From July 2017, Ilves has been a Distinguished Visiting Fellow at the [[Hoover Institution]], Stanford University."
+    },
+    {
+      "type": "markdown",
+      "id": "10ee7f15-9558-4f6a-bddb-5f2256da1f8e",
+      "text": "Ilves belongs to the advisory council of the [[Alliance for Securing Democracy]]."
+    },
+    {
+      "type": "markdown",
+      "id": "408938cd-94d5-450e-a71d-fc26e5c5f3ad",
+      "text": "# Sections"
+    },
+    {
+      "type": "html",
+      "id": "aef1b2d1-5762-46b9-a2eb-ecafd69791d3",
+      "text": "<form action='https://rest.livecode.world/mediawiki/importSection'><input name=section_title size=60 value='Early life and education'>\n<input name=url type=hidden value='https://en.wikipedia.org/w/index.php?title=Toomas Hendrik Ilves&action=edit&section=1'>\n<input type=submit value=create></form>"
+    },
+    {
+      "type": "html",
+      "id": "af30ff19-af6d-47ef-80d7-5d0aa752d35d",
+      "text": "<form action='https://rest.livecode.world/mediawiki/importSection'><input name=section_title size=60 value='Career'>\n<input name=url type=hidden value='https://en.wikipedia.org/w/index.php?title=Toomas Hendrik Ilves&action=edit&section=2'>\n<input type=submit value=create></form>"
+    },
+    {
+      "type": "html",
+      "id": "355f8ea4-85fb-454f-ba26-7d0bd9353d63",
+      "text": "<form action='https://rest.livecode.world/mediawiki/importSection'><input name=section_title size=60 value='Presidential elections'>\n<input name=url type=hidden value='https://en.wikipedia.org/w/index.php?title=Toomas Hendrik Ilves&action=edit&section=3'>\n<input type=submit value=create></form>"
+    },
+    {
+      "type": "html",
+      "id": "745f2f64-a7b7-4a84-8f7a-98bf988ae2fa",
+      "text": "<form action='https://rest.livecode.world/mediawiki/importSection'><input name=section_title size=60 value='Personal life'>\n<input name=url type=hidden value='https://en.wikipedia.org/w/index.php?title=Toomas Hendrik Ilves&action=edit&section=4'>\n<input type=submit value=create></form>"
+    },
+    {
+      "type": "html",
+      "id": "0828471b-ae26-459f-90b1-704cbd79c5e9",
+      "text": "<form action='https://rest.livecode.world/mediawiki/importSection'><input name=section_title size=60 value='Honours'>\n<input name=url type=hidden value='https://en.wikipedia.org/w/index.php?title=Toomas Hendrik Ilves&action=edit&section=5'>\n<input type=submit value=create></form>"
+    },
+    {
+      "type": "html",
+      "id": "054016ca-3613-4b5c-b6a4-87a8401ccdc6",
+      "text": "<form action='https://rest.livecode.world/mediawiki/importSection'><input name=section_title size=60 value='International awards and honorary degrees'>\n<input name=url type=hidden value='https://en.wikipedia.org/w/index.php?title=Toomas Hendrik Ilves&action=edit&section=8'>\n<input type=submit value=create></form>"
+    }
+  ]
+}

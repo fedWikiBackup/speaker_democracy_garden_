@@ -1,0 +1,88 @@
+{
+  "title": "Governance of Science",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "80bddc3f09c788c6",
+      "text": "What is harder is to build a set of appropriate incentives and apply these to the actions of the various parties in the process.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "93829f5d99f57552",
+      "text": "More thought still needs to be put into the soft cultures that have evolved over recent history, and to ensure that the process of evolution of these structures is responsive to the purpose of the endeavour - namely \"[[knowledge creation]] for the [[common good]]\".\n"
+    },
+    {
+      "type": "markdown",
+      "id": "6c903504f7d7a012",
+      "text": " - that is the question of governance over time is fit for purpose"
+    },
+    {
+      "type": "markdown",
+      "id": "5a0cfa9790fe57d4",
+      "text": "No fee to contribute\nKnowledge should be in open access\nDirect monetization of scientific knowledge\nResearch projects are tokenized\nValue of research tokens is provided by internal economy\nReward is paid by emission distribution\nQuality and objectiveness is incentivized\nGoverned by the scientific community\nExpertise contribution is main measure of reputation\n"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Governance of Science",
+        "story": []
+      },
+      "date": 1570824940415
+    },
+    {
+      "id": "80bddc3f09c788c6",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "80bddc3f09c788c6",
+        "text": "What is harder is to build a set of appropriate incentives and apply these to the actions of the various parties in the process.\n"
+      },
+      "date": 1570824944628
+    },
+    {
+      "id": "93829f5d99f57552",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "93829f5d99f57552",
+        "text": "More thought still needs to be put into the soft cultures that have evolved over recent history, and to ensure that the process of evolution of these structures is responsive to the purpose of the endeavour - namely \"[[knowledge creation]] for the [[common good]]\".\n"
+      },
+      "after": "80bddc3f09c788c6",
+      "date": 1570824947517
+    },
+    {
+      "id": "6c903504f7d7a012",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "6c903504f7d7a012",
+        "text": " - that is the question of governance over time is fit for purpose - that"
+      },
+      "after": "93829f5d99f57552",
+      "date": 1570824953278
+    },
+    {
+      "type": "edit",
+      "id": "6c903504f7d7a012",
+      "item": {
+        "type": "markdown",
+        "id": "6c903504f7d7a012",
+        "text": " - that is the question of governance over time is fit for purpose"
+      },
+      "date": 1570824958236
+    },
+    {
+      "id": "5a0cfa9790fe57d4",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "5a0cfa9790fe57d4",
+        "text": "No fee to contribute\nKnowledge should be in open access\nDirect monetization of scientific knowledge\nResearch projects are tokenized\nValue of research tokens is provided by internal economy\nReward is paid by emission distribution\nQuality and objectiveness is incentivized\nGoverned by the scientific community\nExpertise contribution is main measure of reputation\n"
+      },
+      "after": "6c903504f7d7a012",
+      "date": 1570824962455
+    }
+  ]
+}

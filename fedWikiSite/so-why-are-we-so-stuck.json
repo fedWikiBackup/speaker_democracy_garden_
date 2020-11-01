@@ -1,0 +1,281 @@
+{
+  "title": "So why are we so stuck?",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "09593498b531307b",
+      "text": "It is not difficult to design and build modern information systems that support the process of publishing scientific knowledge and enabling fellow scientists to properly and efficiently scrutinise the quality of the results. So the question naturally is \"__Why are we so stuck?__\".\n\n"
+    },
+    {
+      "type": "markdown",
+      "id": "58ab6919d571370d",
+      "text": "Our answer is not complicated. It is straight forwards. It is in general no ones interest to change the system. When the internal system of incentives and organisational structures runs into conflict with technological and social change outside of the system - in this case the system of creating and disseminating scientific knowledge - then structural change is required. When it is no ones job to make this change - then of course we are stuck."
+    },
+    {
+      "type": "markdown",
+      "id": "a6ae39f0f9a0b3a8",
+      "text": "__Next__: [[The problem with change]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "So why are we so stuck?",
+        "story": []
+      },
+      "date": 1570824049200
+    },
+    {
+      "id": "09593498b531307b",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "09593498b531307b",
+        "text": "It is not difficult to design and build modern information systems that support the process of publishing scientific knowledge and enabling fellow scientists to properly and efficiently scrutinise the quality of the results. So the question naturally is \"__Why are we so stuck?__\".\n\n"
+      },
+      "date": 1570824051450
+    },
+    {
+      "id": "58ab6919d571370d",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "58ab6919d571370d",
+        "text": "Our answer is not complicated. It is straight forwards. It is in no ones interest to change the system. Whoever tries to change it loses out in the conventional social stakes of reputation (scientific renown), social esteem, and financial reward."
+      },
+      "after": "09593498b531307b",
+      "date": 1570824053090
+    },
+    {
+      "type": "edit",
+      "id": "58ab6919d571370d",
+      "item": {
+        "type": "markdown",
+        "id": "58ab6919d571370d",
+        "text": "Our answer is not complicated. It is straight forwards. It is in general no ones interest to change the system. \n"
+      },
+      "date": 1570828259660
+    },
+    {
+      "type": "add",
+      "id": "a6ae39f0f9a0b3a8",
+      "item": {
+        "type": "markdown",
+        "id": "a6ae39f0f9a0b3a8",
+        "text": "__Next__: [[Governance of Science]]"
+      },
+      "after": "58ab6919d571370d",
+      "date": 1570828263361
+    },
+    {
+      "type": "edit",
+      "id": "a6ae39f0f9a0b3a8",
+      "item": {
+        "type": "markdown",
+        "id": "a6ae39f0f9a0b3a8",
+        "text": "__Next__: [[Governance of Science]]"
+      },
+      "date": 1570828285745
+    },
+    {
+      "type": "edit",
+      "id": "58ab6919d571370d",
+      "item": {
+        "type": "markdown",
+        "id": "58ab6919d571370d",
+        "text": "Our answer is not complicated. It is straight forwards. It is in general no ones interest to change the system. \n"
+      },
+      "date": 1570828388625
+    },
+    {
+      "type": "add",
+      "id": "6c5e677e94056804",
+      "item": {
+        "type": "markdown",
+        "id": "6c5e677e94056804",
+        "text": "There is a clear consensus that to succeed one should play by the rules of the game, not try to change them.\n"
+      },
+      "after": "58ab6919d571370d",
+      "date": 1570828455609
+    },
+    {
+      "type": "edit",
+      "id": "58ab6919d571370d",
+      "item": {
+        "type": "markdown",
+        "id": "58ab6919d571370d",
+        "text": "Our answer is not complicated. It is straight forwards. It is in general no ones interest to change the system. \n"
+      },
+      "date": 1570869643848,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1570869664316
+    },
+    {
+      "type": "edit",
+      "id": "58ab6919d571370d",
+      "item": {
+        "type": "markdown",
+        "id": "58ab6919d571370d",
+        "text": "Our answer is not complicated. It is straight forwards. It is in general no ones interest to change the system. When the internal system of incentives and organisational structures runs into conflict with technological and social change outside of the system - in this case the system of creating and disseminating scientific knowledge - then structural change is required. \n"
+      },
+      "date": 1570869867150
+    },
+    {
+      "type": "add",
+      "id": "8e5955c53a155109",
+      "item": {
+        "type": "markdown",
+        "id": "8e5955c53a155109",
+        "text": "The problem is there is no clear finance, or incentive for anyone to undertake such structural change. Add to this the fact that taking a systemic view of the scientific system crosses several academic disciplines, is complex, and abstract - then not only is it not in anyones interest to recognise the problem, but the problem is not easy to see using current institutional processes.\n"
+      },
+      "after": "58ab6919d571370d",
+      "date": 1570870116169
+    },
+    {
+      "type": "remove",
+      "id": "6c5e677e94056804",
+      "date": 1570870124159
+    },
+    {
+      "type": "add",
+      "id": "9c6af2e0db0630ef",
+      "item": {
+        "type": "markdown",
+        "id": "9c6af2e0db0630ef",
+        "text": "If the problem is the lack of the ability to sense changes in the environment, and then adapt and evolve to those changes - then we need to put in place systems that meet this function. That is we need to adopt systems that allow better adaptation and evolution of the internal knowledge economy of science [[governance of science]]."
+      },
+      "after": "8e5955c53a155109",
+      "date": 1570870534016
+    },
+    {
+      "type": "edit",
+      "id": "58ab6919d571370d",
+      "item": {
+        "type": "markdown",
+        "id": "58ab6919d571370d",
+        "text": "Our answer is not complicated. It is straight forwards. It is in general no ones interest to change the system. When the internal system of incentives and organisational structures runs into conflict with technological and social change outside of the system - in this case the system of creating and disseminating scientific knowledge - then structural change is required. When it is no ones job to make this change - then of course we are stuck."
+      },
+      "date": 1570870656399
+    },
+    {
+      "type": "edit",
+      "id": "8e5955c53a155109",
+      "item": {
+        "type": "markdown",
+        "id": "8e5955c53a155109",
+        "text": "# Incentives for change\n"
+      },
+      "date": 1570870734656
+    },
+    {
+      "type": "add",
+      "id": "ed8449b5dd0a00a6",
+      "item": {
+        "type": "markdown",
+        "id": "ed8449b5dd0a00a6",
+        "text": "The problem is there is no clear finance, or incentive for anyone to undertake such structural change. Add to this the fact that taking a systemic view of the scientific system crosses several academic disciplines, is complex, and abstract - then not only is it not in anyones interest to recognise the problem, but the problem is not easy to see using current institutional processes.\n"
+      },
+      "after": "8e5955c53a155109",
+      "date": 1570870735739
+    },
+    {
+      "type": "edit",
+      "id": "8e5955c53a155109",
+      "item": {
+        "type": "markdown",
+        "id": "8e5955c53a155109",
+        "text": "# Problems of change\n"
+      },
+      "date": 1570870753649
+    },
+    {
+      "type": "edit",
+      "id": "8e5955c53a155109",
+      "item": {
+        "type": "markdown",
+        "id": "8e5955c53a155109",
+        "text": "# The problems with change\n"
+      },
+      "date": 1570870834388
+    },
+    {
+      "type": "add",
+      "id": "19d2231c74670112",
+      "item": {
+        "type": "markdown",
+        "id": "19d2231c74670112",
+        "text": "Change is always problematic. Change without proper systems to manage that change tends to be violent"
+      },
+      "after": "8e5955c53a155109",
+      "date": 1570870894262
+    },
+    {
+      "type": "edit",
+      "id": "19d2231c74670112",
+      "item": {
+        "type": "markdown",
+        "id": "19d2231c74670112",
+        "text": "Change is always problematic. Change without proper systems to manage that change tends to be violent, and highly disruptive. Let's look at some of these problems, and the implications for the future [[governance of science]]."
+      },
+      "date": 1570870949298
+    },
+    {
+      "type": "edit",
+      "id": "8e5955c53a155109",
+      "item": {
+        "type": "markdown",
+        "id": "8e5955c53a155109",
+        "text": "- [[The problems with change]]\n"
+      },
+      "date": 1570870966569
+    },
+    {
+      "type": "edit",
+      "id": "8e5955c53a155109",
+      "item": {
+        "type": "markdown",
+        "id": "8e5955c53a155109",
+        "text": "- [[The problem with change]]\n"
+      },
+      "date": 1570870975561
+    },
+    {
+      "id": "19d2231c74670112",
+      "type": "remove",
+      "date": 1570871017905
+    },
+    {
+      "id": "ed8449b5dd0a00a6",
+      "type": "remove",
+      "date": 1570871020393
+    },
+    {
+      "id": "9c6af2e0db0630ef",
+      "type": "remove",
+      "date": 1570871023887
+    },
+    {
+      "type": "remove",
+      "id": "8e5955c53a155109",
+      "date": 1570871041800
+    },
+    {
+      "type": "edit",
+      "id": "a6ae39f0f9a0b3a8",
+      "item": {
+        "type": "markdown",
+        "id": "a6ae39f0f9a0b3a8",
+        "text": "__Next__: [[The problem with change]]"
+      },
+      "date": 1570871054742
+    }
+  ]
+}

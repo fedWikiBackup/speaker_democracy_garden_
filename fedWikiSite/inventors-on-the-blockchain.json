@@ -1,0 +1,85 @@
+{
+  "title": "Inventors on the blockchain",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "c2e0f7b28dfefd32",
+      "text": "Inventors on the blockchain: open innovation and ip protection\n"
+    },
+    {
+      "type": "markdown",
+      "id": "093c6109e54ce8be",
+      "text": "# See also\n\n- [[Open Innovation]]\n- [[IP Protection Platform]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Inventors on the blockchain",
+        "story": []
+      },
+      "date": 1571000246440
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c2e0f7b28dfefd32"
+      },
+      "id": "c2e0f7b28dfefd32",
+      "type": "add",
+      "date": 1571000247808
+    },
+    {
+      "type": "edit",
+      "id": "c2e0f7b28dfefd32",
+      "item": {
+        "type": "markdown",
+        "id": "c2e0f7b28dfefd32",
+        "text": "Inventors on the blockchain: open innovation and ip protection"
+      },
+      "date": 1571000257700
+    },
+    {
+      "type": "edit",
+      "id": "c2e0f7b28dfefd32",
+      "item": {
+        "type": "markdown",
+        "id": "c2e0f7b28dfefd32",
+        "text": "Inventors on the blockchain: open innovation and ip protection\n"
+      },
+      "date": 1571000284625
+    },
+    {
+      "type": "add",
+      "id": "093c6109e54ce8be",
+      "item": {
+        "type": "markdown",
+        "id": "093c6109e54ce8be",
+        "text": "# See also\n\n- [[Republic of Science]]\n"
+      },
+      "after": "c2e0f7b28dfefd32",
+      "date": 1571000294915
+    },
+    {
+      "type": "edit",
+      "id": "093c6109e54ce8be",
+      "item": {
+        "type": "markdown",
+        "id": "093c6109e54ce8be",
+        "text": "# See also\n\n- [[Open Innovation]]\n"
+      },
+      "date": 1571000416460
+    },
+    {
+      "type": "edit",
+      "id": "093c6109e54ce8be",
+      "item": {
+        "type": "markdown",
+        "id": "093c6109e54ce8be",
+        "text": "# See also\n\n- [[Open Innovation]]\n- [[IP Protection Platform]]"
+      },
+      "date": 1571000429204
+    }
+  ]
+}

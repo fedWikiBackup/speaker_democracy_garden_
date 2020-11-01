@@ -1,0 +1,64 @@
+{
+  "title": "Natural language processing",
+  "journal": [
+    {
+      "date": 1571609203001,
+      "type": "create",
+      "item": {
+        "story": "",
+        "title": "Natural language processing"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1571609433448
+    },
+    {
+      "type": "remove",
+      "id": "e531a17d-9d3b-47c6-beae-eba0282f1cf3",
+      "date": 1571609439692
+    }
+  ],
+  "story": [
+    {
+      "type": "markdown",
+      "id": "438dd248-5191-437f-931d-a97ea0b06aac",
+      "text": "__Natural language processing__ (__NLP__) is a subfield of [[linguistics]], [[computer science]], [[Information engineering (field)]], and [[artificial intelligence]] concerned with the interactions between computers and human (natural) languages, in particular how to program computers to process and analyze large amounts of [[natural language]] data - [https://en.wikipedia.org/wiki/Natural_language_processing wikipedia]"
+    },
+    {
+      "type": "markdown",
+      "id": "1e2b534f-9507-40fa-96ac-dbbbf3908cde",
+      "text": "Challenges in natural language processing frequently involve [[speech recognition]], [[natural language understanding]], and [[natural language generation]]."
+    },
+    {
+      "type": "markdown",
+      "id": "8d34e9ed-e1fc-44e8-9aac-73763bc10d61",
+      "text": "# Sections"
+    },
+    {
+      "type": "html",
+      "id": "a4888e4f-1a90-4ec7-8c06-ab80c7003775",
+      "text": "<form action='https://rest.livecode.world/mediawiki/importSection'><input name=section_title size=60 value='History'>\n<input name=url type=hidden value='https://en.wikipedia.org/w/index.php?title=Natural language processing&action=edit&section=1'>\n<input type=submit value=create></form>"
+    },
+    {
+      "type": "html",
+      "id": "a41caa6c-da88-4153-bd6d-ce1c8f1b0e90",
+      "text": "<form action='https://rest.livecode.world/mediawiki/importSection'><input name=section_title size=60 value='Rule-based vs. statistical NLP'>\n<input name=url type=hidden value='https://en.wikipedia.org/w/index.php?title=Natural language processing&action=edit&section=2'>\n<input type=submit value=create></form>"
+    },
+    {
+      "type": "html",
+      "id": "8afd81ec-a6ab-4b93-86ab-bb1eb7cd31e7",
+      "text": "<form action='https://rest.livecode.world/mediawiki/importSection'><input name=section_title size=60 value='Major evaluations and tasks'>\n<input name=url type=hidden value='https://en.wikipedia.org/w/index.php?title=Natural language processing&action=edit&section=3'>\n<input type=submit value=create></form>"
+    },
+    {
+      "type": "markdown",
+      "id": "6b5673ae-953b-4143-8ef2-715a548034df",
+      "text": "# See also"
+    },
+    {
+      "type": "markdown",
+      "id": "af630e6d-b465-4cfe-aeb9-53e396fc1254",
+      "text": "- [[1 the Road]]\n- [[Automated essay scoring]]\n- [[Biomedical text mining]]\n- [[Compound term processing]]\n- [[Computational linguistics]]\n- [[Computer-assisted reviewing]]\n- [[Controlled natural language]]\n- [[Deep learning]]\n- [[Deep linguistic processing]]\n- [[Distributional semantics]]\n- [[Foreign language reading aid]]\n- [[Foreign language writing aid]]\n- [[Information extraction]]\n- [[Information retrieval]]\n- [[Language and Communication Technologies]]\n- [[Language technology]]\n- [[Latent semantic indexing]]\n- [[Native-language identification]]\n- [[Natural language programming]]\n- [[Natural language search]]\n- [[Query expansion]]\n- [[Reification (linguistics)]]\n- [[Speech processing]]\n- [[Spoken dialogue system]]\n- [[Text-proofing]]\n- [[Text simplification]]\n- [[Transformer (machine learning model)]]\n- [[Truecasing]]\n- [[Question answering]]\n- [[Word2vec]]"
+    }
+  ]
+}

@@ -1,0 +1,1211 @@
+{
+  "title": "Workshop Template",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "baddd89fa91bd37d",
+      "text": "From work to our personal lives, how do we agree on where (our) boundaries are? What is consent? How does it differ from other forms of decision making? And what do you need to make it work?\n"
+    },
+    {
+      "type": "markdown",
+      "id": "b5c5acc0cd85959c",
+      "text": "Vincent van der Lubbe, Chair of Sociocracy for All, will guide you through the logical steps of consent, help you experiment with how they can work and what challenges lie ahead.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "b36d607f636e8fb8",
+      "text": "# Concepts\nThe workshop explores the following concepts:\n\n- [[What is democracy?]]\n"
+    },
+    {
+      "type": "markdown",
+      "id": "1f2b9299c8ec96de",
+      "text": "# Place\n\n- Category:  [[Law]]\n- Moment: [[Middle Ages]]\n"
+    },
+    {
+      "type": "markdown",
+      "id": "646911219352dcc0",
+      "text": "# Workshop Details"
+    },
+    {
+      "type": "code",
+      "id": "72855afa291c62f3",
+      "text": "The Age of Consent - Decision Making for Now\n\nAfternoon Day 1, Saturday 25th October\nStart: 15:55  -  End: 16:20\n\nVincent van der Lubbe\nChair Sociocracy for All / Hansei Consulting"
+    },
+    {
+      "type": "markdown",
+      "id": "a15182363aaab35f",
+      "text": "# Workshop Times\n"
+    },
+    {
+      "type": "markdown",
+      "id": "b259980faa5f80e8",
+      "text": "The following 25 min workshop will take place during the networking break (15:55 - 16:20).\n"
+    },
+    {
+      "type": "zones",
+      "id": "465057e72eb71549",
+      "text": "Introduction to Lexon\nDATE 10/25/2019\nTIME 15:55\nFOR 25 min\nIN Europe/Paris\n"
+    },
+    {
+      "type": "markdown",
+      "id": "5a8f48c84c8314cf",
+      "text": "For those interested, consider staying for a more in-depth (70 min) workshop. hands-on experience (16:20 - 17:30). "
+    },
+    {
+      "type": "zones",
+      "id": "182126ef3788408d",
+      "text": "Lexon Deep Dive\nDATE 10/25/2019\nTIME 16:20\nFOR 70 min\nIN Europe/Paris\n"
+    },
+    {
+      "type": "markdown",
+      "id": "5c2e84e6a6e44669",
+      "text": "# Remote participation\n\n"
+    },
+    {
+      "type": "markdown",
+      "id": "1f0e3175e4c36c6f",
+      "text": "You can take part in this workshop remotely by joining with Zoom:\n\n- https://zoom.us/j/703602118"
+    },
+    {
+      "type": "markdown",
+      "id": "899ff3a74a33caae",
+      "text": "Here is the start time for the workshop available in your local time-zone. \n"
+    },
+    {
+      "type": "zones",
+      "id": "ef3dd8fdbcef0cd6",
+      "text": "Workshop: The Age of Consent\nDATE 10/25/2019\nTIME 14:30\nFOR 120 min\nIN Europe/Paris\nALSO Africa/Addis_Ababa\nALSO Africa/Lagos\nALSO America/Los_Angeles\nALSO America/New_York\nALSO London\nHERE\n"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Workshop Template",
+        "story": []
+      },
+      "date": 1571562753139
+    },
+    {
+      "id": "de80c457dd135c8d",
+      "type": "add",
+      "item": {
+        "type": "calendar",
+        "id": "de80c457dd135c8d",
+        "text": "dfas"
+      },
+      "date": 1571562756205
+    },
+    {
+      "id": "ef3dd8fdbcef0cd6",
+      "type": "add",
+      "item": {
+        "type": "zones",
+        "id": "ef3dd8fdbcef0cd6",
+        "text": "Wiki Weekly Hangout\nDATE 10/25/2019\nTIME 14:30\nFOR 60 min\nIN Madrid\nHERE\n"
+      },
+      "after": "de80c457dd135c8d",
+      "date": 1571562758219
+    },
+    {
+      "id": "fa21e60205b0f487",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "fa21e60205b0f487",
+        "text": "# Workshops\n## Day 1 - Friday October 25th \n|               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |\n| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |\n| XX:XX - YY-YY | ## The Age of Consent - Decision Making for Now<br>- *Vincent van der Lubbe (Chair Sociocracy for All / Hansei Consulting)*<br><br>**#whatisdemocracy**<br><br>From work to our personal lives, how do we agree on where (our) boundaries are? What is consent? How does it differ from other forms of decision making? And what do you need to make it work? Vincent van der Lubbe, Chair of Sociocracy for All, will guide you through the logical steps of consent, help you experiment with how they can work and what challenges lie ahead. |\n| XX:XX - YY-YY | ## Title<br>- *Henning Diedrich (Founder, Lexon)*<br><br>**#futurelaw**<br>What is a smart contract, and how can we democratise the process of creating the laws and code that govern our every day lives in an increasingly technologically driven society? Henning Diedrich, the founder of Lexon introduces a new way to code smart contracts. Using natural language processing, Lexon enables, non-coders, lawyers, philosophers, hackers and students of the future to create decentralised code (smart contracts) on the blockchain.      |\n| XX:XX - YY-YY | ??????????????                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |\n\n## Day 2 - Saturday October 26th \n| XX:XX - YY-YY | ## Un mundo sin intermediarios, un mundo P2P<br>- *Philipe Domínguez (Open Source developer)*<br><br>**#republicofscience #openinnovation**<br><br>Cómo montar una tienda en Bitcoin y tener un monedero de Bitcoin exclusivamente con Software libre.<br><br>Proponemos un taller introductorio a Bitcoin y a su uso concreto para el comercio electrónico. Se presentará una solución completa para vender, almacenar monedas y protegerlas. Para ello se presentarán 4 herramientas que describiremos aquí debajo, pero claramente demuestran la posibilidad desde hoy mismo, de imaginarse un modelo de intercambio basado en el P2P, desde la venta (intercambio) hasta el almacenamiento de valor.<br><br>Basándonos en herramientas exclusivamente de Software libre, para una máxima confianza y seguridad, planteamos un workflow que ya ha hecho sus pruebas en cuanto a calidad, pero que sobre todo demuestra que no hablamos de utopía sino de una realidad que tardará mas o menos en llegar al conjunto de los ciudadanos del mundo. Hoy es igual de fácil de intercambiar con la gente del barrio como con quien este en el otro hemisferio.<br><br>Te proponemos anticipar la sociedad y economía P2P del futuro, pero hoy mismo.<br><br>https://mensuel.framapad.org/p/charlita?lang=fr |\n| ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |\n| XX:XX - YY-YY | ## Scriptwriting<br>- *Jean-Pierre Bekolo* *(**Director -& Producer / JEAN PIERRE BEKOLO SARL)*<br><br>**#imagine**<br>Throughout human history, stories have been central to our existence, the signal within the noise, recognisable patterns in which we find meaning and give sense to our world. The power of stories What make us human If stories themselves are universal, the way we tell them changes with the technology at hand and every new medium has given rise to new forms of narrative. With the arrival of the internet, our stories broke loose from their linear boundaries, becoming hyperlinked storylines, delivered in mutable and complex formats (audio, video and text). An open communication channel where participation is not only possible but expected and collective imagination can reach its full potential.                                                                                                                                                                                                                                                                                                                                                                                                                                                        |\n| XX:XX - YY-YY | ## **Open Innovation**<br>- *Alex Shkor (Founder, DEIP)*<br><br>**#republicofscience #openinnovation**<br>When we think of innovation, we think of a lone inventor in a garage. Possibly a researcher working at a university, or perhaps the research activities undertaken by a private company. That is we think of something that happens within a bounded space, that is the bounds of an individual legal person.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |\n\n\n"
+      },
+      "after": "ef3dd8fdbcef0cd6",
+      "date": 1571562790139
+    },
+    {
+      "type": "edit",
+      "id": "fa21e60205b0f487",
+      "item": {
+        "type": "markdown",
+        "id": "fa21e60205b0f487",
+        "text": "## Day 1 - Friday October 25th \n"
+      },
+      "date": 1571562798394
+    },
+    {
+      "type": "add",
+      "id": "d291018a61e82c85",
+      "item": {
+        "type": "markdown",
+        "id": "d291018a61e82c85",
+        "text": "## The Age of Consent - Decision Making for Now\n- *Vincent van der Lubbe (Chair Sociocracy for All / Hansei Consulting)*\n**#whatisdemocracy**"
+      },
+      "after": "fa21e60205b0f487",
+      "date": 1571562805382
+    },
+    {
+      "type": "edit",
+      "id": "d291018a61e82c85",
+      "item": {
+        "type": "markdown",
+        "id": "d291018a61e82c85",
+        "text": "## The Age of Consent - Decision Making for Now\n- *Vincent van der Lubbe (Chair Sociocracy for All / Hansei Consulting)*\n**#whatisdemocracy**"
+      },
+      "date": 1571562839560
+    },
+    {
+      "type": "add",
+      "id": "baddd89fa91bd37d",
+      "item": {
+        "type": "markdown",
+        "id": "baddd89fa91bd37d",
+        "text": "From work to our personal lives, how do we agree on where (our) boundaries are? What is consent? How does it differ from other forms of decision making? And what do you need to make it work? Vincent van der Lubbe, Chair of Sociocracy for All, will guide you through the logical steps of consent, help you experiment with how they can work and what challenges lie ahead.\n"
+      },
+      "after": "d291018a61e82c85",
+      "date": 1571562847677
+    },
+    {
+      "type": "add",
+      "id": "d44aefa25c54ed16",
+      "item": {
+        "type": "markdown",
+        "id": "d44aefa25c54ed16",
+        "text": "## Titl\n"
+      },
+      "after": "baddd89fa91bd37d",
+      "date": 1571562868327
+    },
+    {
+      "type": "add",
+      "id": "b6632682ec4c9df0",
+      "item": {
+        "type": "markdown",
+        "id": "b6632682ec4c9df0",
+        "text": "*Henning Diedrich (Founder, Lexon)*\n"
+      },
+      "after": "d44aefa25c54ed16",
+      "date": 1571562877529
+    },
+    {
+      "type": "add",
+      "id": "e77f6b87e42a433d",
+      "item": {
+        "type": "markdown",
+        "id": "e77f6b87e42a433d",
+        "text": "**#futurelaw**\n"
+      },
+      "after": "b6632682ec4c9df0",
+      "date": 1571562882001
+    },
+    {
+      "type": "add",
+      "id": "c6879ca3e64f257e",
+      "item": {
+        "type": "markdown",
+        "id": "c6879ca3e64f257e",
+        "text": "What is a smart contract, and how can we democratise the process of creating the laws and code that govern our every day lives in an increasingly technologically driven society? \n"
+      },
+      "after": "e77f6b87e42a433d",
+      "date": 1571562887221
+    },
+    {
+      "type": "add",
+      "id": "2411d0237281da1f",
+      "item": {
+        "type": "markdown",
+        "id": "2411d0237281da1f",
+        "text": "Henning Diedrich, the founder of Lexon introduces a new way to code smart contracts. Using natural language processing, Lexon enables, non-coders, lawyers, philosophers, hackers and students of the future to create decentralised code (smart contracts) on the blockchain.\n"
+      },
+      "after": "c6879ca3e64f257e",
+      "date": 1571562894002
+    },
+    {
+      "id": "baddd89fa91bd37d",
+      "type": "move",
+      "order": [
+        "baddd89fa91bd37d",
+        "de80c457dd135c8d",
+        "ef3dd8fdbcef0cd6",
+        "fa21e60205b0f487",
+        "d291018a61e82c85",
+        "d44aefa25c54ed16",
+        "b6632682ec4c9df0",
+        "e77f6b87e42a433d",
+        "c6879ca3e64f257e",
+        "2411d0237281da1f",
+        "a824ce8188fa5ac8"
+      ],
+      "date": 1571562915831,
+      "error": {
+        "type": "error",
+        "msg": "Internal Server Error",
+        "response": "Server Ignoring move. Try reload."
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1571562919436
+    },
+    {
+      "type": "add",
+      "id": "a824ce8188fa5ac8",
+      "item": {
+        "type": "markdown",
+        "id": "a824ce8188fa5ac8",
+        "text": "\n## Day 2 - Saturday October 26th \n| XX:XX - YY-YY | ## Un mundo sin intermediarios, un mundo P2P<br>- *Philipe Domínguez (Open Source developer)*<br><br>**#republicofscience #openinnovation**<br><br>Cómo montar una tienda en Bitcoin y tener un monedero de Bitcoin exclusivamente con Software libre.<br><br>Proponemos un taller introductorio a Bitcoin y a su uso concreto para el comercio electrónico. Se presentará una solución completa para vender, almacenar monedas y protegerlas. Para ello se presentarán 4 herramientas que describiremos aquí debajo, pero claramente demuestran la posibilidad desde hoy mismo, de imaginarse un modelo de intercambio basado en el P2P, desde la venta (intercambio) hasta el almacenamiento de valor.<br><br>Basándonos en herramientas exclusivamente de Software libre, para una máxima confianza y seguridad, planteamos un workflow que ya ha hecho sus pruebas en cuanto a calidad, pero que sobre todo demuestra que no hablamos de utopía sino de una realidad que tardará mas o menos en llegar al conjunto de los ciudadanos del mundo. Hoy es igual de fácil de intercambiar con la gente del barrio como con quien este en el otro hemisferio.<br><br>Te proponemos anticipar la sociedad y economía P2P del futuro, pero hoy mismo.<br><br>https://mensuel.framapad.org/p/charlita?lang=fr |\n| ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |\n| XX:XX - YY-YY | ## Scriptwriting<br>- *Jean-Pierre Bekolo* *(**Director -& Producer / JEAN PIERRE BEKOLO SARL)*<br><br>**#imagine**<br>Throughout human history, stories have been central to our existence, the signal within the noise, recognisable patterns in which we find meaning and give sense to our world. The power of stories What make us human If stories themselves are universal, the way we tell them changes with the technology at hand and every new medium has given rise to new forms of narrative. With the arrival of the internet, our stories broke loose from their linear boundaries, becoming hyperlinked storylines, delivered in mutable and complex formats (audio, video and text). An open communication channel where participation is not only possible but expected and collective imagination can reach its full potential.                                                                                                                                                                                                                                                                                                                                                                                                                                                        |\n| XX:XX - YY-YY | ## **Open Innovation**<br>- *Alex Shkor (Founder, DEIP)*<br><br>**#republicofscience #openinnovation**<br>When we think of innovation, we think of a lone inventor in a garage. Possibly a researcher working at a university, or perhaps the research activities undertaken by a private company. That is we think of something that happens within a bounded space, that is the bounds of an individual legal person.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |\n\n\n"
+      },
+      "after": "2411d0237281da1f",
+      "date": 1571562919846
+    },
+    {
+      "id": "fa21e60205b0f487",
+      "type": "move",
+      "order": [
+        "fa21e60205b0f487",
+        "baddd89fa91bd37d",
+        "de80c457dd135c8d",
+        "ef3dd8fdbcef0cd6",
+        "d291018a61e82c85",
+        "d44aefa25c54ed16",
+        "b6632682ec4c9df0",
+        "e77f6b87e42a433d",
+        "c6879ca3e64f257e",
+        "2411d0237281da1f",
+        "a824ce8188fa5ac8"
+      ],
+      "date": 1571562931755
+    },
+    {
+      "type": "edit",
+      "id": "de80c457dd135c8d",
+      "item": {
+        "type": "calendar",
+        "id": "de80c457dd135c8d",
+        "text": "25/10/2019 Age of Consent"
+      },
+      "date": 1571562957143
+    },
+    {
+      "type": "edit",
+      "id": "de80c457dd135c8d",
+      "item": {
+        "type": "calendar",
+        "id": "de80c457dd135c8d",
+        "text": "25 OCT 2019              Age of Consent"
+      },
+      "date": 1571562980545
+    },
+    {
+      "type": "edit",
+      "id": "de80c457dd135c8d",
+      "item": {
+        "type": "calendar",
+        "id": "de80c457dd135c8d",
+        "text": "25 OCT 2019              Age of Consent - Decision Making for Now"
+      },
+      "date": 1571562989994
+    },
+    {
+      "type": "edit",
+      "id": "de80c457dd135c8d",
+      "item": {
+        "type": "calendar",
+        "id": "de80c457dd135c8d",
+        "text": "25 OCT 2019 Age of Consent - Decision Making for Now"
+      },
+      "date": 1571562995937
+    },
+    {
+      "type": "edit",
+      "id": "de80c457dd135c8d",
+      "item": {
+        "type": "calendar",
+        "id": "de80c457dd135c8d",
+        "text": "25 OCT 2019    Age of Consent - Decision Making for Now"
+      },
+      "date": 1571563009705
+    },
+    {
+      "type": "edit",
+      "id": "de80c457dd135c8d",
+      "item": {
+        "type": "calendar",
+        "id": "de80c457dd135c8d",
+        "text": "25 OCT 2019        Age of Consent - Decision Making for Now"
+      },
+      "date": 1571563016069
+    },
+    {
+      "type": "edit",
+      "id": "de80c457dd135c8d",
+      "item": {
+        "type": "calendar",
+        "id": "de80c457dd135c8d",
+        "text": "25 OCT 2019                Age of Consent - Decision Making for Now"
+      },
+      "date": 1571563020700
+    },
+    {
+      "type": "add",
+      "id": "5c2e84e6a6e44669",
+      "item": {
+        "type": "markdown",
+        "id": "5c2e84e6a6e44669",
+        "text": "# Time Zones for remote participation"
+      },
+      "after": "baddd89fa91bd37d",
+      "date": 1571563062378
+    },
+    {
+      "type": "edit",
+      "id": "5c2e84e6a6e44669",
+      "item": {
+        "type": "markdown",
+        "id": "5c2e84e6a6e44669",
+        "text": "# Remote participation\nHere are the times for the workshop available in your local time-zone."
+      },
+      "date": 1571563140853
+    },
+    {
+      "id": "de80c457dd135c8d",
+      "type": "move",
+      "order": [
+        "fa21e60205b0f487",
+        "baddd89fa91bd37d",
+        "de80c457dd135c8d",
+        "5c2e84e6a6e44669",
+        "ef3dd8fdbcef0cd6",
+        "d291018a61e82c85",
+        "d44aefa25c54ed16",
+        "b6632682ec4c9df0",
+        "e77f6b87e42a433d",
+        "c6879ca3e64f257e",
+        "2411d0237281da1f",
+        "a824ce8188fa5ac8"
+      ],
+      "date": 1571563150319
+    },
+    {
+      "type": "edit",
+      "id": "de80c457dd135c8d",
+      "item": {
+        "type": "calendar",
+        "id": "de80c457dd135c8d",
+        "text": "25 OCT 2019                Age of Consent"
+      },
+      "date": 1571563164714
+    },
+    {
+      "type": "edit",
+      "id": "de80c457dd135c8d",
+      "item": {
+        "type": "calendar",
+        "id": "de80c457dd135c8d",
+        "text": "25 OCT 2019                Age of Consent (Day 1)"
+      },
+      "date": 1571563185505
+    },
+    {
+      "type": "add",
+      "id": "646911219352dcc0",
+      "item": {
+        "type": "markdown",
+        "id": "646911219352dcc0",
+        "text": "# Day 1"
+      },
+      "after": "baddd89fa91bd37d",
+      "date": 1571563204449
+    },
+    {
+      "type": "edit",
+      "id": "d44aefa25c54ed16",
+      "item": {
+        "type": "markdown",
+        "id": "d44aefa25c54ed16",
+        "text": "- [[Future law Workshop]]\n"
+      },
+      "date": 1571563276903
+    },
+    {
+      "type": "edit",
+      "id": "d44aefa25c54ed16",
+      "item": {
+        "type": "markdown",
+        "id": "d44aefa25c54ed16",
+        "text": "- [[Future Law Workshop]]\n"
+      },
+      "date": 1571563283012
+    },
+    {
+      "type": "edit",
+      "id": "fa21e60205b0f487",
+      "item": {
+        "type": "markdown",
+        "id": "fa21e60205b0f487",
+        "text": "- [[Workshop: Age of Consent]]"
+      },
+      "date": 1571563311557
+    },
+    {
+      "type": "edit",
+      "id": "d44aefa25c54ed16",
+      "item": {
+        "type": "markdown",
+        "id": "d44aefa25c54ed16",
+        "text": "- [[Workshop: Future Law]]\n"
+      },
+      "date": 1571563320332
+    },
+    {
+      "id": "fa21e60205b0f487",
+      "type": "remove",
+      "date": 1571563337451
+    },
+    {
+      "type": "edit",
+      "id": "baddd89fa91bd37d",
+      "item": {
+        "type": "markdown",
+        "id": "baddd89fa91bd37d",
+        "text": "From work to our personal lives, how do we agree on where (our) boundaries are? What is consent? How does it differ from other forms of decision making? And what do you need to make it work? \n"
+      },
+      "date": 1571563359615
+    },
+    {
+      "type": "add",
+      "id": "b5c5acc0cd85959c",
+      "item": {
+        "type": "markdown",
+        "id": "b5c5acc0cd85959c",
+        "text": "Vincent van der Lubbe, Chair of Sociocracy for All, will guide you through the logical steps of consent, help you experiment with how they can work and what challenges lie ahead.\n"
+      },
+      "after": "baddd89fa91bd37d",
+      "date": 1571563360783
+    },
+    {
+      "id": "d44aefa25c54ed16",
+      "type": "remove",
+      "date": 1571563386271
+    },
+    {
+      "id": "a824ce8188fa5ac8",
+      "type": "remove",
+      "date": 1571563409572
+    },
+    {
+      "id": "b6632682ec4c9df0",
+      "type": "remove",
+      "date": 1571563416980
+    },
+    {
+      "id": "e77f6b87e42a433d",
+      "type": "remove",
+      "date": 1571563420138
+    },
+    {
+      "id": "c6879ca3e64f257e",
+      "type": "remove",
+      "date": 1571563422545
+    },
+    {
+      "id": "2411d0237281da1f",
+      "type": "remove",
+      "date": 1571563424365
+    },
+    {
+      "id": "d291018a61e82c85",
+      "type": "move",
+      "order": [
+        "baddd89fa91bd37d",
+        "b5c5acc0cd85959c",
+        "646911219352dcc0",
+        "d291018a61e82c85",
+        "de80c457dd135c8d",
+        "5c2e84e6a6e44669",
+        "ef3dd8fdbcef0cd6"
+      ],
+      "date": 1571563450254
+    },
+    {
+      "type": "edit",
+      "id": "ef3dd8fdbcef0cd6",
+      "item": {
+        "type": "zones",
+        "id": "ef3dd8fdbcef0cd6",
+        "text": "Wiki Weekly Hangout\nDATE 10/25/2019\nTIME 14:30\nFOR 60 min\nIN Madrid\nALSO Addis Ababa\nALSO New York\nALSO London\nHERE\n"
+      },
+      "date": 1571563670353
+    },
+    {
+      "type": "edit",
+      "id": "ef3dd8fdbcef0cd6",
+      "item": {
+        "type": "zones",
+        "id": "ef3dd8fdbcef0cd6",
+        "text": "Wiki Weekly Hangout\nDATE 10/25/2019\nTIME 14:30\nFOR 60 min\nIN Spain\nALSO Addis Ababa\nALSO New York\nALSO London\nHERE\n"
+      },
+      "date": 1571563718334
+    },
+    {
+      "type": "edit",
+      "id": "ef3dd8fdbcef0cd6",
+      "item": {
+        "type": "zones",
+        "id": "ef3dd8fdbcef0cd6",
+        "text": "Wiki Weekly Hangout\nDATE 10/25/2019\nTIME 14:30\nFOR 60 min\nIN Berlin\nALSO Addis Ababa\nALSO New York\nALSO London\nHERE\n"
+      },
+      "date": 1571563801570
+    },
+    {
+      "type": "edit",
+      "id": "ef3dd8fdbcef0cd6",
+      "item": {
+        "type": "zones",
+        "id": "ef3dd8fdbcef0cd6",
+        "text": "Wiki Weekly Hangout\nDATE 10/25/2019\nTIME 14:30\nFOR 60 min\nIN Barcelona\nALSO Addis Ababa\nALSO New York\nALSO London\nHERE\n"
+      },
+      "date": 1571563815088
+    },
+    {
+      "type": "edit",
+      "id": "ef3dd8fdbcef0cd6",
+      "item": {
+        "type": "zones",
+        "id": "ef3dd8fdbcef0cd6",
+        "text": "Wiki Weekly Hangout\nDATE 10/25/2019\nTIME 14:30\nFOR 60 min\nIN Europe/Paris\nALSO Addis Ababa\nALSO New York\nALSO London\nHERE\n"
+      },
+      "date": 1571563885465
+    },
+    {
+      "type": "edit",
+      "id": "ef3dd8fdbcef0cd6",
+      "item": {
+        "type": "zones",
+        "id": "ef3dd8fdbcef0cd6",
+        "text": "Wiki Weekly Hangout\nDATE 10/25/2019\nTIME 14:30\nFOR 60 min\nIN Europe/Paris\nALSO Africa/Lagos\nALSO New York\nALSO London\nHERE\n"
+      },
+      "date": 1571564049188
+    },
+    {
+      "type": "edit",
+      "id": "ef3dd8fdbcef0cd6",
+      "item": {
+        "type": "zones",
+        "id": "ef3dd8fdbcef0cd6",
+        "text": "Wiki Weekly Hangout\nDATE 10/25/2019\nTIME 14:30\nFOR 60 min\nIN Europe/Paris\nALSO Africa/Addis_Ababa\nALSO Africa/Lagos\nALSO New York\nALSO London\nHERE\n"
+      },
+      "date": 1571564073687
+    },
+    {
+      "type": "edit",
+      "id": "ef3dd8fdbcef0cd6",
+      "item": {
+        "type": "zones",
+        "id": "ef3dd8fdbcef0cd6",
+        "text": "Wiki Weekly Hangout\nDATE 10/25/2019\nTIME 14:30\nFOR 60 min\nIN Europe/Paris\nALSO Africa/Addis_Ababa\nALSO Africa/Lagos\nALSO America/Los_Angeles\nALSO New York\nALSO London\nHERE\n"
+      },
+      "date": 1571564170188
+    },
+    {
+      "type": "edit",
+      "id": "ef3dd8fdbcef0cd6",
+      "item": {
+        "type": "zones",
+        "id": "ef3dd8fdbcef0cd6",
+        "text": "Wiki Weekly Hangout\nDATE 10/25/2019\nTIME 14:30\nFOR 60 min\nIN Europe/Paris\nALSO Africa/Addis_Ababa\nALSO Africa/Lagos\nALSO America/Los_Angeles\nALSO America/New_York\nALSO London\nHERE\n"
+      },
+      "date": 1571564184084
+    },
+    {
+      "type": "edit",
+      "id": "ef3dd8fdbcef0cd6",
+      "item": {
+        "type": "zones",
+        "id": "ef3dd8fdbcef0cd6",
+        "text": "Workshop: The Age of Consent\nDATE 10/25/2019\nTIME 14:30\nFOR 60 min\nIN Europe/Paris\nALSO Africa/Addis_Ababa\nALSO Africa/Lagos\nALSO America/Los_Angeles\nALSO America/New_York\nALSO London\nHERE\n"
+      },
+      "date": 1571564226600
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "72855afa291c62f3"
+      },
+      "id": "72855afa291c62f3",
+      "type": "add",
+      "after": "ef3dd8fdbcef0cd6",
+      "date": 1571564554882
+    },
+    {
+      "type": "edit",
+      "id": "72855afa291c62f3",
+      "item": {
+        "type": "code",
+        "id": "72855afa291c62f3",
+        "text": "16:00\n17:30"
+      },
+      "date": 1571564579587
+    },
+    {
+      "id": "72855afa291c62f3",
+      "type": "move",
+      "order": [
+        "baddd89fa91bd37d",
+        "b5c5acc0cd85959c",
+        "646911219352dcc0",
+        "72855afa291c62f3",
+        "d291018a61e82c85",
+        "de80c457dd135c8d",
+        "5c2e84e6a6e44669",
+        "ef3dd8fdbcef0cd6"
+      ],
+      "date": 1571564726359
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "465057e72eb71549"
+      },
+      "id": "465057e72eb71549",
+      "type": "add",
+      "after": "ef3dd8fdbcef0cd6",
+      "date": 1571564752926
+    },
+    {
+      "type": "edit",
+      "id": "465057e72eb71549",
+      "item": {
+        "type": "zones",
+        "id": "465057e72eb71549",
+        "text": "sdfafdsfds fadfda\nTIME 15:55\nFOR 25 min\nIN Madrid"
+      },
+      "date": 1571564789284
+    },
+    {
+      "type": "edit",
+      "id": "465057e72eb71549",
+      "item": {
+        "type": "zones",
+        "id": "465057e72eb71549",
+        "text": "Introduction to Lexon\nDATE 10/25/2019\nTIME 15:55\nFOR 25 min\nIN Europe/Paris\n"
+      },
+      "date": 1571564848564
+    },
+    {
+      "id": "465057e72eb71549",
+      "type": "move",
+      "order": [
+        "baddd89fa91bd37d",
+        "b5c5acc0cd85959c",
+        "646911219352dcc0",
+        "72855afa291c62f3",
+        "465057e72eb71549",
+        "d291018a61e82c85",
+        "de80c457dd135c8d",
+        "5c2e84e6a6e44669",
+        "ef3dd8fdbcef0cd6"
+      ],
+      "date": 1571564871126
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "182126ef3788408d"
+      },
+      "id": "182126ef3788408d",
+      "type": "add",
+      "after": "ef3dd8fdbcef0cd6",
+      "date": 1571564886793
+    },
+    {
+      "type": "edit",
+      "id": "182126ef3788408d",
+      "item": {
+        "type": "zones",
+        "id": "182126ef3788408d",
+        "text": "Lexon Deep Dive\nDATE 10/25/2019\nTIME 16:20\nFOR 70 min\nIN Europe/Paris\n"
+      },
+      "date": 1571564936964
+    },
+    {
+      "id": "182126ef3788408d",
+      "type": "move",
+      "order": [
+        "baddd89fa91bd37d",
+        "b5c5acc0cd85959c",
+        "646911219352dcc0",
+        "72855afa291c62f3",
+        "465057e72eb71549",
+        "182126ef3788408d",
+        "d291018a61e82c85",
+        "de80c457dd135c8d",
+        "5c2e84e6a6e44669",
+        "ef3dd8fdbcef0cd6"
+      ],
+      "date": 1571564943688
+    },
+    {
+      "id": "d291018a61e82c85",
+      "type": "move",
+      "order": [
+        "baddd89fa91bd37d",
+        "b5c5acc0cd85959c",
+        "646911219352dcc0",
+        "d291018a61e82c85",
+        "72855afa291c62f3",
+        "465057e72eb71549",
+        "182126ef3788408d",
+        "de80c457dd135c8d",
+        "5c2e84e6a6e44669",
+        "ef3dd8fdbcef0cd6"
+      ],
+      "date": 1571566659611
+    },
+    {
+      "type": "edit",
+      "id": "646911219352dcc0",
+      "item": {
+        "type": "markdown",
+        "id": "646911219352dcc0",
+        "text": "# Day 1 (Saturday 25th October)"
+      },
+      "date": 1571566666480
+    },
+    {
+      "type": "remove",
+      "id": "de80c457dd135c8d",
+      "date": 1571566670055
+    },
+    {
+      "type": "remove",
+      "id": "d291018a61e82c85",
+      "date": 1571570610526
+    },
+    {
+      "type": "edit",
+      "id": "72855afa291c62f3",
+      "item": {
+        "type": "code",
+        "id": "72855afa291c62f3",
+        "text": "The Age of Consent - Decision Making for Now\nVincent van der Lubbe\nChair Sociocracy for All / Hansei Consulting\n#whatisdemocracy"
+      },
+      "date": 1571570635418
+    },
+    {
+      "type": "edit",
+      "id": "72855afa291c62f3",
+      "item": {
+        "type": "code",
+        "id": "72855afa291c62f3",
+        "text": "The Age of Consent - Decision Making for Now\n#whatisdemocracy\n\nVincent van der Lubbe\nChair Sociocracy for All / Hansei Consulting"
+      },
+      "date": 1571570650520
+    },
+    {
+      "type": "edit",
+      "id": "72855afa291c62f3",
+      "item": {
+        "type": "code",
+        "id": "72855afa291c62f3",
+        "text": "The Age of Consent - Decision Making for Now\n\nVincent van der Lubbe\nChair Sociocracy for All / Hansei Consulting"
+      },
+      "date": 1571570657563
+    },
+    {
+      "type": "edit",
+      "id": "baddd89fa91bd37d",
+      "item": {
+        "type": "markdown",
+        "id": "baddd89fa91bd37d",
+        "text": "From work to our personal lives, how do we agree on where (our) boundaries are? What is consent? How does it differ from other forms of decision making? And what do you need to make it work?\n\n#whatisdemocracy\n"
+      },
+      "date": 1571570686515
+    },
+    {
+      "type": "edit",
+      "id": "baddd89fa91bd37d",
+      "item": {
+        "type": "markdown",
+        "id": "baddd89fa91bd37d",
+        "text": "From work to our personal lives, how do we agree on where (our) boundaries are? What is consent? How does it differ from other forms of decision making? And what do you need to make it work?\n"
+      },
+      "date": 1571570701506
+    },
+    {
+      "type": "add",
+      "id": "b36d607f636e8fb8",
+      "item": {
+        "type": "markdown",
+        "id": "b36d607f636e8fb8",
+        "text": "# Keywords\n"
+      },
+      "after": "baddd89fa91bd37d",
+      "date": 1571570714430
+    },
+    {
+      "type": "add",
+      "id": "1a905561914ba541",
+      "item": {
+        "type": "markdown",
+        "id": "1a905561914ba541",
+        "text": "[[What is democracy]]\n"
+      },
+      "after": "b36d607f636e8fb8",
+      "date": 1571570724365
+    },
+    {
+      "type": "remove",
+      "id": "1a905561914ba541",
+      "date": 1571570732887
+    },
+    {
+      "type": "edit",
+      "id": "b36d607f636e8fb8",
+      "item": {
+        "type": "markdown",
+        "id": "b36d607f636e8fb8",
+        "text": "# Keywords\n\n[[What is democracy]]\n"
+      },
+      "date": 1571570736138
+    },
+    {
+      "id": "b36d607f636e8fb8",
+      "type": "move",
+      "order": [
+        "baddd89fa91bd37d",
+        "b5c5acc0cd85959c",
+        "646911219352dcc0",
+        "72855afa291c62f3",
+        "b36d607f636e8fb8",
+        "465057e72eb71549",
+        "182126ef3788408d",
+        "5c2e84e6a6e44669",
+        "ef3dd8fdbcef0cd6"
+      ],
+      "date": 1571570742636
+    },
+    {
+      "type": "edit",
+      "id": "646911219352dcc0",
+      "item": {
+        "type": "markdown",
+        "id": "646911219352dcc0",
+        "text": "# Workshop Details"
+      },
+      "date": 1571570773631
+    },
+    {
+      "type": "edit",
+      "id": "72855afa291c62f3",
+      "item": {
+        "type": "code",
+        "id": "72855afa291c62f3",
+        "text": "The Age of Consent - Decision Making for Now\n\nVincent van der Lubbe\nChair Sociocracy for All / Hansei Consulting\n\nDay 1 (Saturday 25th October)\nStart: 15:55\nEnd: 16:20"
+      },
+      "date": 1571570824597
+    },
+    {
+      "type": "edit",
+      "id": "72855afa291c62f3",
+      "item": {
+        "type": "code",
+        "id": "72855afa291c62f3",
+        "text": "The Age of Consent - Decision Making for Now\n\nVincent van der Lubbe\nChair Sociocracy for All / Hansei Consulting\n\nDay 1 (Saturday 25th October)\nStart: 15:55  -  End: 16:20"
+      },
+      "date": 1571570836067
+    },
+    {
+      "type": "edit",
+      "id": "72855afa291c62f3",
+      "item": {
+        "type": "code",
+        "id": "72855afa291c62f3",
+        "text": "The Age of Consent - Decision Making for Now\n\nVincent van der Lubbe\nChair Sociocracy for All / Hansei Consulting\n\nAfternoon Day 1 (Saturday 25th October)\nStart: 15:55  -  End: 16:20"
+      },
+      "date": 1571570864274
+    },
+    {
+      "type": "edit",
+      "id": "72855afa291c62f3",
+      "item": {
+        "type": "code",
+        "id": "72855afa291c62f3",
+        "text": "The Age of Consent - Decision Making for Now\n\nVincent van der Lubbe\nChair Sociocracy for All / Hansei Consulting\n\nAfternoon Day 1\nSaturday 25th October\nStart: 15:55  -  End: 16:20"
+      },
+      "date": 1571570875881
+    },
+    {
+      "type": "add",
+      "id": "a15182363aaab35f",
+      "item": {
+        "type": "markdown",
+        "id": "a15182363aaab35f",
+        "text": "# Time"
+      },
+      "after": "b36d607f636e8fb8",
+      "date": 1571570892155
+    },
+    {
+      "type": "edit",
+      "id": "a15182363aaab35f",
+      "item": {
+        "type": "markdown",
+        "id": "a15182363aaab35f",
+        "text": "# Workshop Times"
+      },
+      "date": 1571570900197
+    },
+    {
+      "type": "edit",
+      "id": "5c2e84e6a6e44669",
+      "item": {
+        "type": "markdown",
+        "id": "5c2e84e6a6e44669",
+        "text": "# Remote participation\n\n"
+      },
+      "date": 1571570913566
+    },
+    {
+      "type": "add",
+      "id": "899ff3a74a33caae",
+      "item": {
+        "type": "markdown",
+        "id": "899ff3a74a33caae",
+        "text": "Here are the times for the workshop available in your local time-zone. You can take part in this workshop remotely by joining with Zoom:\n\n- "
+      },
+      "after": "5c2e84e6a6e44669",
+      "date": 1571570946345
+    },
+    {
+      "type": "edit",
+      "id": "899ff3a74a33caae",
+      "item": {
+        "type": "markdown",
+        "id": "899ff3a74a33caae",
+        "text": "Here are the times for the workshop available in your local time-zone. \n"
+      },
+      "date": 1571570965089
+    },
+    {
+      "type": "add",
+      "id": "1f0e3175e4c36c6f",
+      "item": {
+        "type": "markdown",
+        "id": "1f0e3175e4c36c6f",
+        "text": "You can take part in this workshop remotely by joining with Zoom:\n\n- "
+      },
+      "after": "899ff3a74a33caae",
+      "date": 1571570965563
+    },
+    {
+      "id": "899ff3a74a33caae",
+      "type": "move",
+      "order": [
+        "baddd89fa91bd37d",
+        "b5c5acc0cd85959c",
+        "646911219352dcc0",
+        "72855afa291c62f3",
+        "b36d607f636e8fb8",
+        "a15182363aaab35f",
+        "465057e72eb71549",
+        "182126ef3788408d",
+        "5c2e84e6a6e44669",
+        "1f0e3175e4c36c6f",
+        "899ff3a74a33caae",
+        "ef3dd8fdbcef0cd6"
+      ],
+      "date": 1571570967654
+    },
+    {
+      "type": "edit",
+      "id": "1f0e3175e4c36c6f",
+      "item": {
+        "type": "markdown",
+        "id": "1f0e3175e4c36c6f",
+        "text": "You can take part in this workshop remotely by joining with Zoom:\n\n- https://zoom.us/j/703602118"
+      },
+      "date": 1571571093229
+    },
+    {
+      "type": "edit",
+      "id": "a15182363aaab35f",
+      "item": {
+        "type": "markdown",
+        "id": "a15182363aaab35f",
+        "text": "# Workshop Times\n"
+      },
+      "date": 1571571112809
+    },
+    {
+      "type": "add",
+      "id": "b259980faa5f80e8",
+      "item": {
+        "type": "markdown",
+        "id": "b259980faa5f80e8",
+        "text": "The following workshop will take place during the networking break.\n"
+      },
+      "after": "a15182363aaab35f",
+      "date": 1571571132106
+    },
+    {
+      "type": "add",
+      "id": "5a8f48c84c8314cf",
+      "item": {
+        "type": "markdown",
+        "id": "5a8f48c84c8314cf",
+        "text": "For those interested in a more in depth hands-on experience, consider staying for:"
+      },
+      "after": "b259980faa5f80e8",
+      "date": 1571571194017
+    },
+    {
+      "id": "5a8f48c84c8314cf",
+      "type": "move",
+      "order": [
+        "baddd89fa91bd37d",
+        "b5c5acc0cd85959c",
+        "646911219352dcc0",
+        "72855afa291c62f3",
+        "b36d607f636e8fb8",
+        "a15182363aaab35f",
+        "b259980faa5f80e8",
+        "465057e72eb71549",
+        "5a8f48c84c8314cf",
+        "182126ef3788408d",
+        "5c2e84e6a6e44669",
+        "1f0e3175e4c36c6f",
+        "899ff3a74a33caae",
+        "ef3dd8fdbcef0cd6"
+      ],
+      "date": 1571571197122
+    },
+    {
+      "type": "edit",
+      "id": "b36d607f636e8fb8",
+      "item": {
+        "type": "markdown",
+        "id": "b36d607f636e8fb8",
+        "text": "# Keywords\n\n[[What is democracy?]]\n"
+      },
+      "date": 1571571204420
+    },
+    {
+      "type": "edit",
+      "id": "b36d607f636e8fb8",
+      "item": {
+        "type": "markdown",
+        "id": "b36d607f636e8fb8",
+        "text": "# Key Concepts\n\n[[What is democracy?]]\n"
+      },
+      "date": 1571571217884
+    },
+    {
+      "type": "edit",
+      "id": "b36d607f636e8fb8",
+      "item": {
+        "type": "markdown",
+        "id": "b36d607f636e8fb8",
+        "text": "# Concepts\n\n[[What is democracy?]]\n"
+      },
+      "date": 1571571226608
+    },
+    {
+      "id": "b36d607f636e8fb8",
+      "type": "move",
+      "order": [
+        "baddd89fa91bd37d",
+        "b5c5acc0cd85959c",
+        "b36d607f636e8fb8",
+        "646911219352dcc0",
+        "72855afa291c62f3",
+        "a15182363aaab35f",
+        "b259980faa5f80e8",
+        "465057e72eb71549",
+        "5a8f48c84c8314cf",
+        "182126ef3788408d",
+        "5c2e84e6a6e44669",
+        "1f0e3175e4c36c6f",
+        "899ff3a74a33caae",
+        "ef3dd8fdbcef0cd6"
+      ],
+      "date": 1571572361882
+    },
+    {
+      "type": "edit",
+      "id": "b36d607f636e8fb8",
+      "item": {
+        "type": "markdown",
+        "id": "b36d607f636e8fb8",
+        "text": "# Concepts explored in this workshop\n\n[[What is democracy?]]\n"
+      },
+      "date": 1571572380690
+    },
+    {
+      "type": "edit",
+      "id": "b36d607f636e8fb8",
+      "item": {
+        "type": "markdown",
+        "id": "b36d607f636e8fb8",
+        "text": "# Concepts\nThe workshop explores the following concepts:\n\n- [[What is democracy?]]\n"
+      },
+      "date": 1571572420744
+    },
+    {
+      "type": "edit",
+      "id": "b259980faa5f80e8",
+      "item": {
+        "type": "markdown",
+        "id": "b259980faa5f80e8",
+        "text": "The following 25 min workshop will take place during the networking break (15:55 - 16:20).\n"
+      },
+      "date": 1571572433891
+    },
+    {
+      "type": "edit",
+      "id": "5a8f48c84c8314cf",
+      "item": {
+        "type": "markdown",
+        "id": "5a8f48c84c8314cf",
+        "text": "For those interested, consider staying for a more in-depth (70 min) workshop. hands-on experience (16:20 - 17:30). "
+      },
+      "date": 1571572441693
+    },
+    {
+      "type": "edit",
+      "id": "899ff3a74a33caae",
+      "item": {
+        "type": "markdown",
+        "id": "899ff3a74a33caae",
+        "text": "Here is the start time for the workshop available in your local time-zone. \n"
+      },
+      "date": 1571572476255
+    },
+    {
+      "type": "edit",
+      "id": "ef3dd8fdbcef0cd6",
+      "item": {
+        "type": "zones",
+        "id": "ef3dd8fdbcef0cd6",
+        "text": "Workshop: The Age of Consent\nDATE 10/25/2019\nTIME 14:30\nFOR 120 min\nIN Europe/Paris\nALSO Africa/Addis_Ababa\nALSO Africa/Lagos\nALSO America/Los_Angeles\nALSO America/New_York\nALSO London\nHERE\n"
+      },
+      "date": 1571572488725
+    },
+    {
+      "type": "edit",
+      "id": "72855afa291c62f3",
+      "item": {
+        "type": "code",
+        "id": "72855afa291c62f3",
+        "text": "The Age of Consent - Decision Making for Now\n\nAfternoon Day 1, Saturday 25th October\nStart: 15:55  -  End: 16:20\n\nVincent van der Lubbe\nChair Sociocracy for All / Hansei Consulting"
+      },
+      "date": 1571805172530
+    },
+    {
+      "id": "1f2b9299c8ec96de",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "1f2b9299c8ec96de",
+        "text": "# Place\n\n- Category:  [[Law]]\n- Moment: [[Middle Ages]]\n"
+      },
+      "after": "b36d607f636e8fb8",
+      "date": 1571827269882
+    }
+  ]
+}

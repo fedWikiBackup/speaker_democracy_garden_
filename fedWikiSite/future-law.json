@@ -1,0 +1,2370 @@
+{
+  "title": "Future Law",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "580d0f668f6000f7",
+      "text": "In the future law will become a language accessible to all. \n"
+    },
+    {
+      "type": "markdown",
+      "id": "effc7d340e59b5d4",
+      "text": "In this talk, and the accompanying workshop we explore the ideas and technologies at the heart of [[life-like governance]] and the __future of law__. \n"
+    },
+    {
+      "type": "markdown",
+      "id": "4d724a770480e125",
+      "text": "What is a smart contract, and how can we democratise the process of creating the laws and code that govern our every day lives in an increasingly technologically driven society?\n"
+    },
+    {
+      "type": "markdown",
+      "id": "dc30f30863340194",
+      "text": " [[Henning Dietrich]], the founder of [[Lexon]] introduces a new way to code [[smart contracts]]. Using natural language processing, Lexon enables, non-coders, lawyers, philosophers, hackers and students of the future to create decentralised code (smart contracts) on the blockchain.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "9527bc2a84c39f7c",
+      "text": "# Democracy\n"
+    },
+    {
+      "type": "markdown",
+      "id": "7c6c487350db047b",
+      "text": "If smart contracts are the future of law, and law is the basis of a democratic society - then who are the new lawyers? \n"
+    },
+    {
+      "type": "markdown",
+      "id": "9d8b8fefbdacb808",
+      "text": "If we desire to have any real control over the future direction of our society, then we need to teach our children not just how to code, but how to understand the code that runs our society - and then how to change it.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "c3ba4f161913eca3",
+      "text": "Smart contracts, and the computer languages associated with them, are at the forefront of this new technology, and this technology is too powerful to be left simply to coders.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "e66be7334bed446b",
+      "text": "Domain specific legal languages, and natural language processing enable new ways for human beings to write agreements.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "b394e42c15512115",
+      "text": "Come down. Get involved. Talk to us. Join a workshop. The future needs a helping hand."
+    },
+    {
+      "type": "markdown",
+      "id": "259d0e8c989dc563",
+      "text": "# Workshop\n"
+    },
+    {
+      "type": "markdown",
+      "id": "f4d8022f654e2349",
+      "text": "Explore how the combination of natural language processing and smart contracts can enable anyone to create new forms of social structure, new forms of company structure, new business models - in short new forms of governance designed for the modern world. \n"
+    },
+    {
+      "type": "markdown",
+      "id": "c6b6122e73b8e3f5",
+      "text": "- Join us in a hands-on workshop to experience how to turn your ideas into smart contracts for your projects.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "33085b558f74d59d",
+      "text": "- Create smart contracts using natural language. English, Japanese, Catalan? Experience the future of human centred governance.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "e3373085626ac5db",
+      "text": "- Create smart contracts using human language. Experience the future of law and decentralised governance. Try it yourself.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "d7ca319596d126d9",
+      "text": "# Provocation\n"
+    },
+    {
+      "type": "markdown",
+      "id": "5a4b4362d65d539f",
+      "text": "- Wakeup!\n"
+    },
+    {
+      "type": "pagefold",
+      "id": "15d29c98e682f4ef",
+      "text": "Lexon video intro"
+    },
+    {
+      "type": "markdown",
+      "id": "a83d1a812f454999",
+      "text": "Eye => Brain\n"
+    },
+    {
+      "type": "pagefold",
+      "id": "bb719c5fac1cc449",
+      "text": "Scratch Title"
+    },
+    {
+      "type": "markdown",
+      "id": "35fd912e75f99732",
+      "text": "- We run our societies on a medieval operating system.\n"
+    },
+    {
+      "type": "pagefold",
+      "id": "fbc58c5903bb29db",
+      "text": "Lexon video ?"
+    },
+    {
+      "type": "markdown",
+      "id": "cbc8343f79660566",
+      "text": "Artificial intelligence, big data, surveillance, biotechnology, quantum computing, driverless cars, CRISPR....\n"
+    },
+    {
+      "type": "pagefold",
+      "id": "56fd6b34ded10f20",
+      "text": "Scratch Titles"
+    },
+    {
+      "type": "markdown",
+      "id": "6a90208eca2a82cb",
+      "text": "- Technology grows exponentially.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "50be2a8a79ae4568",
+      "text": "- But the way we organise ourselves is static - ossified. \n"
+    },
+    {
+      "type": "markdown",
+      "id": "aab7b3237048d3d4",
+      "text": "- The way we organise ourselves is quite literally medieval.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "fc50d32502a5403e",
+      "text": "- We need to evolve our organisational structures to keep pace with our technological prowess.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "d2341b7606ce6555",
+      "text": "- The question then is how?"
+    },
+    {
+      "type": "pagefold",
+      "id": "b76f31ca81d9cc62",
+      "text": "Lexon video"
+    },
+    {
+      "type": "markdown",
+      "id": "f6689f775ed9eb4e",
+      "text": "Code => Data\n"
+    },
+    {
+      "type": "pagefold",
+      "id": "4c6bdf3746996886",
+      "text": "Lexon video"
+    },
+    {
+      "type": "markdown",
+      "id": "dd6f4a8b1e865937",
+      "text": "How smart is the code?\nThat redefines living?\n"
+    },
+    {
+      "type": "markdown",
+      "id": "db2a9a782e7e3b59",
+      "text": "And who writes it?"
+    },
+    {
+      "type": "pagefold",
+      "id": "9d1b838e756f9e5c",
+      "text": "Optimistic (yellow) Ending (fade to white)"
+    },
+    {
+      "type": "markdown",
+      "id": "d622f5944c0f3865",
+      "text": "When humans have the ability to create their own agreements - that is literally write them down in a way that matches their values - then we have a platform that we can build on. \n"
+    },
+    {
+      "type": "markdown",
+      "id": "350c4ee065ff254c",
+      "text": "A platform that we can use to create more flexible agreements. \n"
+    },
+    {
+      "type": "markdown",
+      "id": "6557315e0fad1884",
+      "text": "A platform we can use to build more just and representative processes throughout our society.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "de309e18a5c0866e",
+      "text": "The most powerful and expressive tool we have to express our values is language. \n"
+    },
+    {
+      "type": "markdown",
+      "id": "81d2a1654710132e",
+      "text": "When we can use natural language to write smart contracts then we can begin to structure workshops that involve real communities in the process of creating theri own governance.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "62fd937503c04260",
+      "text": "We can do workshops that involve local people, lawyers, politicians and community leaders, to create robust and fair agreements about how we run our organisations and how we alloc ate our resources.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "a3749af36d561c26",
+      "text": "We can:"
+    },
+    {
+      "type": "markdown",
+      "id": "19228bbe86aa0e9f",
+      "text": "- Create your own governance. \n- Write your own law.\n- Decide how you share income in your collective.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "5ca287c50de90432",
+      "text": "- Create new ways to decide and share together.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "86d3da32b2da422a",
+      "text": "- Keep humans in charge\n"
+    },
+    {
+      "type": "markdown",
+      "id": "0bc0dbe8fb13d5c4",
+      "text": "- Create life-like governance\n- Crafted by people for people."
+    },
+    {
+      "type": "pagefold",
+      "id": "cc7b7704d68238b3",
+      "text": "Scratch Title"
+    },
+    {
+      "type": "markdown",
+      "id": "1efca81e5c308454",
+      "text": "- Code is law.\n- Who are the new lawyers?"
+    }
+  ],
+  "journal": [
+    {
+      "type": "fork",
+      "date": 1570883479002
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "580d0f668f6000f7"
+      },
+      "id": "580d0f668f6000f7",
+      "type": "add",
+      "date": 1570883480116
+    },
+    {
+      "type": "edit",
+      "id": "580d0f668f6000f7",
+      "item": {
+        "type": "markdown",
+        "id": "580d0f668f6000f7",
+        "text": "In the future law will become a language accessible to all. "
+      },
+      "date": 1570883585305
+    },
+    {
+      "type": "edit",
+      "id": "580d0f668f6000f7",
+      "item": {
+        "type": "markdown",
+        "id": "580d0f668f6000f7",
+        "text": "In the future law will become a language accessible to all. \n"
+      },
+      "date": 1570883686417
+    },
+    {
+      "type": "add",
+      "id": "effc7d340e59b5d4",
+      "item": {
+        "type": "markdown",
+        "id": "effc7d340e59b5d4",
+        "text": "Life-like governance implies anyone can understand and write their own smart contracts. \n"
+      },
+      "after": "580d0f668f6000f7",
+      "date": 1570883704344
+    },
+    {
+      "type": "add",
+      "id": "33085b558f74d59d",
+      "item": {
+        "type": "markdown",
+        "id": "33085b558f74d59d",
+        "text": "Code smart contracts using natural language. English, Japanese, Catalan? "
+      },
+      "after": "effc7d340e59b5d4",
+      "date": 1570883741433
+    },
+    {
+      "type": "edit",
+      "id": "33085b558f74d59d",
+      "item": {
+        "type": "markdown",
+        "id": "33085b558f74d59d",
+        "text": "Create smart contracts using natural language. English, Japanese, Catalan? Experience the future of human centred governance."
+      },
+      "date": 1570883844048
+    },
+    {
+      "type": "edit",
+      "id": "33085b558f74d59d",
+      "item": {
+        "type": "markdown",
+        "id": "33085b558f74d59d",
+        "text": "Create smart contracts using natural language. English, Japanese, Catalan? Experience the future of human centred governance.\n"
+      },
+      "date": 1570883905944
+    },
+    {
+      "type": "add",
+      "id": "e3373085626ac5db",
+      "item": {
+        "type": "markdown",
+        "id": "e3373085626ac5db",
+        "text": "Create smart contracts using human language. Experience the future of law and decentralised governance. Try it yourself."
+      },
+      "after": "33085b558f74d59d",
+      "date": 1570883962972
+    },
+    {
+      "type": "edit",
+      "id": "e3373085626ac5db",
+      "item": {
+        "type": "markdown",
+        "id": "e3373085626ac5db",
+        "text": "Create smart contracts using human language. Experience the future of law and decentralised governance. Try it yourself.\n"
+      },
+      "date": 1570972493225,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "add",
+      "id": "d7ca319596d126d9",
+      "item": {
+        "type": "markdown",
+        "id": "d7ca319596d126d9",
+        "text": "# Provocation"
+      },
+      "after": "e3373085626ac5db",
+      "date": 1570972500475,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1570972513829
+    },
+    {
+      "type": "edit",
+      "id": "d7ca319596d126d9",
+      "item": {
+        "type": "markdown",
+        "id": "d7ca319596d126d9",
+        "text": "# Provocation\n"
+      },
+      "date": 1570972519693
+    },
+    {
+      "type": "add",
+      "id": "dd6f4a8b1e865937",
+      "item": {
+        "type": "markdown",
+        "id": "dd6f4a8b1e865937",
+        "text": "How smart is the code?\n"
+      },
+      "after": "d7ca319596d126d9",
+      "date": 1570972544226
+    },
+    {
+      "type": "add",
+      "id": "5a4b4362d65d539f",
+      "item": {
+        "type": "markdown",
+        "id": "5a4b4362d65d539f",
+        "text": "We run our societies on a medieval operating system.\n"
+      },
+      "after": "dd6f4a8b1e865937",
+      "date": 1570972734079
+    },
+    {
+      "type": "add",
+      "id": "cbc8343f79660566",
+      "item": {
+        "type": "markdown",
+        "id": "cbc8343f79660566",
+        "text": "Artificial intelligence, big data, surveillance, biotechnology, quantum computing, driverless cars, CRISPR....\n"
+      },
+      "after": "5a4b4362d65d539f",
+      "date": 1570972737104
+    },
+    {
+      "type": "add",
+      "id": "5eec2ff8ba7bccb6",
+      "item": {
+        "type": "markdown",
+        "id": "5eec2ff8ba7bccb6",
+        "text": "Technology grows exponentially."
+      },
+      "after": "cbc8343f79660566",
+      "date": 1570972739961
+    },
+    {
+      "id": "dd6f4a8b1e865937",
+      "type": "move",
+      "order": [
+        "580d0f668f6000f7",
+        "effc7d340e59b5d4",
+        "33085b558f74d59d",
+        "e3373085626ac5db",
+        "d7ca319596d126d9",
+        "5a4b4362d65d539f",
+        "cbc8343f79660566",
+        "5eec2ff8ba7bccb6",
+        "dd6f4a8b1e865937"
+      ],
+      "date": 1570972745871
+    },
+    {
+      "type": "edit",
+      "id": "5eec2ff8ba7bccb6",
+      "item": {
+        "type": "markdown",
+        "id": "5eec2ff8ba7bccb6",
+        "text": "Technology grows exponentially.\n"
+      },
+      "date": 1570972755706
+    },
+    {
+      "type": "add",
+      "id": "f6689f775ed9eb4e",
+      "item": {
+        "type": "markdown",
+        "id": "f6689f775ed9eb4e",
+        "text": "Code is law."
+      },
+      "after": "5eec2ff8ba7bccb6",
+      "date": 1570972757931
+    },
+    {
+      "type": "edit",
+      "id": "dd6f4a8b1e865937",
+      "item": {
+        "type": "markdown",
+        "id": "dd6f4a8b1e865937",
+        "text": "How smart is the code?\nThat redefines living?\n"
+      },
+      "date": 1570972780649
+    },
+    {
+      "type": "remove",
+      "id": "5eec2ff8ba7bccb6",
+      "date": 1570972787779
+    },
+    {
+      "type": "edit",
+      "id": "cbc8343f79660566",
+      "item": {
+        "type": "markdown",
+        "id": "cbc8343f79660566",
+        "text": "Artificial intelligence, big data, surveillance, biotechnology, quantum computing, driverless cars, CRISPR....\n\nTechnology grows exponentially.\n"
+      },
+      "date": 1570972791559
+    },
+    {
+      "type": "edit",
+      "id": "5a4b4362d65d539f",
+      "item": {
+        "type": "markdown",
+        "id": "5a4b4362d65d539f",
+        "text": "Wakeup - Eye => Brain\n"
+      },
+      "date": 1570972912945
+    },
+    {
+      "type": "add",
+      "id": "35fd912e75f99732",
+      "item": {
+        "type": "markdown",
+        "id": "35fd912e75f99732",
+        "text": "We run our societies on a medieval operating system.\n"
+      },
+      "after": "5a4b4362d65d539f",
+      "date": 1570972928849
+    },
+    {
+      "type": "edit",
+      "id": "5a4b4362d65d539f",
+      "item": {
+        "type": "markdown",
+        "id": "5a4b4362d65d539f",
+        "text": "Wakeup!\n"
+      },
+      "date": 1570972932264
+    },
+    {
+      "type": "add",
+      "id": "a83d1a812f454999",
+      "item": {
+        "type": "markdown",
+        "id": "a83d1a812f454999",
+        "text": "Eye => Brain\n"
+      },
+      "after": "5a4b4362d65d539f",
+      "date": 1570972933122
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "15d29c98e682f4ef"
+      },
+      "id": "15d29c98e682f4ef",
+      "type": "add",
+      "after": "dd6f4a8b1e865937",
+      "date": 1570972936022
+    },
+    {
+      "type": "edit",
+      "id": "15d29c98e682f4ef",
+      "item": {
+        "type": "pagefold",
+        "id": "15d29c98e682f4ef",
+        "text": "."
+      },
+      "date": 1570972939946
+    },
+    {
+      "id": "15d29c98e682f4ef",
+      "type": "move",
+      "order": [
+        "580d0f668f6000f7",
+        "effc7d340e59b5d4",
+        "33085b558f74d59d",
+        "e3373085626ac5db",
+        "d7ca319596d126d9",
+        "5a4b4362d65d539f",
+        "15d29c98e682f4ef",
+        "a83d1a812f454999",
+        "35fd912e75f99732",
+        "cbc8343f79660566",
+        "f6689f775ed9eb4e",
+        "dd6f4a8b1e865937"
+      ],
+      "date": 1570972943057
+    },
+    {
+      "type": "edit",
+      "id": "15d29c98e682f4ef",
+      "item": {
+        "type": "pagefold",
+        "id": "15d29c98e682f4ef",
+        "text": "Lexon video intro"
+      },
+      "date": 1570972953536
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bb719c5fac1cc449"
+      },
+      "id": "bb719c5fac1cc449",
+      "type": "add",
+      "after": "dd6f4a8b1e865937",
+      "date": 1570972955487
+    },
+    {
+      "type": "edit",
+      "id": "bb719c5fac1cc449",
+      "item": {
+        "type": "pagefold",
+        "id": "bb719c5fac1cc449",
+        "text": "Scratch Title"
+      },
+      "date": 1570972970675
+    },
+    {
+      "id": "bb719c5fac1cc449",
+      "type": "move",
+      "order": [
+        "580d0f668f6000f7",
+        "effc7d340e59b5d4",
+        "33085b558f74d59d",
+        "e3373085626ac5db",
+        "d7ca319596d126d9",
+        "5a4b4362d65d539f",
+        "15d29c98e682f4ef",
+        "a83d1a812f454999",
+        "bb719c5fac1cc449",
+        "35fd912e75f99732",
+        "cbc8343f79660566",
+        "f6689f775ed9eb4e",
+        "dd6f4a8b1e865937"
+      ],
+      "date": 1570972973803
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fbc58c5903bb29db"
+      },
+      "id": "fbc58c5903bb29db",
+      "type": "add",
+      "after": "dd6f4a8b1e865937",
+      "date": 1570972981846
+    },
+    {
+      "type": "edit",
+      "id": "fbc58c5903bb29db",
+      "item": {
+        "type": "pagefold",
+        "id": "fbc58c5903bb29db",
+        "text": "Lexon video intro"
+      },
+      "date": 1570972985329
+    },
+    {
+      "id": "fbc58c5903bb29db",
+      "type": "move",
+      "order": [
+        "580d0f668f6000f7",
+        "effc7d340e59b5d4",
+        "33085b558f74d59d",
+        "e3373085626ac5db",
+        "d7ca319596d126d9",
+        "5a4b4362d65d539f",
+        "15d29c98e682f4ef",
+        "a83d1a812f454999",
+        "bb719c5fac1cc449",
+        "35fd912e75f99732",
+        "fbc58c5903bb29db",
+        "cbc8343f79660566",
+        "f6689f775ed9eb4e",
+        "dd6f4a8b1e865937"
+      ],
+      "date": 1570972988263
+    },
+    {
+      "type": "edit",
+      "id": "fbc58c5903bb29db",
+      "item": {
+        "type": "pagefold",
+        "id": "fbc58c5903bb29db",
+        "text": "Lexon video ?"
+      },
+      "date": 1570973110119
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "56fd6b34ded10f20"
+      },
+      "id": "56fd6b34ded10f20",
+      "type": "add",
+      "after": "dd6f4a8b1e865937",
+      "date": 1570973122951
+    },
+    {
+      "type": "edit",
+      "id": "56fd6b34ded10f20",
+      "item": {
+        "type": "pagefold",
+        "id": "56fd6b34ded10f20",
+        "text": "Scratch Titles"
+      },
+      "date": 1570973127655
+    },
+    {
+      "id": "56fd6b34ded10f20",
+      "type": "move",
+      "order": [
+        "580d0f668f6000f7",
+        "effc7d340e59b5d4",
+        "33085b558f74d59d",
+        "e3373085626ac5db",
+        "d7ca319596d126d9",
+        "5a4b4362d65d539f",
+        "15d29c98e682f4ef",
+        "a83d1a812f454999",
+        "bb719c5fac1cc449",
+        "35fd912e75f99732",
+        "fbc58c5903bb29db",
+        "cbc8343f79660566",
+        "56fd6b34ded10f20",
+        "f6689f775ed9eb4e",
+        "dd6f4a8b1e865937"
+      ],
+      "date": 1570973136191
+    },
+    {
+      "type": "edit",
+      "id": "cbc8343f79660566",
+      "item": {
+        "type": "markdown",
+        "id": "cbc8343f79660566",
+        "text": "Artificial intelligence, big data, surveillance, biotechnology, quantum computing, driverless cars, CRISPR....\n"
+      },
+      "date": 1570973148266
+    },
+    {
+      "type": "add",
+      "id": "6a90208eca2a82cb",
+      "item": {
+        "type": "markdown",
+        "id": "6a90208eca2a82cb",
+        "text": "Technology grows exponentially.\n"
+      },
+      "after": "cbc8343f79660566",
+      "date": 1570973148734
+    },
+    {
+      "id": "6a90208eca2a82cb",
+      "type": "move",
+      "order": [
+        "580d0f668f6000f7",
+        "effc7d340e59b5d4",
+        "33085b558f74d59d",
+        "e3373085626ac5db",
+        "d7ca319596d126d9",
+        "5a4b4362d65d539f",
+        "15d29c98e682f4ef",
+        "a83d1a812f454999",
+        "bb719c5fac1cc449",
+        "35fd912e75f99732",
+        "fbc58c5903bb29db",
+        "cbc8343f79660566",
+        "56fd6b34ded10f20",
+        "6a90208eca2a82cb",
+        "f6689f775ed9eb4e",
+        "dd6f4a8b1e865937"
+      ],
+      "date": 1570973151579
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b76f31ca81d9cc62"
+      },
+      "id": "b76f31ca81d9cc62",
+      "type": "add",
+      "after": "dd6f4a8b1e865937",
+      "date": 1570973163636
+    },
+    {
+      "type": "edit",
+      "id": "b76f31ca81d9cc62",
+      "item": {
+        "type": "pagefold",
+        "id": "b76f31ca81d9cc62",
+        "text": "Lexon video"
+      },
+      "date": 1570973167721
+    },
+    {
+      "id": "b76f31ca81d9cc62",
+      "type": "move",
+      "order": [
+        "580d0f668f6000f7",
+        "effc7d340e59b5d4",
+        "33085b558f74d59d",
+        "e3373085626ac5db",
+        "d7ca319596d126d9",
+        "5a4b4362d65d539f",
+        "15d29c98e682f4ef",
+        "a83d1a812f454999",
+        "bb719c5fac1cc449",
+        "35fd912e75f99732",
+        "fbc58c5903bb29db",
+        "cbc8343f79660566",
+        "56fd6b34ded10f20",
+        "6a90208eca2a82cb",
+        "b76f31ca81d9cc62",
+        "f6689f775ed9eb4e",
+        "dd6f4a8b1e865937"
+      ],
+      "date": 1570973177336
+    },
+    {
+      "type": "edit",
+      "id": "f6689f775ed9eb4e",
+      "item": {
+        "type": "markdown",
+        "id": "f6689f775ed9eb4e",
+        "text": "Code => Data\n"
+      },
+      "date": 1570973199142
+    },
+    {
+      "type": "add",
+      "id": "1efca81e5c308454",
+      "item": {
+        "type": "markdown",
+        "id": "1efca81e5c308454",
+        "text": "Code is law."
+      },
+      "after": "f6689f775ed9eb4e",
+      "date": 1570973200670
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4c6bdf3746996886"
+      },
+      "id": "4c6bdf3746996886",
+      "type": "add",
+      "after": "dd6f4a8b1e865937",
+      "date": 1570973247084
+    },
+    {
+      "type": "edit",
+      "id": "4c6bdf3746996886",
+      "item": {
+        "type": "pagefold",
+        "id": "4c6bdf3746996886",
+        "text": "Lexon video"
+      },
+      "date": 1570973265470
+    },
+    {
+      "id": "4c6bdf3746996886",
+      "type": "move",
+      "order": [
+        "580d0f668f6000f7",
+        "effc7d340e59b5d4",
+        "33085b558f74d59d",
+        "e3373085626ac5db",
+        "d7ca319596d126d9",
+        "5a4b4362d65d539f",
+        "15d29c98e682f4ef",
+        "a83d1a812f454999",
+        "bb719c5fac1cc449",
+        "35fd912e75f99732",
+        "fbc58c5903bb29db",
+        "cbc8343f79660566",
+        "56fd6b34ded10f20",
+        "6a90208eca2a82cb",
+        "b76f31ca81d9cc62",
+        "f6689f775ed9eb4e",
+        "1efca81e5c308454",
+        "4c6bdf3746996886",
+        "dd6f4a8b1e865937"
+      ],
+      "date": 1570973267316
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cc7b7704d68238b3"
+      },
+      "id": "cc7b7704d68238b3",
+      "type": "add",
+      "after": "dd6f4a8b1e865937",
+      "date": 1570973268691
+    },
+    {
+      "type": "edit",
+      "id": "cc7b7704d68238b3",
+      "item": {
+        "type": "pagefold",
+        "id": "cc7b7704d68238b3",
+        "text": "Scratch Title"
+      },
+      "date": 1570973278435
+    },
+    {
+      "id": "cc7b7704d68238b3",
+      "type": "move",
+      "order": [
+        "580d0f668f6000f7",
+        "effc7d340e59b5d4",
+        "33085b558f74d59d",
+        "e3373085626ac5db",
+        "d7ca319596d126d9",
+        "5a4b4362d65d539f",
+        "15d29c98e682f4ef",
+        "a83d1a812f454999",
+        "bb719c5fac1cc449",
+        "35fd912e75f99732",
+        "fbc58c5903bb29db",
+        "cbc8343f79660566",
+        "56fd6b34ded10f20",
+        "6a90208eca2a82cb",
+        "b76f31ca81d9cc62",
+        "f6689f775ed9eb4e",
+        "cc7b7704d68238b3",
+        "1efca81e5c308454",
+        "4c6bdf3746996886",
+        "dd6f4a8b1e865937"
+      ],
+      "date": 1570973281701
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9d1b838e756f9e5c"
+      },
+      "id": "9d1b838e756f9e5c",
+      "type": "add",
+      "after": "dd6f4a8b1e865937",
+      "date": 1570973345070
+    },
+    {
+      "type": "edit",
+      "id": "9d1b838e756f9e5c",
+      "item": {
+        "type": "pagefold",
+        "id": "9d1b838e756f9e5c",
+        "text": "Optimistic (yellow) Ending (fade to white)"
+      },
+      "date": 1570973380340
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d622f5944c0f3865"
+      },
+      "id": "d622f5944c0f3865",
+      "type": "add",
+      "after": "9d1b838e756f9e5c",
+      "date": 1570973381944
+    },
+    {
+      "type": "edit",
+      "id": "d622f5944c0f3865",
+      "item": {
+        "type": "markdown",
+        "id": "d622f5944c0f3865",
+        "text": "Create your own governance. Write your own law.\n"
+      },
+      "date": 1570978332952
+    },
+    {
+      "type": "add",
+      "id": "a99ecf62722ff01b",
+      "item": {
+        "type": "markdown",
+        "id": "a99ecf62722ff01b",
+        "text": "Decide how you share income in your company.\n"
+      },
+      "after": "d622f5944c0f3865",
+      "date": 1570978355301
+    },
+    {
+      "type": "add",
+      "id": "5ca287c50de90432",
+      "item": {
+        "type": "markdown",
+        "id": "5ca287c50de90432",
+        "text": "Create new ways to decide and share together.\n"
+      },
+      "after": "a99ecf62722ff01b",
+      "date": 1570978381009
+    },
+    {
+      "type": "add",
+      "id": "86d3da32b2da422a",
+      "item": {
+        "type": "markdown",
+        "id": "86d3da32b2da422a",
+        "text": "Keep humans in charge\n"
+      },
+      "after": "5ca287c50de90432",
+      "date": 1570978610014
+    },
+    {
+      "type": "add",
+      "id": "0bc0dbe8fb13d5c4",
+      "item": {
+        "type": "markdown",
+        "id": "0bc0dbe8fb13d5c4",
+        "text": "Create life-like governance, crafted by people for people."
+      },
+      "after": "86d3da32b2da422a",
+      "date": 1570978636862
+    },
+    {
+      "type": "edit",
+      "id": "1efca81e5c308454",
+      "item": {
+        "type": "markdown",
+        "id": "1efca81e5c308454",
+        "text": "Code is law.\n"
+      },
+      "date": 1570978653767
+    },
+    {
+      "type": "add",
+      "id": "798516346ab34bed",
+      "item": {
+        "type": "markdown",
+        "id": "798516346ab34bed",
+        "text": "Who are the new lawyers?"
+      },
+      "after": "1efca81e5c308454",
+      "date": 1570978654407
+    },
+    {
+      "type": "edit",
+      "id": "d622f5944c0f3865",
+      "item": {
+        "type": "markdown",
+        "id": "d622f5944c0f3865",
+        "text": "Create your own governance. \n"
+      },
+      "date": 1570978663584
+    },
+    {
+      "type": "add",
+      "id": "fff7ac746d8a3a80",
+      "item": {
+        "type": "markdown",
+        "id": "fff7ac746d8a3a80",
+        "text": "Write your own law.\n"
+      },
+      "after": "d622f5944c0f3865",
+      "date": 1570978664845
+    },
+    {
+      "type": "edit",
+      "id": "a99ecf62722ff01b",
+      "item": {
+        "type": "markdown",
+        "id": "a99ecf62722ff01b",
+        "text": "Decide how you share income in your collective.\n"
+      },
+      "date": 1570978687865
+    },
+    {
+      "type": "edit",
+      "id": "effc7d340e59b5d4",
+      "item": {
+        "type": "markdown",
+        "id": "effc7d340e59b5d4",
+        "text": "In this talk, and the accompanying workshop we explore what we man by [[life-like governance]]. [[Henning Dietrich]], the founder of [[Lexon]]\n"
+      },
+      "date": 1570978998229
+    },
+    {
+      "type": "add",
+      "id": "9527bc2a84c39f7c",
+      "item": {
+        "type": "markdown",
+        "id": "9527bc2a84c39f7c",
+        "text": " implies anyone can understand and write their own smart contracts. \n"
+      },
+      "after": "effc7d340e59b5d4",
+      "date": 1570978999586
+    },
+    {
+      "type": "edit",
+      "id": "effc7d340e59b5d4",
+      "item": {
+        "type": "markdown",
+        "id": "effc7d340e59b5d4",
+        "text": "In this talk, and the accompanying workshop we explore what the concept of [[life-like governance]] and [[future law]]. What is a smart contract, and how can we democratise the process of creating the laws adn code that govern us?\n"
+      },
+      "date": 1570979136538
+    },
+    {
+      "type": "add",
+      "id": "dc30f30863340194",
+      "item": {
+        "type": "markdown",
+        "id": "dc30f30863340194",
+        "text": " [[Henning Dietrich]], the founder of [[Lexon]] demonstrates \n"
+      },
+      "after": "effc7d340e59b5d4",
+      "date": 1570979145344
+    },
+    {
+      "type": "edit",
+      "id": "effc7d340e59b5d4",
+      "item": {
+        "type": "markdown",
+        "id": "effc7d340e59b5d4",
+        "text": "In this talk, and the accompanying workshop we explore the ideas and technologies at the heart of [[life-like governance]] and [[future law]]. What is a smart contract, and how can we democratise the process of creating the laws and code that govern our every day lives in an increasingly technologically driven society?\n"
+      },
+      "date": 1570979206448
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ff2d00754d4ddaee"
+      },
+      "id": "ff2d00754d4ddaee",
+      "type": "add",
+      "after": "0bc0dbe8fb13d5c4",
+      "date": 1570979213510
+    },
+    {
+      "id": "ff2d00754d4ddaee",
+      "type": "move",
+      "order": [
+        "580d0f668f6000f7",
+        "effc7d340e59b5d4",
+        "ff2d00754d4ddaee",
+        "dc30f30863340194",
+        "9527bc2a84c39f7c",
+        "33085b558f74d59d",
+        "e3373085626ac5db",
+        "d7ca319596d126d9",
+        "5a4b4362d65d539f",
+        "15d29c98e682f4ef",
+        "a83d1a812f454999",
+        "bb719c5fac1cc449",
+        "35fd912e75f99732",
+        "fbc58c5903bb29db",
+        "cbc8343f79660566",
+        "56fd6b34ded10f20",
+        "6a90208eca2a82cb",
+        "b76f31ca81d9cc62",
+        "f6689f775ed9eb4e",
+        "cc7b7704d68238b3",
+        "1efca81e5c308454",
+        "798516346ab34bed",
+        "4c6bdf3746996886",
+        "dd6f4a8b1e865937",
+        "9d1b838e756f9e5c",
+        "d622f5944c0f3865",
+        "fff7ac746d8a3a80",
+        "a99ecf62722ff01b",
+        "5ca287c50de90432",
+        "86d3da32b2da422a",
+        "0bc0dbe8fb13d5c4"
+      ],
+      "date": 1570979223294
+    },
+    {
+      "type": "edit",
+      "id": "ff2d00754d4ddaee",
+      "item": {
+        "type": "video",
+        "id": "ff2d00754d4ddaee",
+        "text": "VIMEO manage/365956954/general\n(double-click to edit caption)\n"
+      },
+      "date": 1570979261230
+    },
+    {
+      "type": "remove",
+      "id": "ff2d00754d4ddaee",
+      "date": 1570979294966
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8d120053d3d0efa8"
+      },
+      "id": "8d120053d3d0efa8",
+      "type": "add",
+      "after": "0bc0dbe8fb13d5c4",
+      "date": 1570979309313
+    },
+    {
+      "id": "8d120053d3d0efa8",
+      "type": "move",
+      "order": [
+        "580d0f668f6000f7",
+        "effc7d340e59b5d4",
+        "8d120053d3d0efa8",
+        "dc30f30863340194",
+        "9527bc2a84c39f7c",
+        "33085b558f74d59d",
+        "e3373085626ac5db",
+        "d7ca319596d126d9",
+        "5a4b4362d65d539f",
+        "15d29c98e682f4ef",
+        "a83d1a812f454999",
+        "bb719c5fac1cc449",
+        "35fd912e75f99732",
+        "fbc58c5903bb29db",
+        "cbc8343f79660566",
+        "56fd6b34ded10f20",
+        "6a90208eca2a82cb",
+        "b76f31ca81d9cc62",
+        "f6689f775ed9eb4e",
+        "cc7b7704d68238b3",
+        "1efca81e5c308454",
+        "798516346ab34bed",
+        "4c6bdf3746996886",
+        "dd6f4a8b1e865937",
+        "9d1b838e756f9e5c",
+        "d622f5944c0f3865",
+        "fff7ac746d8a3a80",
+        "a99ecf62722ff01b",
+        "5ca287c50de90432",
+        "86d3da32b2da422a",
+        "0bc0dbe8fb13d5c4"
+      ],
+      "date": 1570979330455
+    },
+    {
+      "type": "remove",
+      "id": "8d120053d3d0efa8",
+      "date": 1570979379358
+    },
+    {
+      "type": "edit",
+      "id": "dc30f30863340194",
+      "item": {
+        "type": "markdown",
+        "id": "dc30f30863340194",
+        "text": " [[Henning Dietrich]], the founder of [[Lexon]] introduces a new way to code [[smart contracts]]. Using natural language processing, Lexon enables, non-coders, lawyers, philosophers, hackers and students of the future to create decentralised code (smart contracts) on the blockchain, that enable new forms of social structure, company structure, business models - in short new forms of governance designed for the modern world.\n"
+      },
+      "date": 1570979585904
+    },
+    {
+      "type": "edit",
+      "id": "dc30f30863340194",
+      "item": {
+        "type": "markdown",
+        "id": "dc30f30863340194",
+        "text": " [[Henning Dietrich]], the founder of [[Lexon]] introduces a new way to code [[smart contracts]]. Using natural language processing, Lexon enables, non-coders, lawyers, philosophers, hackers and students of the future to create decentralised code (smart contracts) on the blockchain.\n"
+      },
+      "date": 1570979612111
+    },
+    {
+      "type": "add",
+      "id": "f4d8022f654e2349",
+      "item": {
+        "type": "markdown",
+        "id": "f4d8022f654e2349",
+        "text": "Lexon enables anyone to create new forms of social structure, new forms of company structure, new business models - in short new forms of governance designed for the modern world.\n"
+      },
+      "after": "dc30f30863340194",
+      "date": 1570979646141
+    },
+    {
+      "type": "edit",
+      "id": "9527bc2a84c39f7c",
+      "item": {
+        "type": "markdown",
+        "id": "9527bc2a84c39f7c",
+        "text": "# Democracy\n"
+      },
+      "date": 1570979690501
+    },
+    {
+      "type": "add",
+      "id": "7c6c487350db047b",
+      "item": {
+        "type": "markdown",
+        "id": "7c6c487350db047b",
+        "text": "If smart contracts are the future of law, and law is the basis of a democratic society - then who are the new lawyers? IF we desire to have any real control over the future direction of our society, then we need to teach our children not just how to code, but how to understand the code that runs our society - and then how to change it.\n"
+      },
+      "after": "9527bc2a84c39f7c",
+      "date": 1570979843047
+    },
+    {
+      "type": "add",
+      "id": "259d0e8c989dc563",
+      "item": {
+        "type": "markdown",
+        "id": "259d0e8c989dc563",
+        "text": "read, and  implies anyone can understand and write their own smart contracts. \n"
+      },
+      "after": "7c6c487350db047b",
+      "date": 1570979867514
+    },
+    {
+      "type": "edit",
+      "id": "7c6c487350db047b",
+      "item": {
+        "type": "markdown",
+        "id": "7c6c487350db047b",
+        "text": "If smart contracts are the future of law, and law is the basis of a democratic society - then who are the new lawyers? \n"
+      },
+      "date": 1570979869201
+    },
+    {
+      "type": "add",
+      "id": "9d8b8fefbdacb808",
+      "item": {
+        "type": "markdown",
+        "id": "9d8b8fefbdacb808",
+        "text": "If we desire to have any real control over the future direction of our society, then we need to teach our children not just how to code, but how to understand the code that runs our society - and then how to change it.\n"
+      },
+      "after": "7c6c487350db047b",
+      "date": 1570979872997
+    },
+    {
+      "type": "edit",
+      "id": "259d0e8c989dc563",
+      "item": {
+        "type": "markdown",
+        "id": "259d0e8c989dc563",
+        "text": "# Workshop\n"
+      },
+      "date": 1570979884414
+    },
+    {
+      "type": "add",
+      "id": "83a9669de25a7573",
+      "item": {
+        "type": "markdown",
+        "id": "83a9669de25a7573",
+        "text": "read, and  implies anyone can understand and write their own smart contracts. \n"
+      },
+      "after": "259d0e8c989dc563",
+      "date": 1570979884979
+    },
+    {
+      "type": "edit",
+      "id": "5a4b4362d65d539f",
+      "item": {
+        "type": "markdown",
+        "id": "5a4b4362d65d539f",
+        "text": "- Wakeup!\n"
+      },
+      "date": 1570980024564
+    },
+    {
+      "type": "edit",
+      "id": "35fd912e75f99732",
+      "item": {
+        "type": "markdown",
+        "id": "35fd912e75f99732",
+        "text": "- We run our societies on a medieval operating system.\n"
+      },
+      "date": 1570980027902
+    },
+    {
+      "type": "edit",
+      "id": "6a90208eca2a82cb",
+      "item": {
+        "type": "markdown",
+        "id": "6a90208eca2a82cb",
+        "text": "- Technology grows exponentially.\n"
+      },
+      "date": 1570980030999
+    },
+    {
+      "type": "edit",
+      "id": "1efca81e5c308454",
+      "item": {
+        "type": "markdown",
+        "id": "1efca81e5c308454",
+        "text": "- Code is law.\n"
+      },
+      "date": 1570980034143
+    },
+    {
+      "type": "edit",
+      "id": "798516346ab34bed",
+      "item": {
+        "type": "markdown",
+        "id": "798516346ab34bed",
+        "text": "- Who are the new lawyers?"
+      },
+      "date": 1570980036681
+    },
+    {
+      "type": "edit",
+      "id": "d622f5944c0f3865",
+      "item": {
+        "type": "markdown",
+        "id": "d622f5944c0f3865",
+        "text": "- Create your own governance. \n"
+      },
+      "date": 1570980040805
+    },
+    {
+      "type": "edit",
+      "id": "fff7ac746d8a3a80",
+      "item": {
+        "type": "markdown",
+        "id": "fff7ac746d8a3a80",
+        "text": "- Write your own law.\n"
+      },
+      "date": 1570980043537
+    },
+    {
+      "type": "edit",
+      "id": "a99ecf62722ff01b",
+      "item": {
+        "type": "markdown",
+        "id": "a99ecf62722ff01b",
+        "text": "- Decide how you share income in your collective.\n"
+      },
+      "date": 1570980045675
+    },
+    {
+      "type": "edit",
+      "id": "5ca287c50de90432",
+      "item": {
+        "type": "markdown",
+        "id": "5ca287c50de90432",
+        "text": "- Create new ways to decide and share together.\n"
+      },
+      "date": 1570980047833
+    },
+    {
+      "type": "edit",
+      "id": "86d3da32b2da422a",
+      "item": {
+        "type": "markdown",
+        "id": "86d3da32b2da422a",
+        "text": "- Keep humans in charge\n"
+      },
+      "date": 1570980050942
+    },
+    {
+      "type": "edit",
+      "id": "0bc0dbe8fb13d5c4",
+      "item": {
+        "type": "markdown",
+        "id": "0bc0dbe8fb13d5c4",
+        "text": "- Create life-like governance, crafted by people for people."
+      },
+      "date": 1570980053154
+    },
+    {
+      "type": "edit",
+      "id": "0bc0dbe8fb13d5c4",
+      "item": {
+        "type": "markdown",
+        "id": "0bc0dbe8fb13d5c4",
+        "text": "- Create life-like governance\n- Crafted by people for people."
+      },
+      "date": 1570980101177
+    },
+    {
+      "type": "edit",
+      "id": "effc7d340e59b5d4",
+      "item": {
+        "type": "markdown",
+        "id": "effc7d340e59b5d4",
+        "text": "In this talk, and the accompanying workshop we explore the ideas and technologies at the heart of [[life-like governance]] and __future of law__. What is a smart contract, and how can we democratise the process of creating the laws and code that govern our every day lives in an increasingly technologically driven society?\n"
+      },
+      "date": 1570980133159
+    },
+    {
+      "type": "edit",
+      "id": "effc7d340e59b5d4",
+      "item": {
+        "type": "markdown",
+        "id": "effc7d340e59b5d4",
+        "text": "In this talk, and the accompanying workshop we explore the ideas and technologies at the heart of [[life-like governance]] and __future of law__. \n"
+      },
+      "date": 1570980140956
+    },
+    {
+      "type": "add",
+      "id": "4d724a770480e125",
+      "item": {
+        "type": "markdown",
+        "id": "4d724a770480e125",
+        "text": "What is a smart contract, and how can we democratise the process of creating the laws and code that govern our every day lives in an increasingly technologically driven society?\n"
+      },
+      "after": "effc7d340e59b5d4",
+      "date": 1570980141838
+    },
+    {
+      "type": "edit",
+      "id": "f4d8022f654e2349",
+      "item": {
+        "type": "markdown",
+        "id": "f4d8022f654e2349",
+        "text": "New tools enable anyone to create new forms of social structure, new forms of company structure, new business models - in short new forms of governance designed for the modern world. Join us in a hands-on workshop to experience how to turn your ideas into smart contracts for your projects.\n"
+      },
+      "date": 1570980806156
+    },
+    {
+      "id": "9527bc2a84c39f7c",
+      "type": "move",
+      "order": [
+        "580d0f668f6000f7",
+        "effc7d340e59b5d4",
+        "4d724a770480e125",
+        "dc30f30863340194",
+        "9527bc2a84c39f7c",
+        "f4d8022f654e2349",
+        "7c6c487350db047b",
+        "9d8b8fefbdacb808",
+        "259d0e8c989dc563",
+        "83a9669de25a7573",
+        "33085b558f74d59d",
+        "e3373085626ac5db",
+        "d7ca319596d126d9",
+        "5a4b4362d65d539f",
+        "15d29c98e682f4ef",
+        "a83d1a812f454999",
+        "bb719c5fac1cc449",
+        "35fd912e75f99732",
+        "fbc58c5903bb29db",
+        "cbc8343f79660566",
+        "56fd6b34ded10f20",
+        "6a90208eca2a82cb",
+        "b76f31ca81d9cc62",
+        "f6689f775ed9eb4e",
+        "cc7b7704d68238b3",
+        "1efca81e5c308454",
+        "798516346ab34bed",
+        "4c6bdf3746996886",
+        "dd6f4a8b1e865937",
+        "9d1b838e756f9e5c",
+        "d622f5944c0f3865",
+        "fff7ac746d8a3a80",
+        "a99ecf62722ff01b",
+        "5ca287c50de90432",
+        "86d3da32b2da422a",
+        "0bc0dbe8fb13d5c4"
+      ],
+      "date": 1570980811604
+    },
+    {
+      "id": "7c6c487350db047b",
+      "type": "move",
+      "order": [
+        "580d0f668f6000f7",
+        "effc7d340e59b5d4",
+        "4d724a770480e125",
+        "dc30f30863340194",
+        "9527bc2a84c39f7c",
+        "7c6c487350db047b",
+        "f4d8022f654e2349",
+        "9d8b8fefbdacb808",
+        "259d0e8c989dc563",
+        "83a9669de25a7573",
+        "33085b558f74d59d",
+        "e3373085626ac5db",
+        "d7ca319596d126d9",
+        "5a4b4362d65d539f",
+        "15d29c98e682f4ef",
+        "a83d1a812f454999",
+        "bb719c5fac1cc449",
+        "35fd912e75f99732",
+        "fbc58c5903bb29db",
+        "cbc8343f79660566",
+        "56fd6b34ded10f20",
+        "6a90208eca2a82cb",
+        "b76f31ca81d9cc62",
+        "f6689f775ed9eb4e",
+        "cc7b7704d68238b3",
+        "1efca81e5c308454",
+        "798516346ab34bed",
+        "4c6bdf3746996886",
+        "dd6f4a8b1e865937",
+        "9d1b838e756f9e5c",
+        "d622f5944c0f3865",
+        "fff7ac746d8a3a80",
+        "a99ecf62722ff01b",
+        "5ca287c50de90432",
+        "86d3da32b2da422a",
+        "0bc0dbe8fb13d5c4"
+      ],
+      "date": 1570980813957
+    },
+    {
+      "id": "9d8b8fefbdacb808",
+      "type": "move",
+      "order": [
+        "580d0f668f6000f7",
+        "effc7d340e59b5d4",
+        "4d724a770480e125",
+        "dc30f30863340194",
+        "9527bc2a84c39f7c",
+        "7c6c487350db047b",
+        "9d8b8fefbdacb808",
+        "f4d8022f654e2349",
+        "259d0e8c989dc563",
+        "83a9669de25a7573",
+        "33085b558f74d59d",
+        "e3373085626ac5db",
+        "d7ca319596d126d9",
+        "5a4b4362d65d539f",
+        "15d29c98e682f4ef",
+        "a83d1a812f454999",
+        "bb719c5fac1cc449",
+        "35fd912e75f99732",
+        "fbc58c5903bb29db",
+        "cbc8343f79660566",
+        "56fd6b34ded10f20",
+        "6a90208eca2a82cb",
+        "b76f31ca81d9cc62",
+        "f6689f775ed9eb4e",
+        "cc7b7704d68238b3",
+        "1efca81e5c308454",
+        "798516346ab34bed",
+        "4c6bdf3746996886",
+        "dd6f4a8b1e865937",
+        "9d1b838e756f9e5c",
+        "d622f5944c0f3865",
+        "fff7ac746d8a3a80",
+        "a99ecf62722ff01b",
+        "5ca287c50de90432",
+        "86d3da32b2da422a",
+        "0bc0dbe8fb13d5c4"
+      ],
+      "date": 1570980815861
+    },
+    {
+      "id": "259d0e8c989dc563",
+      "type": "move",
+      "order": [
+        "580d0f668f6000f7",
+        "effc7d340e59b5d4",
+        "4d724a770480e125",
+        "dc30f30863340194",
+        "9527bc2a84c39f7c",
+        "7c6c487350db047b",
+        "9d8b8fefbdacb808",
+        "259d0e8c989dc563",
+        "f4d8022f654e2349",
+        "83a9669de25a7573",
+        "33085b558f74d59d",
+        "e3373085626ac5db",
+        "d7ca319596d126d9",
+        "5a4b4362d65d539f",
+        "15d29c98e682f4ef",
+        "a83d1a812f454999",
+        "bb719c5fac1cc449",
+        "35fd912e75f99732",
+        "fbc58c5903bb29db",
+        "cbc8343f79660566",
+        "56fd6b34ded10f20",
+        "6a90208eca2a82cb",
+        "b76f31ca81d9cc62",
+        "f6689f775ed9eb4e",
+        "cc7b7704d68238b3",
+        "1efca81e5c308454",
+        "798516346ab34bed",
+        "4c6bdf3746996886",
+        "dd6f4a8b1e865937",
+        "9d1b838e756f9e5c",
+        "d622f5944c0f3865",
+        "fff7ac746d8a3a80",
+        "a99ecf62722ff01b",
+        "5ca287c50de90432",
+        "86d3da32b2da422a",
+        "0bc0dbe8fb13d5c4"
+      ],
+      "date": 1570980817834
+    },
+    {
+      "type": "edit",
+      "id": "f4d8022f654e2349",
+      "item": {
+        "type": "markdown",
+        "id": "f4d8022f654e2349",
+        "text": "Explore how the combination of natural language processing and smart contracts can enable anyone to create new forms of social structure, new forms of company structure, new business models - in short new forms of governance designed for the modern world. Join us in a hands-on workshop to experience how to turn your ideas into smart contracts for your projects.\n"
+      },
+      "date": 1570980915285
+    },
+    {
+      "type": "edit",
+      "id": "f4d8022f654e2349",
+      "item": {
+        "type": "markdown",
+        "id": "f4d8022f654e2349",
+        "text": "Explore how the combination of natural language processing and smart contracts can enable anyone to create new forms of social structure, new forms of company structure, new business models - in short new forms of governance designed for the modern world. \n"
+      },
+      "date": 1570980926893
+    },
+    {
+      "type": "add",
+      "id": "c6b6122e73b8e3f5",
+      "item": {
+        "type": "markdown",
+        "id": "c6b6122e73b8e3f5",
+        "text": "Join us in a hands-on workshop to experience how to turn your ideas into smart contracts for your projects.\n"
+      },
+      "after": "f4d8022f654e2349",
+      "date": 1570980927362
+    },
+    {
+      "id": "33085b558f74d59d",
+      "type": "move",
+      "order": [
+        "580d0f668f6000f7",
+        "effc7d340e59b5d4",
+        "4d724a770480e125",
+        "dc30f30863340194",
+        "9527bc2a84c39f7c",
+        "7c6c487350db047b",
+        "9d8b8fefbdacb808",
+        "259d0e8c989dc563",
+        "f4d8022f654e2349",
+        "c6b6122e73b8e3f5",
+        "33085b558f74d59d",
+        "83a9669de25a7573",
+        "e3373085626ac5db",
+        "d7ca319596d126d9",
+        "5a4b4362d65d539f",
+        "15d29c98e682f4ef",
+        "a83d1a812f454999",
+        "bb719c5fac1cc449",
+        "35fd912e75f99732",
+        "fbc58c5903bb29db",
+        "cbc8343f79660566",
+        "56fd6b34ded10f20",
+        "6a90208eca2a82cb",
+        "b76f31ca81d9cc62",
+        "f6689f775ed9eb4e",
+        "cc7b7704d68238b3",
+        "1efca81e5c308454",
+        "798516346ab34bed",
+        "4c6bdf3746996886",
+        "dd6f4a8b1e865937",
+        "9d1b838e756f9e5c",
+        "d622f5944c0f3865",
+        "fff7ac746d8a3a80",
+        "a99ecf62722ff01b",
+        "5ca287c50de90432",
+        "86d3da32b2da422a",
+        "0bc0dbe8fb13d5c4"
+      ],
+      "date": 1570980938731
+    },
+    {
+      "id": "e3373085626ac5db",
+      "type": "move",
+      "order": [
+        "580d0f668f6000f7",
+        "effc7d340e59b5d4",
+        "4d724a770480e125",
+        "dc30f30863340194",
+        "9527bc2a84c39f7c",
+        "7c6c487350db047b",
+        "9d8b8fefbdacb808",
+        "259d0e8c989dc563",
+        "f4d8022f654e2349",
+        "c6b6122e73b8e3f5",
+        "33085b558f74d59d",
+        "e3373085626ac5db",
+        "83a9669de25a7573",
+        "d7ca319596d126d9",
+        "5a4b4362d65d539f",
+        "15d29c98e682f4ef",
+        "a83d1a812f454999",
+        "bb719c5fac1cc449",
+        "35fd912e75f99732",
+        "fbc58c5903bb29db",
+        "cbc8343f79660566",
+        "56fd6b34ded10f20",
+        "6a90208eca2a82cb",
+        "b76f31ca81d9cc62",
+        "f6689f775ed9eb4e",
+        "cc7b7704d68238b3",
+        "1efca81e5c308454",
+        "798516346ab34bed",
+        "4c6bdf3746996886",
+        "dd6f4a8b1e865937",
+        "9d1b838e756f9e5c",
+        "d622f5944c0f3865",
+        "fff7ac746d8a3a80",
+        "a99ecf62722ff01b",
+        "5ca287c50de90432",
+        "86d3da32b2da422a",
+        "0bc0dbe8fb13d5c4"
+      ],
+      "date": 1570980947689
+    },
+    {
+      "type": "edit",
+      "id": "c6b6122e73b8e3f5",
+      "item": {
+        "type": "markdown",
+        "id": "c6b6122e73b8e3f5",
+        "text": "- Join us in a hands-on workshop to experience how to turn your ideas into smart contracts for your projects.\n"
+      },
+      "date": 1570980954831
+    },
+    {
+      "type": "edit",
+      "id": "33085b558f74d59d",
+      "item": {
+        "type": "markdown",
+        "id": "33085b558f74d59d",
+        "text": "- Create smart contracts using natural language. English, Japanese, Catalan? Experience the future of human centred governance.\n"
+      },
+      "date": 1570980957490
+    },
+    {
+      "type": "edit",
+      "id": "e3373085626ac5db",
+      "item": {
+        "type": "markdown",
+        "id": "e3373085626ac5db",
+        "text": "- Create smart contracts using human language. Experience the future of law and decentralised governance. Try it yourself.\n"
+      },
+      "date": 1570980959501
+    },
+    {
+      "type": "remove",
+      "id": "83a9669de25a7573",
+      "date": 1570980968567
+    },
+    {
+      "type": "add",
+      "id": "db2a9a782e7e3b59",
+      "item": {
+        "type": "markdown",
+        "id": "db2a9a782e7e3b59",
+        "text": "And who writes it?"
+      },
+      "after": "dd6f4a8b1e865937",
+      "date": 1571046137767,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1571046166073
+    },
+    {
+      "type": "remove",
+      "id": "798516346ab34bed",
+      "date": 1571046218706
+    },
+    {
+      "type": "edit",
+      "id": "1efca81e5c308454",
+      "item": {
+        "type": "markdown",
+        "id": "1efca81e5c308454",
+        "text": "- Code is law.\n- Who are the new lawyers?"
+      },
+      "date": 1571046220052
+    },
+    {
+      "id": "1efca81e5c308454",
+      "type": "move",
+      "order": [
+        "580d0f668f6000f7",
+        "effc7d340e59b5d4",
+        "4d724a770480e125",
+        "dc30f30863340194",
+        "9527bc2a84c39f7c",
+        "7c6c487350db047b",
+        "9d8b8fefbdacb808",
+        "259d0e8c989dc563",
+        "f4d8022f654e2349",
+        "c6b6122e73b8e3f5",
+        "33085b558f74d59d",
+        "e3373085626ac5db",
+        "d7ca319596d126d9",
+        "5a4b4362d65d539f",
+        "15d29c98e682f4ef",
+        "a83d1a812f454999",
+        "bb719c5fac1cc449",
+        "35fd912e75f99732",
+        "fbc58c5903bb29db",
+        "cbc8343f79660566",
+        "56fd6b34ded10f20",
+        "6a90208eca2a82cb",
+        "b76f31ca81d9cc62",
+        "f6689f775ed9eb4e",
+        "cc7b7704d68238b3",
+        "4c6bdf3746996886",
+        "dd6f4a8b1e865937",
+        "db2a9a782e7e3b59",
+        "9d1b838e756f9e5c",
+        "d622f5944c0f3865",
+        "fff7ac746d8a3a80",
+        "a99ecf62722ff01b",
+        "5ca287c50de90432",
+        "86d3da32b2da422a",
+        "0bc0dbe8fb13d5c4",
+        "1efca81e5c308454"
+      ],
+      "date": 1571046224897
+    },
+    {
+      "id": "cc7b7704d68238b3",
+      "type": "move",
+      "order": [
+        "580d0f668f6000f7",
+        "effc7d340e59b5d4",
+        "4d724a770480e125",
+        "dc30f30863340194",
+        "9527bc2a84c39f7c",
+        "7c6c487350db047b",
+        "9d8b8fefbdacb808",
+        "259d0e8c989dc563",
+        "f4d8022f654e2349",
+        "c6b6122e73b8e3f5",
+        "33085b558f74d59d",
+        "e3373085626ac5db",
+        "d7ca319596d126d9",
+        "5a4b4362d65d539f",
+        "15d29c98e682f4ef",
+        "a83d1a812f454999",
+        "bb719c5fac1cc449",
+        "35fd912e75f99732",
+        "fbc58c5903bb29db",
+        "cbc8343f79660566",
+        "56fd6b34ded10f20",
+        "6a90208eca2a82cb",
+        "b76f31ca81d9cc62",
+        "f6689f775ed9eb4e",
+        "4c6bdf3746996886",
+        "dd6f4a8b1e865937",
+        "db2a9a782e7e3b59",
+        "9d1b838e756f9e5c",
+        "d622f5944c0f3865",
+        "fff7ac746d8a3a80",
+        "a99ecf62722ff01b",
+        "5ca287c50de90432",
+        "86d3da32b2da422a",
+        "cc7b7704d68238b3",
+        "0bc0dbe8fb13d5c4",
+        "1efca81e5c308454"
+      ],
+      "date": 1571046229510
+    },
+    {
+      "id": "cc7b7704d68238b3",
+      "type": "move",
+      "order": [
+        "580d0f668f6000f7",
+        "effc7d340e59b5d4",
+        "4d724a770480e125",
+        "dc30f30863340194",
+        "9527bc2a84c39f7c",
+        "7c6c487350db047b",
+        "9d8b8fefbdacb808",
+        "259d0e8c989dc563",
+        "f4d8022f654e2349",
+        "c6b6122e73b8e3f5",
+        "33085b558f74d59d",
+        "e3373085626ac5db",
+        "d7ca319596d126d9",
+        "5a4b4362d65d539f",
+        "15d29c98e682f4ef",
+        "a83d1a812f454999",
+        "bb719c5fac1cc449",
+        "35fd912e75f99732",
+        "fbc58c5903bb29db",
+        "cbc8343f79660566",
+        "56fd6b34ded10f20",
+        "6a90208eca2a82cb",
+        "b76f31ca81d9cc62",
+        "f6689f775ed9eb4e",
+        "4c6bdf3746996886",
+        "dd6f4a8b1e865937",
+        "db2a9a782e7e3b59",
+        "9d1b838e756f9e5c",
+        "d622f5944c0f3865",
+        "fff7ac746d8a3a80",
+        "a99ecf62722ff01b",
+        "5ca287c50de90432",
+        "86d3da32b2da422a",
+        "0bc0dbe8fb13d5c4",
+        "cc7b7704d68238b3",
+        "1efca81e5c308454"
+      ],
+      "date": 1571046238164
+    },
+    {
+      "type": "remove",
+      "id": "a99ecf62722ff01b",
+      "date": 1571046264871
+    },
+    {
+      "type": "edit",
+      "id": "fff7ac746d8a3a80",
+      "item": {
+        "type": "markdown",
+        "id": "fff7ac746d8a3a80",
+        "text": "- Write your own law.\n- Decide how you share income in your collective.\n"
+      },
+      "date": 1571046266118
+    },
+    {
+      "type": "remove",
+      "id": "fff7ac746d8a3a80",
+      "date": 1571046268184
+    },
+    {
+      "type": "edit",
+      "id": "d622f5944c0f3865",
+      "item": {
+        "type": "markdown",
+        "id": "d622f5944c0f3865",
+        "text": "- Create your own governance. \n- Write your own law.\n- Decide how you share income in your collective.\n"
+      },
+      "date": 1571046269211
+    },
+    {
+      "type": "edit",
+      "id": "d622f5944c0f3865",
+      "item": {
+        "type": "markdown",
+        "id": "d622f5944c0f3865",
+        "text": "When humans have the ability to create their won agreements - that is write their \n"
+      },
+      "date": 1571046343044
+    },
+    {
+      "type": "add",
+      "id": "19228bbe86aa0e9f",
+      "item": {
+        "type": "markdown",
+        "id": "19228bbe86aa0e9f",
+        "text": "- Create your own governance. \n- Write your own law.\n- Decide how you share income in your collective.\n"
+      },
+      "after": "d622f5944c0f3865",
+      "date": 1571046345383
+    },
+    {
+      "type": "edit",
+      "id": "d622f5944c0f3865",
+      "item": {
+        "type": "markdown",
+        "id": "d622f5944c0f3865",
+        "text": "When humans have the ability to create their own agreements - that is literally write them down in a way that matches their values - expresses their concerns - then we have a democratic process - then we can build just processes.\n"
+      },
+      "date": 1571046422952
+    },
+    {
+      "type": "add",
+      "id": "50be2a8a79ae4568",
+      "item": {
+        "type": "markdown",
+        "id": "50be2a8a79ae4568",
+        "text": "- But the way we organise ourselves is static - ossified. The word I like to use is medieval.\n"
+      },
+      "after": "6a90208eca2a82cb",
+      "date": 1571046536665
+    },
+    {
+      "type": "add",
+      "id": "fc50d32502a5403e",
+      "item": {
+        "type": "markdown",
+        "id": "fc50d32502a5403e",
+        "text": "- We need to evolve our organisational structures to keep pace with our technological prowess."
+      },
+      "after": "50be2a8a79ae4568",
+      "date": 1571046603987
+    },
+    {
+      "type": "edit",
+      "id": "50be2a8a79ae4568",
+      "item": {
+        "type": "markdown",
+        "id": "50be2a8a79ae4568",
+        "text": "- But the way we organise ourselves is static - ossified. \n"
+      },
+      "date": 1571046610767
+    },
+    {
+      "type": "add",
+      "id": "aab7b3237048d3d4",
+      "item": {
+        "type": "markdown",
+        "id": "aab7b3237048d3d4",
+        "text": "- They are quite literally medieval.\n"
+      },
+      "after": "50be2a8a79ae4568",
+      "date": 1571046626306
+    },
+    {
+      "type": "edit",
+      "id": "fc50d32502a5403e",
+      "item": {
+        "type": "markdown",
+        "id": "fc50d32502a5403e",
+        "text": "- We need to evolve our organisational structures to keep pace with our technological prowess.\n"
+      },
+      "date": 1571046642124
+    },
+    {
+      "type": "add",
+      "id": "d2341b7606ce6555",
+      "item": {
+        "type": "markdown",
+        "id": "d2341b7606ce6555",
+        "text": "- The question then is how?"
+      },
+      "after": "fc50d32502a5403e",
+      "date": 1571046648322
+    },
+    {
+      "type": "add",
+      "id": "de309e18a5c0866e",
+      "item": {
+        "type": "markdown",
+        "id": "de309e18a5c0866e",
+        "text": "The most powerful and expressive tool we have to express our values is language. \n"
+      },
+      "after": "d622f5944c0f3865",
+      "date": 1571046863078
+    },
+    {
+      "type": "add",
+      "id": "81d2a1654710132e",
+      "item": {
+        "type": "markdown",
+        "id": "81d2a1654710132e",
+        "text": "We need an expressive way to communicate our values.\n"
+      },
+      "after": "de309e18a5c0866e",
+      "date": 1571046934679
+    },
+    {
+      "type": "edit",
+      "id": "81d2a1654710132e",
+      "item": {
+        "type": "markdown",
+        "id": "81d2a1654710132e",
+        "text": "When we can use natural language to write smart contracts then we can begin to structure workshops that involve real communities in the process of creating theri own governance.\n"
+      },
+      "date": 1571047241807
+    },
+    {
+      "type": "add",
+      "id": "62fd937503c04260",
+      "item": {
+        "type": "markdown",
+        "id": "62fd937503c04260",
+        "text": "We can do workshops that involve local people, community leaders, legal experts - together with local representatives and politicians to create robust and fair agreements."
+      },
+      "after": "81d2a1654710132e",
+      "date": 1571047399791
+    },
+    {
+      "type": "edit",
+      "id": "62fd937503c04260",
+      "item": {
+        "type": "markdown",
+        "id": "62fd937503c04260",
+        "text": "We can do workshops that involve local people, community leaders, legal experts - together with local representatives and politicians to create robust and fair agreements.\n"
+      },
+      "date": 1571047417583
+    },
+    {
+      "type": "add",
+      "id": "a3749af36d561c26",
+      "item": {
+        "type": "markdown",
+        "id": "a3749af36d561c26",
+        "text": "We can:"
+      },
+      "after": "62fd937503c04260",
+      "date": 1571047420926
+    },
+    {
+      "type": "edit",
+      "id": "aab7b3237048d3d4",
+      "item": {
+        "type": "markdown",
+        "id": "aab7b3237048d3d4",
+        "text": "- The way we organise ourselves is quite literally medieval.\n"
+      },
+      "date": 1571047531546
+    },
+    {
+      "type": "edit",
+      "id": "d622f5944c0f3865",
+      "item": {
+        "type": "markdown",
+        "id": "d622f5944c0f3865",
+        "text": "When humans have the ability to create their own agreements - that is literally write them down in a way that matches their values - then we have a democratic process - then we can build just processes.\n"
+      },
+      "date": 1571048346943
+    },
+    {
+      "type": "edit",
+      "id": "d622f5944c0f3865",
+      "item": {
+        "type": "markdown",
+        "id": "d622f5944c0f3865",
+        "text": "When humans have the ability to create their own agreements - that is literally write them down in a way that matches their values - then we have a platform that we can build on. A platform we can build more flexible, just and representative law.\n"
+      },
+      "date": 1571048518699
+    },
+    {
+      "type": "edit",
+      "id": "d622f5944c0f3865",
+      "item": {
+        "type": "markdown",
+        "id": "d622f5944c0f3865",
+        "text": "When humans have the ability to create their own agreements - that is literally write them down in a way that matches their values - then we have a platform that we can build on. \n"
+      },
+      "date": 1571048739067
+    },
+    {
+      "type": "add",
+      "id": "7d4f3ebd293708e9",
+      "item": {
+        "type": "markdown",
+        "id": "7d4f3ebd293708e9",
+        "text": "A platform we that we can build more flexible agreements. A platform we can use to create more just and representative law.\n"
+      },
+      "after": "d622f5944c0f3865",
+      "date": 1571048740273
+    },
+    {
+      "type": "remove",
+      "id": "7d4f3ebd293708e9",
+      "date": 1571048783164
+    },
+    {
+      "type": "edit",
+      "id": "d622f5944c0f3865",
+      "item": {
+        "type": "markdown",
+        "id": "d622f5944c0f3865",
+        "text": "When humans have the ability to create their own agreements - that is literally write them down in a way that matches their values - then we have a platform that we can build on. A platform we that we can build more flexible agreements. \n"
+      },
+      "date": 1571048788884
+    },
+    {
+      "type": "add",
+      "id": "6557315e0fad1884",
+      "item": {
+        "type": "markdown",
+        "id": "6557315e0fad1884",
+        "text": "A platform we can use to create more just and representative law.\n"
+      },
+      "after": "d622f5944c0f3865",
+      "date": 1571048789412
+    },
+    {
+      "type": "edit",
+      "id": "d622f5944c0f3865",
+      "item": {
+        "type": "markdown",
+        "id": "d622f5944c0f3865",
+        "text": "When humans have the ability to create their own agreements - that is literally write them down in a way that matches their values - then we have a platform that we can build on. A platform we that we can use to create more flexible agreements. \n"
+      },
+      "date": 1571048812526
+    },
+    {
+      "type": "edit",
+      "id": "6557315e0fad1884",
+      "item": {
+        "type": "markdown",
+        "id": "6557315e0fad1884",
+        "text": "A platform we can use to build more just and representative processes throughout our society.\n"
+      },
+      "date": 1571048838845
+    },
+    {
+      "type": "edit",
+      "id": "d622f5944c0f3865",
+      "item": {
+        "type": "markdown",
+        "id": "d622f5944c0f3865",
+        "text": "When humans have the ability to create their own agreements - that is literally write them down in a way that matches their values - then we have a platform that we can build on. \n"
+      },
+      "date": 1571048844429
+    },
+    {
+      "type": "add",
+      "id": "350c4ee065ff254c",
+      "item": {
+        "type": "markdown",
+        "id": "350c4ee065ff254c",
+        "text": "A platform we that we can use to create more flexible agreements. \n"
+      },
+      "after": "d622f5944c0f3865",
+      "date": 1571048845121
+    },
+    {
+      "type": "edit",
+      "id": "350c4ee065ff254c",
+      "item": {
+        "type": "markdown",
+        "id": "350c4ee065ff254c",
+        "text": "A platform that we can use to create more flexible agreements. \n"
+      },
+      "date": 1571050379900
+    },
+    {
+      "type": "edit",
+      "id": "62fd937503c04260",
+      "item": {
+        "type": "markdown",
+        "id": "62fd937503c04260",
+        "text": "We can do workshops that involve local people, lawyers, politicians and community leaders, to create robust and fair agreements about how we run our organisations and how we alloc ate our resources.\n"
+      },
+      "date": 1571050565561
+    },
+    {
+      "type": "edit",
+      "id": "effc7d340e59b5d4",
+      "item": {
+        "type": "markdown",
+        "id": "effc7d340e59b5d4",
+        "text": "In this talk, and the accompanying workshop we explore the ideas and technologies at the heart of [[life-like governance]] and the __future of law__. \n"
+      },
+      "date": 1571050688243
+    },
+    {
+      "type": "add",
+      "id": "c3ba4f161913eca3",
+      "item": {
+        "type": "markdown",
+        "id": "c3ba4f161913eca3",
+        "text": "Smart contracts, and the new class of languages associated with them, are at the forefront of this new technology, and this technology is too powerful to be left simply to coders."
+      },
+      "after": "9d8b8fefbdacb808",
+      "date": 1571050969348
+    },
+    {
+      "type": "edit",
+      "id": "c3ba4f161913eca3",
+      "item": {
+        "type": "markdown",
+        "id": "c3ba4f161913eca3",
+        "text": "Smart contracts, and the computer languages associated with them, are at the forefront of this new technology, and this technology is too powerful to be left simply to coders."
+      },
+      "date": 1571051002475
+    },
+    {
+      "type": "edit",
+      "id": "c3ba4f161913eca3",
+      "item": {
+        "type": "markdown",
+        "id": "c3ba4f161913eca3",
+        "text": "Smart contracts, and the computer languages associated with them, are at the forefront of this new technology, and this technology is too powerful to be left simply to coders.\n"
+      },
+      "date": 1571051030562
+    },
+    {
+      "type": "add",
+      "id": "e66be7334bed446b",
+      "item": {
+        "type": "markdown",
+        "id": "e66be7334bed446b",
+        "text": "Domain specific legal languages, and natural language processing enable new ways for human beings to write secure and robust agreements between parties.\n"
+      },
+      "after": "c3ba4f161913eca3",
+      "date": 1571051105732
+    },
+    {
+      "type": "add",
+      "id": "b394e42c15512115",
+      "item": {
+        "type": "markdown",
+        "id": "b394e42c15512115",
+        "text": "Come down. Get involved. Talk to us. Join a workshop. The future needs a helping hand."
+      },
+      "after": "e66be7334bed446b",
+      "date": 1571051149450
+    },
+    {
+      "type": "edit",
+      "id": "e66be7334bed446b",
+      "item": {
+        "type": "markdown",
+        "id": "e66be7334bed446b",
+        "text": "Domain specific legal languages, and natural language processing enable new ways for human beings to write agreements.\n"
+      },
+      "date": 1571051248744
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+[
+  {
+    "slug": "agenda",
+    "title": "Agenda",
+    "date": 1571571407221,
+    "synopsis": "*Henning Diedrich (Founder, Lexon)*"
+  },
+  {
+    "slug": "building-on-peer-review",
+    "title": "Building on peer review",
+    "date": 1570824063462,
+    "synopsis": "Our most natural answer to where we may find these foundations is to build on [[peer review]]. However we need to take the principles of peer review seriously."
+  },
+  {
+    "slug": "collaborative-writing",
+    "title": "Collaborative writing",
+    "date": 1570916525001,
+    "synopsis": "Collaborative writing includes three necessary components to make the writing process work, which include: - [https://en.wikipedia.org/wiki/Collaborative_writing#What_is_Collaborative_Writing wikipedia]"
+  },
+  {
+    "slug": "digital-republics",
+    "title": "Digital Republics",
+    "date": 1571761837053,
+    "synopsis": "Digital Republics: for scientist and the everyone else"
+  },
+  {
+    "slug": "fictional-country",
+    "title": "Fictional country",
+    "date": 1570916863258,
+    "synopsis": "A __fictional country__ is a country that is made up for fictional stories, and does not exist in real life, or one that people believe in without proof - [https://en.wikipedia.org/wiki/Fictional_country wikipedia]"
+  },
+  {
+    "slug": "future-law",
+    "title": "Future Law",
+    "date": 1571051248744,
+    "synopsis": "In the future law will become a language accessible to all."
+  },
+  {
+    "slug": "gephi",
+    "title": "Gephi",
+    "date": 1571838652668,
+    "synopsis": "# Sections - [https://en.wikipedia.org/wiki/Gephi wikipedia]"
+  },
+  {
+    "slug": "gephi-visualisation",
+    "title": "Gephi Visualisation",
+    "date": 1571839549111,
+    "synopsis": "Here we use [[Gephi]] to visualise the way the conversation is structured and grows over time."
+  },
+  {
+    "slug": "governance-of-science",
+    "title": "Governance of Science",
+    "date": 1570824962455,
+    "synopsis": "What is harder is to build a set of appropriate incentives and apply these to the actions of the various parties in the process."
+  },
+  {
+    "slug": "iden3",
+    "title": "iden3",
+    "date": 1571002921081,
+    "synopsis": "__iden3__ makes it easy for you to create self-sovereign identities on [[Ethereum]]. Prove things about yourself while safeguarding your privacy."
+  },
+  {
+    "slug": "imagine",
+    "title": "Imagine",
+    "date": 1571072074681,
+    "synopsis": "Throughout human history, stories have been central to our existence, the signal within the noise, recognisable patterns in which we find meaning and give sense to our world."
+  },
+  {
+    "slug": "inventors-on-the-blockchain",
+    "title": "Inventors on the blockchain",
+    "date": 1571000429204,
+    "synopsis": "Inventors on the blockchain: open innovation and ip protection"
+  },
+  {
+    "slug": "is-it-good-enough",
+    "title": "Is it good enough?",
+    "date": 1570823997387,
+    "synopsis": "The question then becomes not \"[[Is it good?]]\" but \"Is the process good?\". That is we care more about the following:"
+  },
+  {
+    "slug": "jordi-baylina",
+    "title": "Jordi Baylina",
+    "date": 1571002871428,
+    "synopsis": "Jordi Baylina of Giveth presented blockchain backed liquid democracy and identity systems, and how these could be adapted for use in modern day society."
+  },
+  {
+    "slug": "laws-of-robotics",
+    "title": "Laws of robotics",
+    "date": 1571776244419,
+    "synopsis": "__Laws of [[Robotics]]__ are a set of laws, rules, or principles, which are intended as a fundamental framework to underpin the behavior of [[robot]]s designed to have a degree of [[autonomy]]. Robots of this degree of complexity do not yet exist, but they have been widely anticipated in [[science fiction]], [[movie]] and are a topic of active [[research and development]] in the fields of [[robotics]] and [[artificial intelligence]] - [https://en.wikipedia.org/wiki/Laws_of_robotics wikipedia]"
+  },
+  {
+    "slug": "lexon",
+    "title": "Lexon",
+    "date": 1571776476362,
+    "synopsis": "Lexon is a new type of program language that anyone can read without prior knowledge of programming."
+  },
+  {
+    "slug": "liquid-democracy",
+    "title": "Liquid Democracy",
+    "date": 1571002947331,
+    "synopsis": "Liquid Democracy is a combination of [[Direct Democracy]], and [[Representative Democracy]]. It aims to create a more flexible and fluid way for people to express their [[Democratic Preference]]."
+  },
+  {
+    "slug": "magna-carta",
+    "title": "Magna Carta",
+    "date": 1571821222362,
+    "synopsis": "____'' (also ''Magna Charta''; \"Great Charter\"),{{Efn|The document's Latin name is spelled either ''Magna Carta'' or ''Magna Charta'', (the pronunciation is the same) and, in English, with or without the definite article \"the\".  Latin does not have a definite article equivalent to \"the\". The ''[[Oxford English Dictionary]]'' recommends usage without the definite article - [https://en.wikipedia.org/wiki/Magna_Carta wikipedia]"
+  },
+  {
+    "slug": "natural-language-processing",
+    "title": "Natural language processing",
+    "date": 1571609439692,
+    "synopsis": "__Natural language processing__ (__NLP__) is a subfield of [[linguistics]], [[computer science]], [[Information engineering (field)]], and [[artificial intelligence]] concerned with the interactions between computers and human (natural) languages, in particular how to program computers to process and analyze large amounts of [[natural language]] data - [https://en.wikipedia.org/wiki/Natural_language_processing wikipedia]"
+  },
+  {
+    "slug": "open-innovation",
+    "title": "Open Innovation",
+    "date": 1571761734312,
+    "synopsis": "When we think of [[innovation]], we think of a lone inventor in a garage.  Possibly a [[researcher]] working at a university, or perhaps the research activities undertaken by a [[private company]]. That is we think of something that happens within a bounded space, that is the bounds of an individual [[legal person]]."
+  },
+  {
+    "slug": "reality-is-the-new-fiction",
+    "title": "Reality is the New fiction",
+    "date": 1570986054761,
+    "synopsis": "# Quotes"
+  },
+  {
+    "slug": "republic-of-science",
+    "title": "Republic of Science",
+    "date": 1570824968122,
+    "synopsis": "In his 1962 paper The __Republic of Science__, [[Michael Polanyi]] envisages a world of independent scientists free to pursue their own intellectual interests, while entitled to build on each others research."
+  },
+  {
+    "slug": "resolution",
+    "title": "Resolution",
+    "date": 1571918725468,
+    "synopsis": "# Upbeat End"
+  },
+  {
+    "slug": "smart-contract",
+    "title": "Smart contract",
+    "date": 1571609159674,
+    "synopsis": "A __smart contract__ is a computer protocol intended to digitally facilitate, verify, or enforce the negotiation or performance of a [[contract]]. Smart contracts allow the performance of credible transactions without third parties. These transactions are trackable and irreversible - [https://en.wikipedia.org/wiki/Smart_contract wikipedia]"
+  },
+  {
+    "slug": "so-why-are-we-so-stuck",
+    "title": "So why are we so stuck?",
+    "date": 1570871054742,
+    "synopsis": "It is not difficult to design and build modern information systems that support the process of publishing scientific knowledge and enabling fellow scientists to properly and efficiently scrutinise the quality of the results. So the question naturally is \"__Why are we so stuck?__\"."
+  },
+  {
+    "slug": "speakers",
+    "title": "Speakers",
+    "date": 1571762744169,
+    "synopsis": "On this site we document the [[Speakers]] at the forthcoming [[Democracy Garden]] event in Barcelona. October 25-26 2019."
+  },
+  {
+    "slug": "the-problem-with-change",
+    "title": "The problem with change",
+    "date": 1570871033195,
+    "synopsis": "Change is always problematic. Change without proper systems to manage that change tends to be violent, and highly disruptive. Let's look at some of these problems, and the implications for the future [[governance of science]]."
+  },
+  {
+    "slug": "tokenizing-knowledge",
+    "title": "Tokenizing Knowledge",
+    "date": 1570823427438,
+    "synopsis": "We begin with a consideration of what we are trying to both measure and incentivise, and that is:"
+  },
+  {
+    "slug": "toomas-hendrik-ilves",
+    "title": "Toomas Hendrik Ilves",
+    "date": 1571003935864,
+    "synopsis": "__Toomas Hendrik Ilves__ (; born 26 December 1953) is an [[Estonians]] politician who served as the [[List of Presidents of Estonia]] of [[Estonia]] from 2006 until 2016. Ilves worked as a [[diplomat]] and [[journalist]], and he was the leader of the [[Social Democratic Party (Estonia)]] in the 1990s."
+  },
+  {
+    "slug": "welcome-visitors",
+    "title": "Welcome Visitors",
+    "date": 1571916739020,
+    "synopsis": "On this site we document the [[Speakers]] at the forthcoming [[Democracy Garden]] event in Barcelona. October 25-26 2019."
+  },
+  {
+    "slug": "workshop-age-of-consent",
+    "title": "Workshop: Age of Consent",
+    "date": 1571827220025,
+    "synopsis": "From work to our personal lives, how do we agree on where (our) boundaries are? What is consent? How does it differ from other forms of decision making? And what do you need to make it work?"
+  },
+  {
+    "slug": "workshop-digital-republics",
+    "title": "Workshop: Digital Republics",
+    "date": 1571830398377,
+    "synopsis": "Throughout human history, stories have been central to our existence, the signal within the noise, recognisable patterns in which we find meaning and give sense to our world. The power of stories"
+  },
+  {
+    "slug": "workshop-future-law",
+    "title": "Workshop: Future Law",
+    "date": 1571776941005,
+    "synopsis": "[[Henning Diedrich]], the founder of [[Lexon]] introduces a new way to code [[smart contract]]s. Using [[natural language processing]]."
+  },
+  {
+    "slug": "workshop-template",
+    "title": "Workshop Template",
+    "date": 1571827269882,
+    "synopsis": "From work to our personal lives, how do we agree on where (our) boundaries are? What is consent? How does it differ from other forms of decision making? And what do you need to make it work?"
+  }
+]

@@ -1,0 +1,190 @@
+{
+  "title": "Gephi Visualisation",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "2e2010960b343221",
+      "text": "Here we use [[Gephi]] to visualise the way the conversation is structured and grows over time.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "3099eac65b517dde",
+      "text": "Drop a url or flag onto this transporter for an index page that contains links to marked up keywords you want to use to create a gephi timeline:"
+    },
+    {
+      "type": "transport",
+      "id": "45f9620e82e1e7a4",
+      "text": "POST https://rest.livecode.world/gephi"
+    },
+    {
+      "type": "markdown",
+      "id": "e02820cfa0354096",
+      "text": "It would be good to list the possible options for place:"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Gephi Visualisation",
+        "story": []
+      },
+      "date": 1571805453719
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2e2010960b343221"
+      },
+      "id": "2e2010960b343221",
+      "type": "add",
+      "date": 1571805455272
+    },
+    {
+      "type": "edit",
+      "id": "2e2010960b343221",
+      "item": {
+        "type": "markdown",
+        "id": "2e2010960b343221",
+        "text": "Here we use [[Gephiu]] to visualise the way the conversation is structured and grows over time."
+      },
+      "date": 1571805485024
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6a6a8238efc12ab7"
+      },
+      "id": "6a6a8238efc12ab7",
+      "type": "add",
+      "after": "2e2010960b343221",
+      "date": 1571805486775
+    },
+    {
+      "type": "edit",
+      "id": "6a6a8238efc12ab7",
+      "item": {
+        "type": "code",
+        "id": "6a6a8238efc12ab7",
+        "text": "Keyword,color,moment,relation1,Weight 1,relation 2,Weight 2,relations 3,Weight 3\n0 keyword,Law - Fucsia,Innate o Prehistory,Other Relation,Number of relations,Other Relation,Number of relations,Other Relation,Number of relations\n1 keyword,Knowledge - Green,Old Age,Other Relation,Number of relations,Other Relation,Number of relations,Other Relation,Number of relations\n2 keyword,People - Red,Middle Ages,Other Relation,Number of relations,Other Relation,Number of relations,Other Relation,Number of relations\n3 keyword,Imagine - Yellow,Modern and Contemporary Edge,Other Relation,Number of relations,Other Relation,Number of relations,Other Relation,Number of relations\n,,After Satoshi,,,,,,\n,,Just Know,,,,,,\n,,Preparing now to do,,,,,,\n,,Next Decade,,,,,,\n,,This Century,,,,,,\n,,The next Centuries,,,,,,\n,,Never probably,,,,,,"
+      },
+      "date": 1571805491067
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5c04dc50e38b4351"
+      },
+      "id": "5c04dc50e38b4351",
+      "type": "add",
+      "after": "6a6a8238efc12ab7",
+      "date": 1571805494960
+    },
+    {
+      "type": "edit",
+      "id": "5c04dc50e38b4351",
+      "item": {
+        "type": "code",
+        "id": "5c04dc50e38b4351",
+        "text": "Law - Fucsia,Innate o Prehistory,Other Relation,Number of relations,Other Relation,Number of relations,Other Relation,Number of relations\n1 keyword,Knowledge - Green,Old Age,Other Relation,Number of relations,Other Relation,Number of relations,Other Relation,Number of relations\n2 keyword,People - Red,Middle Ages,Other Relation,Number of relations,Other Relation,Number of relations,Other Relation,Number of relations\n3 keyword,Imagine - Yellow,Modern and Contemporary Edge,Other Relation,Number of relations,Other Relation,Number of relations,Other Relation,Number of relations\n,,After Satoshi,,,,,,\n,,Just Know,,,,,,\n,,Preparing now to do,,,,,,\n,,Next Decade,,,,,,\n,,This Century,,,,,,\n,,The next Centuries,,,,,,\n,,Never probably,,,,,,"
+      },
+      "date": 1571805534043
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "45f9620e82e1e7a4"
+      },
+      "id": "45f9620e82e1e7a4",
+      "type": "add",
+      "after": "5c04dc50e38b4351",
+      "date": 1571837209659
+    },
+    {
+      "id": "45f9620e82e1e7a4",
+      "type": "move",
+      "order": [
+        "2e2010960b343221",
+        "45f9620e82e1e7a4",
+        "6a6a8238efc12ab7",
+        "5c04dc50e38b4351"
+      ],
+      "date": 1571837213352
+    },
+    {
+      "type": "edit",
+      "id": "45f9620e82e1e7a4",
+      "item": {
+        "type": "transport",
+        "id": "45f9620e82e1e7a4",
+        "text": "POST https://rest.livecode.world/gephi"
+      },
+      "date": 1571837231129
+    },
+    {
+      "type": "fork",
+      "site": "future.democracy.garden"
+    },
+    {
+      "type": "edit",
+      "id": "2e2010960b343221",
+      "item": {
+        "type": "markdown",
+        "id": "2e2010960b343221",
+        "text": "Here we use [[Gephi]] to visualise the way the conversation is structured and grows over time."
+      },
+      "date": 1571838818020
+    },
+    {
+      "type": "remove",
+      "id": "6a6a8238efc12ab7",
+      "date": 1571839472170
+    },
+    {
+      "type": "remove",
+      "id": "5c04dc50e38b4351",
+      "date": 1571839473883
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e02820cfa0354096"
+      },
+      "id": "e02820cfa0354096",
+      "type": "add",
+      "after": "45f9620e82e1e7a4",
+      "date": 1571839478507
+    },
+    {
+      "type": "edit",
+      "id": "e02820cfa0354096",
+      "item": {
+        "type": "markdown",
+        "id": "e02820cfa0354096",
+        "text": "It would be good to list the possible options for place:"
+      },
+      "date": 1571839505560
+    },
+    {
+      "type": "edit",
+      "id": "2e2010960b343221",
+      "item": {
+        "type": "markdown",
+        "id": "2e2010960b343221",
+        "text": "Here we use [[Gephi]] to visualise the way the conversation is structured and grows over time.\n"
+      },
+      "date": 1571839512183
+    },
+    {
+      "type": "add",
+      "id": "3099eac65b517dde",
+      "item": {
+        "type": "markdown",
+        "id": "3099eac65b517dde",
+        "text": "Drop a url or flag onto this transporter for an index page that contains links to marked up keywords you want to use to create a gephi timeline:"
+      },
+      "after": "2e2010960b343221",
+      "date": 1571839549111
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "title": "Magna Carta",
+  "journal": [
+    {
+      "date": 1571584226186,
+      "type": "create",
+      "item": {
+        "story": "",
+        "title": "Magna Carta"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1571584414451
+    },
+    {
+      "type": "fork",
+      "site": "carlos.proto.institute"
+    },
+    {
+      "id": "b36d607f636e8fb8",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "b36d607f636e8fb8",
+        "text": "# Concepts\nWhat is a smart contract, and how can we democratise the process of creating the laws and code that govern our every day lives in an increasingly technologically driven society? \n\n- [[Future Law]], [[Law]], [[Smart Contract]]\n"
+      },
+      "after": "dc0f9c5c-d238-4b28-8ecd-9ac2ec224008",
+      "date": 1571821211855
+    },
+    {
+      "id": "b36d607f636e8fb8",
+      "type": "move",
+      "order": [
+        "131f7dfc-5661-4324-b0c6-66be1cb3e655",
+        "b36d607f636e8fb8",
+        "0ac2b1e0-e605-4850-98f2-58d7164cc158",
+        "dc0f9c5c-d238-4b28-8ecd-9ac2ec224008",
+        "3eca2309-20b3-4936-8f18-68f61e6b1cb5",
+        "b2bd091b-1c3e-4b5a-9378-4910704300c9",
+        "0a9ecfbf-735d-441e-ba9a-b4c12236d13b",
+        "776af860-a158-4c85-bd47-d47af1900a5a",
+        "fbd44a83-d4db-4faf-ad87-340e9f2bf2a5",
+        "1f8548b0-defe-4953-928a-f0ffc0d3fd7b",
+        "d48d7882-70a9-46a9-a9db-7b543dc000b8",
+        "1c8bda91-cd77-4160-873b-ff2a0e0855c2",
+        "2d9bee2b-51a2-4909-8d07-c7a871bb1d69"
+      ],
+      "date": 1571821222362
+    }
+  ],
+  "story": [
+    {
+      "type": "markdown",
+      "id": "131f7dfc-5661-4324-b0c6-66be1cb3e655",
+      "text": "____'' (also ''Magna Charta''; \"Great Charter\"),{{Efn|The document's Latin name is spelled either ''Magna Carta'' or ''Magna Charta'', (the pronunciation is the same) and, in English, with or without the definite article \"the\".  Latin does not have a definite article equivalent to \"the\". The ''[[Oxford English Dictionary]]'' recommends usage without the definite article - [https://en.wikipedia.org/wiki/Magna_Carta wikipedia]"
+    },
+    {
+      "type": "markdown",
+      "id": "b36d607f636e8fb8",
+      "text": "# Concepts\nWhat is a smart contract, and how can we democratise the process of creating the laws and code that govern our every day lives in an increasingly technologically driven society? \n\n- [[Future Law]], [[Law]], [[Smart Contract]]\n"
+    },
+    {
+      "type": "html",
+      "id": "0ac2b1e0-e605-4850-98f2-58d7164cc158",
+      "text": "<div style='padding: 12px; background:#eee; width:96%; align=centered;'>\n<a href='https://upload.wikimedia.org/wikipedia/commons/e/ee/Magna_Carta_%28British_Library_Cotton_MS_Augustus_II.106%29.jpg' target='_blank'>\n<img style='display:block; margin:auto; width:100%;'\nsrc='https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Magna_Carta_%28British_Library_Cotton_MS_Augustus_II.106%29.jpg/320px-Magna_Carta_%28British_Library_Cotton_MS_Augustus_II.106%29.jpg'>\n</a>\n\n<p class=caption>\nMagna Carta. charter of rights agreed to by King John of England in 1215\n- [https://upload.wikimedia.org/wikipedia/commons/e/ee/Magna_Carta_%28British_Library_Cotton_MS_Augustus_II.106%29.jpg wikimedia]\n</p></div>"
+    },
+    {
+      "type": "markdown",
+      "id": "dc0f9c5c-d238-4b28-8ecd-9ac2ec224008",
+      "text": "The spelling ''Charta'' originates in the 18th century, as a restoration of [[classical Latin]] ''[[:wikt:charta]]'' for the [[Medieval Latin]] spelling ''carta''. While \"Charta\" remains an acceptable variant spelling it never became prevalent in English usage.}} is a [[charter]] of [[rights]] agreed to by [[King John of England]] at [[Runnymede]], near [[Windsor, Berkshire]], on 15 June 1215. First drafted by the [[Stephen Langton]] to make peace between the unpopular King and a group of rebel [[baron]]s, it promised the protection of church rights, protection for the barons from illegal imprisonment, access to swift justice, and limitations on [[feudal]] payments to [[the Crown]], to be implemented through a council of 25 barons. Neither side stood behind their commitments, and the charter was annulled by [[Pope Innocent III]], leading to the [[First Barons' War]]."
+    },
+    {
+      "type": "markdown",
+      "id": "3eca2309-20b3-4936-8f18-68f61e6b1cb5",
+      "text": "After John's death, the regency government of his young son, [[Henry III of England]], reissued the document in 1216, stripped of some of its more radical content, in an unsuccessful bid to build political support for their cause.  At the end of the war in 1217, it formed part of the peace [[Treaty of Lambeth]], where the document acquired the name Magna Carta, to distinguish it from the smaller [[Charter of the Forest]] which was issued at the same time. Short of funds, Henry reissued the charter again in 1225 in exchange for a grant of new taxes. His son, [[Edward I]], repeated the exercise in 1297, this time confirming it as part of England's [[Statutory law]]. The charter became part of English political life and was typically renewed by each monarch in turn, although as time went by and the fledgling [[Parliament of England]] passed new laws, it lost some of its practical significance."
+    },
+    {
+      "type": "markdown",
+      "id": "b2bd091b-1c3e-4b5a-9378-4910704300c9",
+      "text": "At the end of the 16th century there was an upsurge in interest in Magna Carta. Lawyers and historians at the time believed that there was an ancient English constitution, going back to the days of the [[Anglo-Saxons]], that protected individual English freedoms. They argued that the [[Norman conquest of England]] had overthrown these rights, and that Magna Carta had been a popular attempt to restore them, making the charter an essential foundation for the contemporary powers of Parliament and legal principles such as ''[[habeas corpus]]''. Although this historical account was badly flawed, jurists such as Sir [[Edward Coke]] used Magna Carta extensively in the early 17th century, arguing against the [[divine right of kings]] propounded by the [[House of Stuart]] monarchs. Both [[James VI and I]] and his son [[Charles I of England]] attempted to suppress the discussion of Magna Carta, until the issue was curtailed by the [[English Civil War]] of the 1640s and the execution of Charles. The political myth of Magna Carta and its protection of ancient personal liberties persisted after the [[Glorious Revolution]] of 1688 until well into the 19th century. It influenced the early American colonists in the [[Thirteen Colonies]] and the formation of the [[United States Constitution]] in 1787, which became the supreme law of the land in the new republic of the United States. Research by [[Victorian era]] historians showed that the original 1215 charter had concerned the medieval relationship between the monarch and the barons, rather than the rights of ordinary people, but the charter remained a powerful, iconic document, even after almost all of its content was repealed from the statute books in the 19th and 20th centuries."
+    },
+    {
+      "type": "markdown",
+      "id": "0a9ecfbf-735d-441e-ba9a-b4c12236d13b",
+      "text": "Magna Carta still forms an important symbol of liberty today, often cited by politicians and campaigners, and is held in great respect by the British and American legal communities, [[Alfred Denning, Baron Denning]] describing it as \"the greatest constitutional document of all times– the foundation of the freedom of the individual against the arbitrary authority of the despot\". In the 21st century, four [[Exemplified copy]] of the original 1215 charter remain in existence, two at the [[British Library]], one at [[Lincoln Cathedral]] and one at [[Salisbury Cathedral]]. There are also a handful of the subsequent charters in public and private ownership, including copies of the 1297 charter in both the United States and Australia. The original charters were written on [[parchment]] sheets using [[quill]] pens, in [[Scribal abbreviation]] [[medieval Latin]], which was the convention for legal documents at that time. Each was sealed with the royal [[Great Seal of the Realm]] (made of [[beeswax]] and [[resin]] [[sealing wax]]): very few of the seals have survived. Although scholars refer to the 63 numbered \"clauses\" of Magna Carta, this is a modern system of numbering, introduced by Sir [[William Blackstone]] in 1759; the original charter formed a single, long unbroken text. The four original 1215 charters were displayed together at the British Library for one day, 3 February 2015, to mark the 800th anniversary of Magna Carta."
+    },
+    {
+      "type": "markdown",
+      "id": "776af860-a158-4c85-bd47-d47af1900a5a",
+      "text": "# Sections"
+    },
+    {
+      "type": "html",
+      "id": "fbd44a83-d4db-4faf-ad87-340e9f2bf2a5",
+      "text": "<form action='https://rest.livecode.world/mediawiki/importSection'><input name=section_title size=60 value='History'>\n<input name=url type=hidden value='https://en.wikipedia.org/w/index.php?title=Magna Carta&action=edit&section=1'>\n<input type=submit value=create></form>"
+    },
+    {
+      "type": "html",
+      "id": "1f8548b0-defe-4953-928a-f0ffc0d3fd7b",
+      "text": "<form action='https://rest.livecode.world/mediawiki/importSection'><input name=section_title size=60 value='Content'>\n<input name=url type=hidden value='https://en.wikipedia.org/w/index.php?title=Magna Carta&action=edit&section=23'>\n<input type=submit value=create></form>"
+    },
+    {
+      "type": "html",
+      "id": "d48d7882-70a9-46a9-a9db-7b543dc000b8",
+      "text": "<form action='https://rest.livecode.world/mediawiki/importSection'><input name=section_title size=60 value='Bibliography'>\n<input name=url type=hidden value='https://en.wikipedia.org/w/index.php?title=Magna Carta&action=edit&section=34'>\n<input type=submit value=create></form>"
+    },
+    {
+      "type": "markdown",
+      "id": "1c8bda91-cd77-4160-873b-ff2a0e0855c2",
+      "text": "# See also"
+    },
+    {
+      "type": "markdown",
+      "id": "2d9bee2b-51a2-4909-8d07-c7a871bb1d69",
+      "text": "- [[Civil liberties in the United Kingdom]]\n- [[Fundamental Laws of England]]\n- [[Haandfæstning]]\n- [[History of democracy]]\n- [[History of human rights]]\n- [[List of most expensive books and manuscripts]]\n- [[Magna Carta Hiberniae]]\n- [[Statutes of Mortmain]]"
+    }
+  ]
+}

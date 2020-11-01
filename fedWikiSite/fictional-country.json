@@ -1,0 +1,99 @@
+{
+  "title": "Fictional country",
+  "journal": [
+    {
+      "date": 1570916863258,
+      "type": "create",
+      "item": {
+        "story": "",
+        "title": "Fictional country"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1570917049114
+    }
+  ],
+  "story": [
+    {
+      "type": "markdown",
+      "id": "9cce51c2-9180-4602-8e20-90841bc20b33",
+      "text": "A __fictional country__ is a country that is made up for fictional stories, and does not exist in real life, or one that people believe in without proof - [https://en.wikipedia.org/wiki/Fictional_country wikipedia]"
+    },
+    {
+      "type": "html",
+      "id": "91b536d8-fefe-4aa5-bc94-4e9d5d13d024",
+      "text": "<div style='padding: 12px; background:#eee; width:96%; align=centered;'>\n<a href='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Map-of-Oz.jpg/420px-Map-of-Oz.jpg' target='_blank'>\n<img style='display:block; margin:auto; width:100%;'\nsrc='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Map-of-Oz.jpg/420px-Map-of-Oz.jpg'>\n</a>\n\n<p class=caption>\nMap of the [[Land of Oz]], the fictional country in the book ''[[The Wonderful Wizard of Oz]]''\n- [https://commons.wikimedia.org/wiki/File:Map-of-Oz.jpg wikimedia]\n</p></div>"
+    },
+    {
+      "type": "html",
+      "id": "9cfaebfa-eabd-4978-acb4-d0d0dc9b1a14",
+      "text": "<div style='padding: 12px; background:#eee; width:96%; align=centered;'>\n<a href='https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Maps-sodor-railways-amoswolfe.svg/420px-Maps-sodor-railways-amoswolfe.svg.png' target='_blank'>\n<img style='display:block; margin:auto; width:100%;'\nsrc='https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Maps-sodor-railways-amoswolfe.svg/420px-Maps-sodor-railways-amoswolfe.svg.png'>\n</a>\n\n<p class=caption>\nThomas the Tank Engine]]'' stories\n- [https://commons.wikimedia.org/wiki/File:Maps-sodor-railways-amoswolfe.svg wikimedia]\n</p></div>"
+    },
+    {
+      "type": "html",
+      "id": "090dacfc-f7a2-4749-9bb1-02ade4c6f3f2",
+      "text": "<div style='padding: 12px; background:#eee; width:96%; align=centered;'>\n<a href='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/1984_fictious_world_map.svg/420px-1984_fictious_world_map.svg.png' target='_blank'>\n<img style='display:block; margin:auto; width:100%;'\nsrc='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/1984_fictious_world_map.svg/420px-1984_fictious_world_map.svg.png'>\n</a>\n\n<p class=caption>\nFictitious countries used in the novel ''[[Nineteen Eighty-Four]]\n- [https://commons.wikimedia.org/wiki/File:1984_fictious_world_map.svg wikimedia]\n</p></div>"
+    },
+    {
+      "type": "markdown",
+      "id": "60734d78-46bc-41ab-8e87-62f12d6b8f5d",
+      "text": "Sailors have always mistaken low clouds for land masses, and in later times this was given the name [[Dutch cape]]s."
+    },
+    {
+      "type": "markdown",
+      "id": "eb3d5311-3708-47be-a649-871f983ba28c",
+      "text": "Other fictional lands appear most commonly as settings or subjects of [[myth]], literature, film, or video games. They may also be used for technical reasons in actual reality for use in the development of specifications, such as the fictional country of ''[[Bookland]]'', which is used to allow [[European Article Number]] \"country\" codes 978 and 979 to be used for ISBN numbers assigned to books, and code 977 to be assigned for use for [[ISSN]] numbers on magazines and other periodicals.  Also, the [[ISO 3166]] country code \"ZZ\" is reserved as a fictional country code,."
+    },
+    {
+      "type": "markdown",
+      "id": "0b7d1dac-637b-4d1e-aae2-fea4532e6d8b",
+      "text": "Fictional countries appear commonly in stories of early [[science fiction]] (or [[scientific romance]]). Such countries supposedly form part of the normal Earth landscape although not located in a normal atlas. Later similar tales often took place on [[planets in science fiction]]."
+    },
+    {
+      "type": "markdown",
+      "id": "0ec683dc-2fb7-4a80-969e-46b91f8d4a62",
+      "text": "[[Jonathan Swift]]'s protagonist, [[Gulliver's Travels]], visited various strange places. [[Edgar Rice Burroughs]] placed adventures of [[Tarzan]] in areas in Africa that, at the time, remained mostly unknown to the West and to the East. Isolated islands with strange creatures and/or customs enjoyed great popularity in these authors' times. By the 19th century, when Western explorers had surveyed most of the Earth's surface, this option was lost to Western culture. Thereafter fictional [[utopia]]n and [[dystopia]]n societies tended to spring up on other [[planet]]s or in space, whether in human colonies or in alien societies originating elsewhere. Fictional countries can also be used in stories set in a distant future, with other political borders than today."
+    },
+    {
+      "type": "markdown",
+      "id": "3e691e9d-8507-4e05-859c-5584693167fb",
+      "text": "[[Superhero]] and secret agent [[comic books]]s and some [[Thriller (genre)]]s also use fictional countries on Earth as backdrops. Most of these countries exist only for a single story, a TV-series episode or an issue of a comic book. There are notable exceptions where fictional countries appear as recurring plot elements, such as: [[Qumar]] and [[Equatorial Kundu]] (''[[The West Wing]]''); [[Latveria]] ([[Marvel Comics]]); and [[Qurac]] and [[Bialya]] ([[DC Comics]])."
+    },
+    {
+      "type": "markdown",
+      "id": "5bf0dc1c-3944-4e75-a54b-10034c0ea996",
+      "text": "# Sections"
+    },
+    {
+      "type": "html",
+      "id": "8c9f1333-8e36-4ccf-aa2b-f650b144b834",
+      "text": "<form action='https://rest.livecode.world/mediawiki/importSection'><input name=section_title size=60 value='Purposes'>\n<input name=url type=hidden value='https://en.wikipedia.org/w/index.php?title=Fictional country&action=edit&section=1'>\n<input type=submit value=create></form>"
+    },
+    {
+      "type": "html",
+      "id": "23961205-b93b-47e0-8457-8a546912a8f1",
+      "text": "<form action='https://rest.livecode.world/mediawiki/importSection'><input name=section_title size=60 value='In survey research'>\n<input name=url type=hidden value='https://en.wikipedia.org/w/index.php?title=Fictional country&action=edit&section=2'>\n<input type=submit value=create></form>"
+    },
+    {
+      "type": "html",
+      "id": "c236f537-5535-47a4-a4f8-cb80691c94ea",
+      "text": "<form action='https://rest.livecode.world/mediawiki/importSection'><input name=section_title size=60 value='Questionable cases'>\n<input name=url type=hidden value='https://en.wikipedia.org/w/index.php?title=Fictional country&action=edit&section=3'>\n<input type=submit value=create></form>"
+    },
+    {
+      "type": "html",
+      "id": "57357c69-ce36-4a17-b2fb-ca1c4f14eed3",
+      "text": "<form action='https://rest.livecode.world/mediawiki/importSection'><input name=section_title size=60 value='Books'>\n<input name=url type=hidden value='https://en.wikipedia.org/w/index.php?title=Fictional country&action=edit&section=5'>\n<input type=submit value=create></form>"
+    },
+    {
+      "type": "markdown",
+      "id": "4967a5f6-86c6-41ac-afaa-fa7f610a53ef",
+      "text": "# See also"
+    },
+    {
+      "type": "markdown",
+      "id": "5c479a41-6540-4354-a8cd-ee0ecc8fa3fb",
+      "text": "- [[Bitnation]]\n- [[Fictional African countries]]\n- [[Fictional Asian countries]]\n- [[Fictional city]]\n- [[Fictional companies]]\n- [[List of fictional companies]]"
+    }
+  ]
+}

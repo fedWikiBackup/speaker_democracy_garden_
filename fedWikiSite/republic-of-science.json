@@ -1,0 +1,1682 @@
+{
+  "title": "Republic of Science",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "9fe1ae97a6c94f62",
+      "text": "In his 1962 paper The __Republic of Science__, [[Michael Polanyi]] envisages a world of independent scientists free to pursue their own intellectual interests, while entitled to build on each others research.\n\n"
+    },
+    {
+      "type": "markdown",
+      "id": "eb9a96a95b4ea803",
+      "text": "> For in the free cooperation of independent scientists we shall find a highly simplified model of a free society, which presents in isolation certain basic features of it that are more difficult to identify within the comprehensive functions of a national body. p1 - [https://mitpress-request.mit.edu/sites/default/files/titles/content/9780262690201_sch_0001.pdf pdf]\n"
+    },
+    {
+      "type": "markdown",
+      "id": "c25a8e885cb0971e",
+      "text": "In this [[conversation]] we will explore an implementation of this idea on a bespoke [[blockchain]] for [[knowledge creation]]. To understand the approach to the design, let us examine in order the following concepts:"
+    },
+    {
+      "type": "markdown",
+      "id": "281dae4647632ff5",
+      "text": "\n"
+    },
+    {
+      "type": "markdown",
+      "id": "dfd26eb3f62a4824",
+      "text": "1. [[Tokenizing Knowledge]]\n1. __Caution__. [[Is it good enough?]]\n1. [[Building on peer review]]\n1. [[So why are we so stuck?]]\n1. [[Governance of Science]]"
+    },
+    {
+      "type": "markdown",
+      "id": "7af03103da0a8ca0",
+      "text": "# Quotes\n"
+    },
+    {
+      "type": "markdown",
+      "id": "d1a19e8d42853f61",
+      "text": "The quotes below are available online - [http://sciencepolicy.colorado.edu/students/envs_5100/polanyi_1967.pdf pdf]\n"
+    },
+    {
+      "type": "markdown",
+      "id": "5a088cd4656d5975",
+      "text": "> The capacity to renew itself by evoking and assimilating opposition to itself appears to be logically inherent in the sources of the authority wielded by scientific orthodoxy. p3 \n"
+    },
+    {
+      "type": "markdown",
+      "id": "c58ddaf77e39193d",
+      "text": "> The professional standards of science must impose a framework of discipline and at the same time encourage rebellion against it. p3 \n"
+    },
+    {
+      "type": "markdown",
+      "id": "5707c8d5cf73b3b3",
+      "text": "> […] the uniformity of scientific standards throughout science makes possible the comparison between the value of discoveries in fields as different as astronomy and medicine. p4\n"
+    },
+    {
+      "type": "markdown",
+      "id": "ee2b0114c49b911d",
+      "text": "> Moreover, only a strong and united scientific opinion imposing the intrinsic value of scientific progress on society at large can elicit the support of scientific inquiry by the general public. Only by securing popular respect for its own authority can scientific opinion safeguard the complete independence of mature scientists and the unhindered publicity of their results, which jointly assure the spontaneous coordination of scientific efforts throughout the world. \n\n> These are the principles of organization under which the unprecedented advancement of science has been achieved in the twentieth century. Though it is easy to find flaws in their operation, they yet remain the only principles by which this vast domain of collective creativity can be effectively promoted and co-ordinated. p5 \n"
+    },
+    {
+      "type": "markdown",
+      "id": "02c8f62f30e4e90d",
+      "text": "> Any attempt at guiding scientific research towards a purpose other than its own is an attempt to deflect it from the advancement of science.[…] You can kill or\nmutilate the advance of science, you cannot shape it. p8 \n"
+    },
+    {
+      "type": "markdown",
+      "id": "facaab621582023b",
+      "text": "> The methods of scientific inquiry cannot be explicitly formulated and hence can be transmitted only in the same ways as an art, by the affiliation of apprentices to a master. The authority of science is essentially traditional. p10 \n"
+    },
+    {
+      "type": "markdown",
+      "id": "7a9d6a0a65052f2f",
+      "text": "> __The Republic of Science__ shows us an association of independent initiatives, combined towards an indeterminate achievement. It is disciplined and motivated by serving a traditional authority, but this authority is dynamic; its continued existence depends on its constant self-renewal through the originality of its followers.[…] \n\n> In this view of a free society, both its liberties and its servitudes are determined by its striving for self-improvement, which in its turn is determined by the intimations of truths yet to be revealed, calling on men to reveal them."
+    },
+    {
+      "type": "markdown",
+      "id": "6497aa20898e76f4",
+      "text": "# See also\n\n- [[Michael Polanyi]]\n"
+    },
+    {
+      "type": "markdown",
+      "id": "4cb13236d422207d",
+      "text": "# References\n\n- Original paper - [https://mitpress-request.mit.edu/sites/default/files/titles/content/9780262690201_sch_0001.pdf pdf]\n- [https://www.charleskochinstitute.org/news/charles-koch-republic-science/ charleskochinstitute.org]\n- [https://www.washingtonpost.com/news/wonk/wp/2016/06/03/inside-charles-kochs-200-million-quest-for-a-republic-of-science/ washingtonpost.com]\n- [http://www.andreasaltelli.eu/file/repository/Polanyi_Excerpts.pdf andreasaltelli.eu]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Republic of Science",
+        "story": []
+      },
+      "date": 1570813989813
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9fe1ae97a6c94f62"
+      },
+      "id": "9fe1ae97a6c94f62",
+      "type": "add",
+      "date": 1570813991970
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6497aa20898e76f4"
+      },
+      "id": "6497aa20898e76f4",
+      "type": "add",
+      "after": "9fe1ae97a6c94f62",
+      "date": 1570813993409
+    },
+    {
+      "type": "edit",
+      "id": "6497aa20898e76f4",
+      "item": {
+        "type": "markdown",
+        "id": "6497aa20898e76f4",
+        "text": "# See also\n- [["
+      },
+      "date": 1570814003301
+    },
+    {
+      "type": "edit",
+      "id": "6497aa20898e76f4",
+      "item": {
+        "type": "markdown",
+        "id": "6497aa20898e76f4",
+        "text": "# See also\n\n- [[Michael Polanyi]]"
+      },
+      "date": 1570814015075
+    },
+    {
+      "type": "edit",
+      "id": "6497aa20898e76f4",
+      "item": {
+        "type": "markdown",
+        "id": "6497aa20898e76f4",
+        "text": "# See also\n\n- [[Michael Polanyi]]\n"
+      },
+      "date": 1570814209619
+    },
+    {
+      "type": "add",
+      "id": "4cb13236d422207d",
+      "item": {
+        "type": "markdown",
+        "id": "4cb13236d422207d",
+        "text": "# References\n\n- [https://mitpress-request.mit.edu/sites/default/files/titles/content/9780262690201_sch_0001.pdf pdf]"
+      },
+      "after": "6497aa20898e76f4",
+      "date": 1570814234532
+    },
+    {
+      "type": "edit",
+      "id": "4cb13236d422207d",
+      "item": {
+        "type": "markdown",
+        "id": "4cb13236d422207d",
+        "text": "# References\n\n- [https://mitpress-request.mit.edu/sites/default/files/titles/content/9780262690201_sch_0001.pdf pdf]\n- [https://www.charleskochinstitute.org/news/charles-koch-republic-science/ charleskochinstitute.org]"
+      },
+      "date": 1570814262044
+    },
+    {
+      "type": "edit",
+      "id": "4cb13236d422207d",
+      "item": {
+        "type": "markdown",
+        "id": "4cb13236d422207d",
+        "text": "# References\n\n- [https://mitpress-request.mit.edu/sites/default/files/titles/content/9780262690201_sch_0001.pdf pdf]\n- [https://www.charleskochinstitute.org/news/charles-koch-republic-science/ charleskochinstitute.org]\n- [http://www.andreasaltelli.eu/file/repository/Polanyi_Excerpts.pdf andreasaltelli.eu]"
+      },
+      "date": 1570814292010
+    },
+    {
+      "type": "edit",
+      "id": "4cb13236d422207d",
+      "item": {
+        "type": "markdown",
+        "id": "4cb13236d422207d",
+        "text": "# References\n\n- [https://mitpress-request.mit.edu/sites/default/files/titles/content/9780262690201_sch_0001.pdf pdf]\n- [https://www.charleskochinstitute.org/news/charles-koch-republic-science/ charleskochinstitute.org]\n- [https://www.washingtonpost.com/news/wonk/wp/2016/06/03/inside-charles-kochs-200-million-quest-for-a-republic-of-science/ washingtonpost.com]\n- [http://www.andreasaltelli.eu/file/repository/Polanyi_Excerpts.pdf andreasaltelli.eu]"
+      },
+      "date": 1570814319485
+    },
+    {
+      "type": "edit",
+      "id": "4cb13236d422207d",
+      "item": {
+        "type": "markdown",
+        "id": "4cb13236d422207d",
+        "text": "# References\n\n- Original paper on [https://mitpress-request.mit.edu/sites/default/files/titles/content/9780262690201_sch_0001.pdf pdf]\n- [https://www.charleskochinstitute.org/news/charles-koch-republic-science/ charleskochinstitute.org]\n- [https://www.washingtonpost.com/news/wonk/wp/2016/06/03/inside-charles-kochs-200-million-quest-for-a-republic-of-science/ washingtonpost.com]\n- [http://www.andreasaltelli.eu/file/repository/Polanyi_Excerpts.pdf andreasaltelli.eu]"
+      },
+      "date": 1570814328906
+    },
+    {
+      "type": "edit",
+      "id": "4cb13236d422207d",
+      "item": {
+        "type": "markdown",
+        "id": "4cb13236d422207d",
+        "text": "# References\n\n- Original paper - [https://mitpress-request.mit.edu/sites/default/files/titles/content/9780262690201_sch_0001.pdf pdf]\n- [https://www.charleskochinstitute.org/news/charles-koch-republic-science/ charleskochinstitute.org]\n- [https://www.washingtonpost.com/news/wonk/wp/2016/06/03/inside-charles-kochs-200-million-quest-for-a-republic-of-science/ washingtonpost.com]\n- [http://www.andreasaltelli.eu/file/repository/Polanyi_Excerpts.pdf andreasaltelli.eu]"
+      },
+      "date": 1570814333052
+    },
+    {
+      "type": "edit",
+      "id": "9fe1ae97a6c94f62",
+      "item": {
+        "type": "markdown",
+        "id": "9fe1ae97a6c94f62",
+        "text": "The __Republic of Science__ envisages a world of independent scientists competing with each other, and pursuing their own intellectual interests, while being free to build on each others research. \n"
+      },
+      "date": 1570814519805
+    },
+    {
+      "type": "add",
+      "id": "fdb1ade08e57cf65",
+      "item": {
+        "type": "markdown",
+        "id": "fdb1ade08e57cf65",
+        "text": "While a little unclear on the positive implications of the social architecture the paper proposes, it is much clearer about what it opposes - namely any form of planning (central or other), preferring for a market like mechanism applied to scientific endeavour (rather than the pursuit of money), to guide the overall direction of enquiry.\n"
+      },
+      "after": "9fe1ae97a6c94f62",
+      "date": 1570814618203
+    },
+    {
+      "type": "add",
+      "id": "7af03103da0a8ca0",
+      "item": {
+        "type": "markdown",
+        "id": "7af03103da0a8ca0",
+        "text": "Available online at\nhttp://sciencepolicy.colorado.edu/students/envs_5100/polanyi_1967.pdf\n\n> The capacity to renew itself by evoking and assimilating opposition to itself appears to be logically inherent in the sources of the authority wielded by scientific orthodoxy. p. 3 \n"
+      },
+      "after": "fdb1ade08e57cf65",
+      "date": 1570814659752
+    },
+    {
+      "type": "add",
+      "id": "c58ddaf77e39193d",
+      "item": {
+        "type": "markdown",
+        "id": "c58ddaf77e39193d",
+        "text": "p. 3 The professional standards of science must impose a framework of discipline\nand at the same time encourage rebellion against it.\np. 4 […] the uniformity of scientific standards throughout science makes possible the\ncomparison between the value of discoveries in fields as different as astronomy and\nmedicine.\np. 4 Moreover, only a strong and united scientific opinion imposing the intrinsic value\nof scientific progress on society at large can elicit the support of scientific inquiry by\nthe general public. Only by securing popular respect for its own authority can\nscientific opinion safeguard the complete independence of mature scientists and the\nunhindered publicity of their results, which jointly assure the spontaneous coordination of scientific efforts throughout the world. These are the principles of\norganization under which the unprecedented advancement of science has been\nachieved in the twentieth century. Though it is easy to find flaws in their operation,\nthey yet remain the only principles by which this vast domain of collective creativity\ncan be effectively promoted and co-ordinated.\np. 5 Any attempt at guiding scientific research towards a purpose other than its own\nis an attempt to deflect it from the advancement of science.[…] You can kill or\nmutilate the advance of science, you cannot shape it.\np. 8 the methods of scientific inquiry cannot be explicitly formulated and hence can\nbe transmitted only in the same ways as an art, by the affiliation of apprentices to a\nmaster. The authority of science is essentially traditional.\np. 10 The Republic of Science shows us an association of independent initiatives,\ncombined towards an indeterminate achievement. It is disciplined and motivated by\nserving a traditional authority, but this authority is dynamic; its continued existence\ndepends on its constant self-renewal through the originality of its followers.[…] In this\nview of a free society, both its liberties and its servitudes are determined by its\nstriving for self-improvement, which in its turn is determined by the intimations of\ntruths yet to be revealed, calling on men to reveal them."
+      },
+      "after": "7af03103da0a8ca0",
+      "date": 1570814664933
+    },
+    {
+      "type": "edit",
+      "id": "7af03103da0a8ca0",
+      "item": {
+        "type": "markdown",
+        "id": "7af03103da0a8ca0",
+        "text": "# Quotes\n"
+      },
+      "date": 1570814670675
+    },
+    {
+      "type": "add",
+      "id": "d1a19e8d42853f61",
+      "item": {
+        "type": "markdown",
+        "id": "d1a19e8d42853f61",
+        "text": "Available online at\nhttp://sciencepolicy.colorado.edu/students/envs_5100/polanyi_1967.pdf\n\n> The capacity to renew itself by evoking and assimilating opposition to itself appears to be logically inherent in the sources of the authority wielded by scientific orthodoxy. p. 3 \n"
+      },
+      "after": "7af03103da0a8ca0",
+      "date": 1570814671234
+    },
+    {
+      "type": "edit",
+      "id": "d1a19e8d42853f61",
+      "item": {
+        "type": "markdown",
+        "id": "d1a19e8d42853f61",
+        "text": "The quotes below are available online -\n[http://sciencepolicy.colorado.edu/students/envs_5100/polanyi_1967.pdf]\n\n> The capacity to renew itself by evoking and assimilating opposition to itself appears to be logically inherent in the sources of the authority wielded by scientific orthodoxy. p. 3 \n"
+      },
+      "date": 1570814707813
+    },
+    {
+      "type": "edit",
+      "id": "d1a19e8d42853f61",
+      "item": {
+        "type": "markdown",
+        "id": "d1a19e8d42853f61",
+        "text": "The quotes below are available online -\n[http://sciencepolicy.colorado.edu/students/envs_5100/polanyi_1967.pdf pdf]\n\n> The capacity to renew itself by evoking and assimilating opposition to itself appears to be logically inherent in the sources of the authority wielded by scientific orthodoxy. p. 3 \n"
+      },
+      "date": 1570814714359
+    },
+    {
+      "type": "edit",
+      "id": "d1a19e8d42853f61",
+      "item": {
+        "type": "markdown",
+        "id": "d1a19e8d42853f61",
+        "text": "The quotes below are available online -[http://sciencepolicy.colorado.edu/students/envs_5100/polanyi_1967.pdf pdf]\n\n> The capacity to renew itself by evoking and assimilating opposition to itself appears to be logically inherent in the sources of the authority wielded by scientific orthodoxy. p. 3 \n"
+      },
+      "date": 1570814719209
+    },
+    {
+      "type": "edit",
+      "id": "d1a19e8d42853f61",
+      "item": {
+        "type": "markdown",
+        "id": "d1a19e8d42853f61",
+        "text": "The quotes below are available online - [http://sciencepolicy.colorado.edu/students/envs_5100/polanyi_1967.pdf pdf]\n\n> The capacity to renew itself by evoking and assimilating opposition to itself appears to be logically inherent in the sources of the authority wielded by scientific orthodoxy. p. 3 \n"
+      },
+      "date": 1570814723391
+    },
+    {
+      "type": "edit",
+      "id": "c58ddaf77e39193d",
+      "item": {
+        "type": "markdown",
+        "id": "c58ddaf77e39193d",
+        "text": "> The professional standards of science must impose a framework of discipline and at the same time encourage rebellion against it. p. 3 \n"
+      },
+      "date": 1570814735221
+    },
+    {
+      "type": "add",
+      "id": "5707c8d5cf73b3b3",
+      "item": {
+        "type": "markdown",
+        "id": "5707c8d5cf73b3b3",
+        "text": "> […] the uniformity of scientific standards throughout science makes possible the comparison between the value of discoveries in fields as different as astronomy and medicine. p. 4\n"
+      },
+      "after": "c58ddaf77e39193d",
+      "date": 1570814748202
+    },
+    {
+      "type": "add",
+      "id": "ee2b0114c49b911d",
+      "item": {
+        "type": "markdown",
+        "id": "ee2b0114c49b911d",
+        "text": "p. 4 Moreover, only a strong and united scientific opinion imposing the intrinsic value\nof scientific progress on society at large can elicit the support of scientific inquiry by\nthe general public. Only by securing popular respect for its own authority can\nscientific opinion safeguard the complete independence of mature scientists and the\nunhindered publicity of their results, which jointly assure the spontaneous coordination of scientific efforts throughout the world. These are the principles of\norganization under which the unprecedented advancement of science has been\nachieved in the twentieth century. Though it is easy to find flaws in their operation,\nthey yet remain the only principles by which this vast domain of collective creativity\ncan be effectively promoted and co-ordinated.\np. 5 Any attempt at guiding scientific research towards a purpose other than its own\nis an attempt to deflect it from the advancement of science.[…] You can kill or\nmutilate the advance of science, you cannot shape it.\np. 8 the methods of scientific inquiry cannot be explicitly formulated and hence can\nbe transmitted only in the same ways as an art, by the affiliation of apprentices to a\nmaster. The authority of science is essentially traditional.\np. 10 The Republic of Science shows us an association of independent initiatives,\ncombined towards an indeterminate achievement. It is disciplined and motivated by\nserving a traditional authority, but this authority is dynamic; its continued existence\ndepends on its constant self-renewal through the originality of its followers.[…] In this\nview of a free society, both its liberties and its servitudes are determined by its\nstriving for self-improvement, which in its turn is determined by the intimations of\ntruths yet to be revealed, calling on men to reveal them."
+      },
+      "after": "5707c8d5cf73b3b3",
+      "date": 1570814770150
+    },
+    {
+      "type": "edit",
+      "id": "d1a19e8d42853f61",
+      "item": {
+        "type": "markdown",
+        "id": "d1a19e8d42853f61",
+        "text": "The quotes below are available online - [http://sciencepolicy.colorado.edu/students/envs_5100/polanyi_1967.pdf pdf]\n\n\n"
+      },
+      "date": 1570814776473
+    },
+    {
+      "type": "add",
+      "id": "5a088cd4656d5975",
+      "item": {
+        "type": "markdown",
+        "id": "5a088cd4656d5975",
+        "text": "> The capacity to renew itself by evoking and assimilating opposition to itself appears to be logically inherent in the sources of the authority wielded by scientific orthodoxy. p3 \n"
+      },
+      "after": "d1a19e8d42853f61",
+      "date": 1570814778006
+    },
+    {
+      "type": "edit",
+      "id": "c58ddaf77e39193d",
+      "item": {
+        "type": "markdown",
+        "id": "c58ddaf77e39193d",
+        "text": "> The professional standards of science must impose a framework of discipline and at the same time encourage rebellion against it. p3 \n"
+      },
+      "date": 1570814781256
+    },
+    {
+      "type": "edit",
+      "id": "5707c8d5cf73b3b3",
+      "item": {
+        "type": "markdown",
+        "id": "5707c8d5cf73b3b3",
+        "text": "> […] the uniformity of scientific standards throughout science makes possible the comparison between the value of discoveries in fields as different as astronomy and medicine. p4\n"
+      },
+      "date": 1570814785007
+    },
+    {
+      "type": "edit",
+      "id": "ee2b0114c49b911d",
+      "item": {
+        "type": "markdown",
+        "id": "ee2b0114c49b911d",
+        "text": "> Moreover, only a strong and united scientific opinion imposing the intrinsic value of scientific progress on society at large can elicit the support of scientific inquiry by the general public. Only by securing popular respect for its own authority can scientific opinion safeguard the complete independence of mature scientists and the unhindered publicity of their results, which jointly assure the spontaneous coordination of scientific efforts throughout the world. These are the principles of organization under which the unprecedented advancement of science has been\nachieved in the twentieth century. Though it is easy to find flaws in their operation, they yet remain the only principles by which this vast domain of collective creativity can be effectively promoted and co-ordinated. p5 \n"
+      },
+      "date": 1570814886417
+    },
+    {
+      "type": "add",
+      "id": "02c8f62f30e4e90d",
+      "item": {
+        "type": "markdown",
+        "id": "02c8f62f30e4e90d",
+        "text": "Any attempt at guiding scientific research towards a purpose other than its own\nis an attempt to deflect it from the advancement of science.[…] You can kill or\nmutilate the advance of science, you cannot shape it.\np. 8 the methods of scientific inquiry cannot be explicitly formulated and hence can\nbe transmitted only in the same ways as an art, by the affiliation of apprentices to a\nmaster. The authority of science is essentially traditional.\np. 10 The Republic of Science shows us an association of independent initiatives,\ncombined towards an indeterminate achievement. It is disciplined and motivated by\nserving a traditional authority, but this authority is dynamic; its continued existence\ndepends on its constant self-renewal through the originality of its followers.[…] In this\nview of a free society, both its liberties and its servitudes are determined by its\nstriving for self-improvement, which in its turn is determined by the intimations of\ntruths yet to be revealed, calling on men to reveal them."
+      },
+      "after": "ee2b0114c49b911d",
+      "date": 1570814889403
+    },
+    {
+      "type": "edit",
+      "id": "ee2b0114c49b911d",
+      "item": {
+        "type": "markdown",
+        "id": "ee2b0114c49b911d",
+        "text": "> Moreover, only a strong and united scientific opinion imposing the intrinsic value of scientific progress on society at large can elicit the support of scientific inquiry by the general public. Only by securing popular respect for its own authority can scientific opinion safeguard the complete independence of mature scientists and the unhindered publicity of their results, which jointly assure the spontaneous coordination of scientific efforts throughout the world. \n> These are the principles of organization under which the unprecedented advancement of science has been achieved in the twentieth century. Though it is easy to find flaws in their operation, they yet remain the only principles by which this vast domain of collective creativity can be effectively promoted and co-ordinated. p5 \n"
+      },
+      "date": 1570814905406
+    },
+    {
+      "type": "edit",
+      "id": "ee2b0114c49b911d",
+      "item": {
+        "type": "markdown",
+        "id": "ee2b0114c49b911d",
+        "text": "> Moreover, only a strong and united scientific opinion imposing the intrinsic value of scientific progress on society at large can elicit the support of scientific inquiry by the general public. Only by securing popular respect for its own authority can scientific opinion safeguard the complete independence of mature scientists and the unhindered publicity of their results, which jointly assure the spontaneous coordination of scientific efforts throughout the world. \n\n> These are the principles of organization under which the unprecedented advancement of science has been achieved in the twentieth century. Though it is easy to find flaws in their operation, they yet remain the only principles by which this vast domain of collective creativity can be effectively promoted and co-ordinated. p5 \n"
+      },
+      "date": 1570814910094
+    },
+    {
+      "type": "edit",
+      "id": "02c8f62f30e4e90d",
+      "item": {
+        "type": "markdown",
+        "id": "02c8f62f30e4e90d",
+        "text": "Any attempt at guiding scientific research towards a purpose other than its own is an attempt to deflect it from the advancement of science.[…] You can kill or\nmutilate the advance of science, you cannot shape it.\np. 8 the methods of scientific inquiry cannot be explicitly formulated and hence can\nbe transmitted only in the same ways as an art, by the affiliation of apprentices to a\nmaster. The authority of science is essentially traditional.\np. 10 The Republic of Science shows us an association of independent initiatives,\ncombined towards an indeterminate achievement. It is disciplined and motivated by\nserving a traditional authority, but this authority is dynamic; its continued existence\ndepends on its constant self-renewal through the originality of its followers.[…] In this\nview of a free society, both its liberties and its servitudes are determined by its\nstriving for self-improvement, which in its turn is determined by the intimations of\ntruths yet to be revealed, calling on men to reveal them."
+      },
+      "date": 1570814920807
+    },
+    {
+      "type": "edit",
+      "id": "02c8f62f30e4e90d",
+      "item": {
+        "type": "markdown",
+        "id": "02c8f62f30e4e90d",
+        "text": "> Any attempt at guiding scientific research towards a purpose other than its own is an attempt to deflect it from the advancement of science.[…] You can kill or\nmutilate the advance of science, you cannot shape it. p8 \n"
+      },
+      "date": 1570814942073
+    },
+    {
+      "type": "add",
+      "id": "facaab621582023b",
+      "item": {
+        "type": "markdown",
+        "id": "facaab621582023b",
+        "text": "The methods of scientific inquiry cannot be explicitly formulated and hence can be transmitted only in the same ways as an art, by the affiliation of apprentices to a master. The authority of science is essentially traditional. p10 \n"
+      },
+      "after": "02c8f62f30e4e90d",
+      "date": 1570814958656
+    },
+    {
+      "type": "add",
+      "id": "7a9d6a0a65052f2f",
+      "item": {
+        "type": "markdown",
+        "id": "7a9d6a0a65052f2f",
+        "text": "> __The Republic of Science__ shows us an association of independent initiatives, combined towards an indeterminate achievement. It is disciplined and motivated by serving a traditional authority, but this authority is dynamic; its continued existence\ndepends on its constant self-renewal through the originality of its followers.[…] In this\nview of a free society, both its liberties and its servitudes are determined by its striving for self-improvement, which in its turn is determined by the intimations of truths yet to be revealed, calling on men to reveal them."
+      },
+      "after": "facaab621582023b",
+      "date": 1570814989583
+    },
+    {
+      "type": "edit",
+      "id": "7a9d6a0a65052f2f",
+      "item": {
+        "type": "markdown",
+        "id": "7a9d6a0a65052f2f",
+        "text": "> __The Republic of Science__ shows us an association of independent initiatives, combined towards an indeterminate achievement. It is disciplined and motivated by serving a traditional authority, but this authority is dynamic; its continued existence depends on its constant self-renewal through the originality of its followers.[…] In this view of a free society, both its liberties and its servitudes are determined by its striving for self-improvement, which in its turn is determined by the intimations of truths yet to be revealed, calling on men to reveal them."
+      },
+      "date": 1570815000050
+    },
+    {
+      "type": "edit",
+      "id": "7a9d6a0a65052f2f",
+      "item": {
+        "type": "markdown",
+        "id": "7a9d6a0a65052f2f",
+        "text": "> __The Republic of Science__ shows us an association of independent initiatives, combined towards an indeterminate achievement. It is disciplined and motivated by serving a traditional authority, but this authority is dynamic; its continued existence depends on its constant self-renewal through the originality of its followers.[…] \n\n> In this view of a free society, both its liberties and its servitudes are determined by its striving for self-improvement, which in its turn is determined by the intimations of truths yet to be revealed, calling on men to reveal them."
+      },
+      "date": 1570815012076
+    },
+    {
+      "type": "edit",
+      "id": "facaab621582023b",
+      "item": {
+        "type": "markdown",
+        "id": "facaab621582023b",
+        "text": "> The methods of scientific inquiry cannot be explicitly formulated and hence can be transmitted only in the same ways as an art, by the affiliation of apprentices to a master. The authority of science is essentially traditional. p10 \n"
+      },
+      "date": 1570815017982
+    },
+    {
+      "type": "edit",
+      "id": "9fe1ae97a6c94f62",
+      "item": {
+        "type": "markdown",
+        "id": "9fe1ae97a6c94f62",
+        "text": "In his 1962 paper The __Republic of Science__, [[Michael Polanyi]] envisages a world of independent scientists competing with each other, and pursuing their own intellectual interests, while being free to build on each others research. \n"
+      },
+      "date": 1570815150479
+    },
+    {
+      "type": "edit",
+      "id": "9fe1ae97a6c94f62",
+      "item": {
+        "type": "markdown",
+        "id": "9fe1ae97a6c94f62",
+        "text": "In his 1962 paper The __Republic of Science__, [[Michael Polanyi]] envisages a world of independent scientists competing with each other, and pursuing their own intellectual interests, while being free to build on each others research - [https://mitpress-request.mit.edu/sites/default/files/titles/content/9780262690201_sch_0001.pdf pdf]\n"
+      },
+      "date": 1570815165942
+    },
+    {
+      "type": "fork",
+      "site": "openscience.cc",
+      "date": 1570815236653
+    },
+    {
+      "type": "edit",
+      "id": "9fe1ae97a6c94f62",
+      "item": {
+        "type": "markdown",
+        "id": "9fe1ae97a6c94f62",
+        "text": "In his 1962 paper The __Republic of Science__, [[Michael Polanyi]] envisages a world of independent scientists free to pursue their own intellectual interests, while entitled to build on each others research. In this talk we will explore an implementation of this idea on a bespoke blockchain for knowledge creation - [https://mitpress-request.mit.edu/sites/default/files/titles/content/9780262690201_sch_0001.pdf pdf]\n"
+      },
+      "date": 1570815444406
+    },
+    {
+      "type": "edit",
+      "id": "9fe1ae97a6c94f62",
+      "item": {
+        "type": "markdown",
+        "id": "9fe1ae97a6c94f62",
+        "text": "In his 1962 paper The __Republic of Science__, [[Michael Polanyi]] envisages a world of independent scientists free to pursue their own intellectual interests, while entitled to build on each others research. In this conversation we will explore an implementation of this idea on a bespoke blockchain for knowledge creation - [https://mitpress-request.mit.edu/sites/default/files/titles/content/9780262690201_sch_0001.pdf pdf]\n"
+      },
+      "date": 1570815506317
+    },
+    {
+      "type": "edit",
+      "id": "d1a19e8d42853f61",
+      "item": {
+        "type": "markdown",
+        "id": "d1a19e8d42853f61",
+        "text": "The quotes below are available online - [http://sciencepolicy.colorado.edu/students/envs_5100/polanyi_1967.pdf pdf]\n"
+      },
+      "date": 1570815889230
+    },
+    {
+      "type": "add",
+      "id": "eb9a96a95b4ea803",
+      "item": {
+        "type": "markdown",
+        "id": "eb9a96a95b4ea803",
+        "text": "> For in the free cooperation of independent scientists we shall find a highly simplified model of a free society, which presents in isolation certain .basic features of it that are more difficult to identify within the comprehensive functions of a national body.\n\n"
+      },
+      "after": "d1a19e8d42853f61",
+      "date": 1570815908182
+    },
+    {
+      "type": "edit",
+      "id": "eb9a96a95b4ea803",
+      "item": {
+        "type": "markdown",
+        "id": "eb9a96a95b4ea803",
+        "text": "> For in the free cooperation of independent scientists we shall find a highly simplified model of a free society, which presents in isolation certain .basic features of it that are more difficult to identify within the comprehensive functions of a national body. p1\n\n"
+      },
+      "date": 1570815913179
+    },
+    {
+      "type": "remove",
+      "id": "fdb1ade08e57cf65",
+      "date": 1570815966847
+    },
+    {
+      "id": "eb9a96a95b4ea803",
+      "type": "move",
+      "order": [
+        "9fe1ae97a6c94f62",
+        "eb9a96a95b4ea803",
+        "7af03103da0a8ca0",
+        "d1a19e8d42853f61",
+        "5a088cd4656d5975",
+        "c58ddaf77e39193d",
+        "5707c8d5cf73b3b3",
+        "ee2b0114c49b911d",
+        "02c8f62f30e4e90d",
+        "facaab621582023b",
+        "7a9d6a0a65052f2f",
+        "6497aa20898e76f4",
+        "4cb13236d422207d"
+      ],
+      "date": 1570815981206
+    },
+    {
+      "type": "edit",
+      "id": "eb9a96a95b4ea803",
+      "item": {
+        "type": "markdown",
+        "id": "eb9a96a95b4ea803",
+        "text": "> For in the free cooperation of independent scientists we shall find a highly simplified model of a free society, which presents in isolation certain .basic features of it that are more difficult to identify within the comprehensive functions of a national body. p1\n"
+      },
+      "date": 1570815994277
+    },
+    {
+      "type": "add",
+      "id": "dfd26eb3f62a4824",
+      "item": {
+        "type": "markdown",
+        "id": "dfd26eb3f62a4824",
+        "text": "# Toekenising Knowledge\n"
+      },
+      "after": "eb9a96a95b4ea803",
+      "date": 1570816053149
+    },
+    {
+      "type": "add",
+      "id": "7c328bc2f62d3384",
+      "item": {
+        "type": "markdown",
+        "id": "7c328bc2f62d3384",
+        "text": "# We start with identity\n"
+      },
+      "after": "dfd26eb3f62a4824",
+      "date": 1570816054720
+    },
+    {
+      "type": "edit",
+      "id": "dfd26eb3f62a4824",
+      "item": {
+        "type": "markdown",
+        "id": "dfd26eb3f62a4824",
+        "text": "# Tokenising Knowledge\n"
+      },
+      "date": 1570816069794
+    },
+    {
+      "type": "add",
+      "id": "281dae4647632ff5",
+      "item": {
+        "type": "markdown",
+        "id": "281dae4647632ff5",
+        "text": "We begin with a consideration of what we are trying to both measure an incentivise, and that is knowledge creation for the common good.Having established this principle, we must ask how we measure such a quality, that is how we [[tokenise knowledge]]."
+      },
+      "after": "dfd26eb3f62a4824",
+      "date": 1570816201036
+    },
+    {
+      "type": "edit",
+      "id": "281dae4647632ff5",
+      "item": {
+        "type": "markdown",
+        "id": "281dae4647632ff5",
+        "text": "We begin with a consideration of what we are trying to both measure an incentivise, and that is knowledge creation for the common good.\n"
+      },
+      "date": 1570816221938
+    },
+    {
+      "type": "add",
+      "id": "0f2da145f1219ddf",
+      "item": {
+        "type": "markdown",
+        "id": "0f2da145f1219ddf",
+        "text": "Having established this principle, we must ask how we measure such a quality, that is how we [[tokenise knowledge]]."
+      },
+      "after": "281dae4647632ff5",
+      "date": 1570816223132
+    },
+    {
+      "type": "edit",
+      "id": "9fe1ae97a6c94f62",
+      "item": {
+        "type": "markdown",
+        "id": "9fe1ae97a6c94f62",
+        "text": "In his 1962 paper The __Republic of Science__, [[Michael Polanyi]] envisages a world of independent scientists free to pursue their own intellectual interests, while entitled to build on each others research. In this [[conversation]] we will explore an implementation of this idea on a bespoke [[blockchain]] for [[knowledge creation]] - [https://mitpress-request.mit.edu/sites/default/files/titles/content/9780262690201_sch_0001.pdf pdf]\n"
+      },
+      "date": 1570816445767
+    },
+    {
+      "type": "edit",
+      "id": "0f2da145f1219ddf",
+      "item": {
+        "type": "markdown",
+        "id": "0f2da145f1219ddf",
+        "text": "Having established this principle, we must ask how we measure such a quality, that is how we [[tokenize knowledge]]?\n"
+      },
+      "date": 1570817046695
+    },
+    {
+      "type": "edit",
+      "id": "dfd26eb3f62a4824",
+      "item": {
+        "type": "markdown",
+        "id": "dfd26eb3f62a4824",
+        "text": "# Tokenizing Knowledge\n"
+      },
+      "date": 1570817054722
+    },
+    {
+      "type": "add",
+      "id": "6df6094e2fac6b33",
+      "item": {
+        "type": "markdown",
+        "id": "6df6094e2fac6b33",
+        "text": "There are of course most natural answer"
+      },
+      "after": "0f2da145f1219ddf",
+      "date": 1570817093313
+    },
+    {
+      "type": "edit",
+      "id": "6df6094e2fac6b33",
+      "item": {
+        "type": "markdown",
+        "id": "6df6094e2fac6b33",
+        "text": "There are of course most natural answer\n"
+      },
+      "date": 1570817360939
+    },
+    {
+      "type": "add",
+      "id": "5a0cfa9790fe57d4",
+      "item": {
+        "type": "markdown",
+        "id": "5a0cfa9790fe57d4",
+        "text": "No fee to contribute\nKnowledge should be in open access\nDirect monetization of scientific knowledge\nResearch projects are tokenized\nValue of research tokens is provided by internal economy\nReward is paid by emission distribution\nQuality and objectiveness is incentivized\nGoverned by the scientific community\nExpertise contribution is main measure of reputation\n"
+      },
+      "after": "6df6094e2fac6b33",
+      "date": 1570817368192
+    },
+    {
+      "type": "edit",
+      "id": "6df6094e2fac6b33",
+      "item": {
+        "type": "markdown",
+        "id": "6df6094e2fac6b33",
+        "text": "There are of course most natural answer is to build on the tried and tested foundation of [[peer review]]. academic publishing - but to take this principle and build systems that support it properly and efficiently.\n"
+      },
+      "date": 1570817575751
+    },
+    {
+      "type": "edit",
+      "id": "281dae4647632ff5",
+      "item": {
+        "type": "markdown",
+        "id": "281dae4647632ff5",
+        "text": "We begin with a consideration of what we are trying to both measure and incentivise, and that is [[knowledge creation]] for the [[common good]].\n"
+      },
+      "date": 1570817595411
+    },
+    {
+      "type": "edit",
+      "id": "6df6094e2fac6b33",
+      "item": {
+        "type": "markdown",
+        "id": "6df6094e2fac6b33",
+        "text": "There are of course many answers to such a question, and we cannot expect to build a perfect system first time trying. Just as our current system of peer review is far from perfect there will always be faults, flaws, bugs and room for improvement in our social incentivisation structures.\n"
+      },
+      "date": 1570817701286
+    },
+    {
+      "type": "add",
+      "id": "ef6ed1b2f8a8a178",
+      "item": {
+        "type": "markdown",
+        "id": "ef6ed1b2f8a8a178",
+        "text": "The question then becomes not \"is it good?\" but:\n1. Is it good enough?\n1. Will it evolve positively?\n"
+      },
+      "after": "6df6094e2fac6b33",
+      "date": 1570817816548
+    },
+    {
+      "type": "add",
+      "id": "8b9d27ab72591a34",
+      "item": {
+        "type": "markdown",
+        "id": "8b9d27ab72591a34",
+        "text": "most natural answer is to build on the tried and tested foundation of [[peer review]]. academic publishing - but to take this principle and build systems that support it properly and efficiently.\n"
+      },
+      "after": "ef6ed1b2f8a8a178",
+      "date": 1570817818576
+    },
+    {
+      "type": "edit",
+      "id": "ef6ed1b2f8a8a178",
+      "item": {
+        "type": "markdown",
+        "id": "ef6ed1b2f8a8a178",
+        "text": "The question then becomes not \"is it good?\" but:\n\n1. Is it good enough?\n1. Will it improve over time?\n"
+      },
+      "date": 1570817832230
+    },
+    {
+      "type": "edit",
+      "id": "8b9d27ab72591a34",
+      "item": {
+        "type": "markdown",
+        "id": "8b9d27ab72591a34",
+        "text": "# Where to start?\n\nOur most natural answer is to build on the tried and tested foundation of [[peer review]]. academic publishing - but to take this principle and build systems that support it properly and efficiently.\n"
+      },
+      "date": 1570817851234
+    },
+    {
+      "id": "281dae4647632ff5",
+      "type": "move",
+      "order": [
+        "9fe1ae97a6c94f62",
+        "eb9a96a95b4ea803",
+        "281dae4647632ff5",
+        "dfd26eb3f62a4824",
+        "0f2da145f1219ddf",
+        "6df6094e2fac6b33",
+        "ef6ed1b2f8a8a178",
+        "8b9d27ab72591a34",
+        "5a0cfa9790fe57d4",
+        "7c328bc2f62d3384",
+        "7af03103da0a8ca0",
+        "d1a19e8d42853f61",
+        "5a088cd4656d5975",
+        "c58ddaf77e39193d",
+        "5707c8d5cf73b3b3",
+        "ee2b0114c49b911d",
+        "02c8f62f30e4e90d",
+        "facaab621582023b",
+        "7a9d6a0a65052f2f",
+        "6497aa20898e76f4",
+        "4cb13236d422207d"
+      ],
+      "date": 1570817950840
+    },
+    {
+      "type": "edit",
+      "id": "8b9d27ab72591a34",
+      "item": {
+        "type": "markdown",
+        "id": "8b9d27ab72591a34",
+        "text": "# Building on peer review\n"
+      },
+      "date": 1570817978765
+    },
+    {
+      "type": "add",
+      "id": "f9388ee3cda39067",
+      "item": {
+        "type": "markdown",
+        "id": "f9388ee3cda39067",
+        "text": "Our most natural answer is to build on the tried and tested foundation of [[peer review]]. academic publishing - but to take this principle and build systems that support it properly and efficiently.\n"
+      },
+      "after": "8b9d27ab72591a34",
+      "date": 1570817980632
+    },
+    {
+      "type": "edit",
+      "id": "281dae4647632ff5",
+      "item": {
+        "type": "markdown",
+        "id": "281dae4647632ff5",
+        "text": "# Where to start?\n\n"
+      },
+      "date": 1570817990805
+    },
+    {
+      "type": "add",
+      "id": "8543585d33090f9c",
+      "item": {
+        "type": "markdown",
+        "id": "8543585d33090f9c",
+        "text": "We begin with a consideration of what we are trying to both measure and incentivise, and that is [[knowledge creation]] for the [[common good]].\n"
+      },
+      "after": "281dae4647632ff5",
+      "date": 1570817991676
+    },
+    {
+      "type": "edit",
+      "id": "281dae4647632ff5",
+      "item": {
+        "type": "markdown",
+        "id": "281dae4647632ff5",
+        "text": "\n"
+      },
+      "date": 1570817998919
+    },
+    {
+      "type": "edit",
+      "id": "eb9a96a95b4ea803",
+      "item": {
+        "type": "markdown",
+        "id": "eb9a96a95b4ea803",
+        "text": "> For in the free cooperation of independent scientists we shall find a highly simplified model of a free society, which presents in isolation certain basic features of it that are more difficult to identify within the comprehensive functions of a national body. p1\n"
+      },
+      "date": 1570818023583
+    },
+    {
+      "type": "remove",
+      "id": "ef6ed1b2f8a8a178",
+      "date": 1570818138506
+    },
+    {
+      "type": "edit",
+      "id": "6df6094e2fac6b33",
+      "item": {
+        "type": "markdown",
+        "id": "6df6094e2fac6b33",
+        "text": "There are of course many answers to such a question, and we cannot expect to build a perfect system first time trying. Just as our current system of peer review is far from perfect there will always be faults, flaws, bugs and room for improvement in our social incentivisation structures. The question then becomes not \"is it good?\" but:\n\n1. Is it good enough?\n1. Will it improve over time?\n"
+      },
+      "date": 1570818141079
+    },
+    {
+      "type": "edit",
+      "id": "6df6094e2fac6b33",
+      "item": {
+        "type": "markdown",
+        "id": "6df6094e2fac6b33",
+        "text": "There are of course many answers to such a question, and we cannot expect to build a perfect system first time trying. Just as our current system of peer review is far from perfect there will always be faults, flaws, bugs and room for improvement in our social ≈ structures. The question then becomes not \"Is it good?\" but:\n\n1. Is it good enough?\n1. Will it improve over time?\n"
+      },
+      "date": 1570818182553
+    },
+    {
+      "type": "edit",
+      "id": "f9388ee3cda39067",
+      "item": {
+        "type": "markdown",
+        "id": "f9388ee3cda39067",
+        "text": "When we build something new, especially when what we build is foundational to ourvalues and the functioning of our society, we should build on solid, tested ground. \n"
+      },
+      "date": 1570818670200
+    },
+    {
+      "type": "add",
+      "id": "f09fc08cfc09aea8",
+      "item": {
+        "type": "markdown",
+        "id": "f09fc08cfc09aea8",
+        "text": "Our most natural answer is to build on the tried and tested foundation of [[peer review]]. academic publishing - but to take this principle and build systems that support it properly and efficiently.\n"
+      },
+      "after": "f9388ee3cda39067",
+      "date": 1570818670615
+    },
+    {
+      "id": "f9388ee3cda39067",
+      "type": "move",
+      "order": [
+        "9fe1ae97a6c94f62",
+        "eb9a96a95b4ea803",
+        "281dae4647632ff5",
+        "8543585d33090f9c",
+        "dfd26eb3f62a4824",
+        "0f2da145f1219ddf",
+        "6df6094e2fac6b33",
+        "f9388ee3cda39067",
+        "8b9d27ab72591a34",
+        "f09fc08cfc09aea8",
+        "5a0cfa9790fe57d4",
+        "7c328bc2f62d3384",
+        "7af03103da0a8ca0",
+        "d1a19e8d42853f61",
+        "5a088cd4656d5975",
+        "c58ddaf77e39193d",
+        "5707c8d5cf73b3b3",
+        "ee2b0114c49b911d",
+        "02c8f62f30e4e90d",
+        "facaab621582023b",
+        "7a9d6a0a65052f2f",
+        "6497aa20898e76f4",
+        "4cb13236d422207d"
+      ],
+      "date": 1570818680788
+    },
+    {
+      "type": "edit",
+      "id": "f9388ee3cda39067",
+      "item": {
+        "type": "markdown",
+        "id": "f9388ee3cda39067",
+        "text": "# Caution\n"
+      },
+      "date": 1570818685634
+    },
+    {
+      "type": "add",
+      "id": "5c7ac9d3950e4f3b",
+      "item": {
+        "type": "markdown",
+        "id": "5c7ac9d3950e4f3b",
+        "text": "When we build something new, especially when what we build is foundational to ourvalues and the functioning of our society, we should build on solid, tested ground. \n"
+      },
+      "after": "f9388ee3cda39067",
+      "date": 1570818685984
+    },
+    {
+      "type": "edit",
+      "id": "6df6094e2fac6b33",
+      "item": {
+        "type": "markdown",
+        "id": "6df6094e2fac6b33",
+        "text": "There are of course many answers to such a question, and we cannot expect to build a perfect system first time trying. Just as our current system of peer review is far from perfect there will always be faults, flaws, bugs and room for improvement in our social ≈ structures. The question then becomes not \"Is it good?\" but:\n\n1. Make a solid start. Is it good enough?\n1. Will it improve over time?\n"
+      },
+      "date": 1570818712020
+    },
+    {
+      "type": "edit",
+      "id": "6df6094e2fac6b33",
+      "item": {
+        "type": "markdown",
+        "id": "6df6094e2fac6b33",
+        "text": "There are of course many answers to such a question, and we cannot expect to build a perfect system first time trying. Just as our current system of peer review is far from perfect there will always be faults, flaws, bugs and room for improvement in our social ≈ structures. \n"
+      },
+      "date": 1570818744897
+    },
+    {
+      "type": "add",
+      "id": "1e1d26f60c81f2c5",
+      "item": {
+        "type": "markdown",
+        "id": "1e1d26f60c81f2c5",
+        "text": "The question then becomes not \"Is it good?\" but \"Is the process good?\". That is we care more about the following::\n\n1. Make a solid start. Is it good enough?\n1. Will it improve over time?\n"
+      },
+      "after": "6df6094e2fac6b33",
+      "date": 1570818768457
+    },
+    {
+      "type": "edit",
+      "id": "1e1d26f60c81f2c5",
+      "item": {
+        "type": "markdown",
+        "id": "1e1d26f60c81f2c5",
+        "text": "The question then becomes not \"Is it good?\" but \"Is the process good?\". That is we care more about the following::\n\n1. Make a solid start. Ask if it is good enough?\n1. Will it improve over time?\n"
+      },
+      "date": 1570818785029
+    },
+    {
+      "type": "edit",
+      "id": "6df6094e2fac6b33",
+      "item": {
+        "type": "markdown",
+        "id": "6df6094e2fac6b33",
+        "text": "There are of course many answers to such a question, and we cannot expect to build a perfect system first time trying. Just as our current system of peer review is far from perfect there will always be faults, flaws, bugs and room for improvement in our social structures. \n"
+      },
+      "date": 1570818984239
+    },
+    {
+      "type": "add",
+      "id": "0726246a844f41a3",
+      "item": {
+        "type": "markdown",
+        "id": "0726246a844f41a3",
+        "text": "Of which the second question is both the most important, the hardest to answer, and the question most regularly ignored until it is too late. In this singular aspect you find the failure of your utopia of choice."
+      },
+      "after": "1e1d26f60c81f2c5",
+      "date": 1570819089306
+    },
+    {
+      "type": "edit",
+      "id": "5c7ac9d3950e4f3b",
+      "item": {
+        "type": "markdown",
+        "id": "5c7ac9d3950e4f3b",
+        "text": "Our first task is to make a [[good enough]] start. To proceed with caution. When we build something new, especially when what we build is foundational to our values and the functioning of our society, we should build on solid, tested ground. \n"
+      },
+      "date": 1570819228215
+    },
+    {
+      "type": "edit",
+      "id": "1e1d26f60c81f2c5",
+      "item": {
+        "type": "markdown",
+        "id": "1e1d26f60c81f2c5",
+        "text": "The question then becomes not \"Is it good?\" but \"Is the process good?\". That is we care more about the following::\n\n1. Make a solid start. [[Is it good enough?]]\n1. [[Will it improve over time?]]\n"
+      },
+      "date": 1570819458991
+    },
+    {
+      "type": "edit",
+      "id": "5c7ac9d3950e4f3b",
+      "item": {
+        "type": "markdown",
+        "id": "5c7ac9d3950e4f3b",
+        "text": "Our first task is to make a __good enough__ start. To proceed with caution. When we build something new, especially when what we build is foundational to our values and the functioning of our society, we should build on solid, tested ground. \n"
+      },
+      "date": 1570819475509
+    },
+    {
+      "type": "edit",
+      "id": "f09fc08cfc09aea8",
+      "item": {
+        "type": "markdown",
+        "id": "f09fc08cfc09aea8",
+        "text": "Our most natural answer to where we may find these foundations is to build on [[peer review]]. \n"
+      },
+      "date": 1570819663106
+    },
+    {
+      "type": "edit",
+      "id": "f09fc08cfc09aea8",
+      "item": {
+        "type": "markdown",
+        "id": "f09fc08cfc09aea8",
+        "text": "Our most natural answer to where we may find these foundations is to build on [[peer review]]. However we need to take the principles of peer review seriously.  \n"
+      },
+      "date": 1570819863445
+    },
+    {
+      "type": "add",
+      "id": "ad891aca41103cac",
+      "item": {
+        "type": "markdown",
+        "id": "ad891aca41103cac",
+        "text": "Historically, peer review was taken directly by [[Robert Boyle]] and others from the concept of evidence in the [[legal system]]. It is not tied to a specific print based economic model in the publishing industry.\n"
+      },
+      "after": "f09fc08cfc09aea8",
+      "date": 1570819948692
+    },
+    {
+      "type": "add",
+      "id": "09593498b531307b",
+      "item": {
+        "type": "markdown",
+        "id": "09593498b531307b",
+        "text": " are not the same as our present print based publishing system - but to take this principle and build systems that support it properly and efficiently.\n"
+      },
+      "after": "ad891aca41103cac",
+      "date": 1570819959402
+    },
+    {
+      "type": "edit",
+      "id": "ad891aca41103cac",
+      "item": {
+        "type": "markdown",
+        "id": "ad891aca41103cac",
+        "text": "Historically, peer review was taken directly by [[Robert Boyle]] and others from the concept of evidence in the [[legal system]]. It is not tied to a specific economic model form the print-based publishing industry.\n"
+      },
+      "date": 1570819975468
+    },
+    {
+      "type": "edit",
+      "id": "5c7ac9d3950e4f3b",
+      "item": {
+        "type": "markdown",
+        "id": "5c7ac9d3950e4f3b",
+        "text": "Our first task is to make a __good enough__ start. To proceed with [[caution]]. When we build something new, especially when what we build is foundational to our values and the functioning of our society, we should build on solid, tested ground. \n"
+      },
+      "date": 1570820012143
+    },
+    {
+      "type": "edit",
+      "id": "ad891aca41103cac",
+      "item": {
+        "type": "markdown",
+        "id": "ad891aca41103cac",
+        "text": "Historically, peer review was taken by [[Robert Boyle]] and others from the concept of evidence in the [[legal system]]. It is not tied to a specific economic model form the print-based publishing industry.\n"
+      },
+      "date": 1570820038385
+    },
+    {
+      "type": "edit",
+      "id": "ad891aca41103cac",
+      "item": {
+        "type": "markdown",
+        "id": "ad891aca41103cac",
+        "text": "Historically, peer review was taken by [[Robert Boyle]] and others, from the concept of evidence in the [[legal system]]. It is not tied to a specific economic model form the print-based publishing industry.\n"
+      },
+      "date": 1570820046871
+    },
+    {
+      "type": "edit",
+      "id": "ad891aca41103cac",
+      "item": {
+        "type": "markdown",
+        "id": "ad891aca41103cac",
+        "text": "Historically, peer review was taken by [[Robert Boyle]] and others, from the concept of wittness evidence in the [[legal system]]. It is not tied to a specific economic model form the print-based publishing industry.\n"
+      },
+      "date": 1570820073507
+    },
+    {
+      "type": "edit",
+      "id": "ad891aca41103cac",
+      "item": {
+        "type": "markdown",
+        "id": "ad891aca41103cac",
+        "text": "Historically, peer review was taken by [[Robert Boyle]] and others, from the concept of witness evidence in the [[legal system]]. It is not tied to a specific economic model form the print-based publishing industry. We have moved on. We can both expect and demand to improve on such medieval structures.\n"
+      },
+      "date": 1570820128082
+    },
+    {
+      "type": "edit",
+      "id": "ad891aca41103cac",
+      "item": {
+        "type": "markdown",
+        "id": "ad891aca41103cac",
+        "text": "Historically, peer review was taken by [[Robert Boyle]] and others, from the concept of witness evidence in the [[legal system]]. It is not tied to a specific economic model form the print-based publishing industry. We have moved on. Given modern communications technology we can both expect and demand to improve on such medieval structures.\n"
+      },
+      "date": 1570820155544
+    },
+    {
+      "type": "edit",
+      "id": "0726246a844f41a3",
+      "item": {
+        "type": "markdown",
+        "id": "0726246a844f41a3",
+        "text": "Of which the second question is both the most important, the hardest to answer, and the question most regularly ignored until it is too late. In this singular aspect you find the failure of your [[utopia]] of choice."
+      },
+      "date": 1570820914304
+    },
+    {
+      "type": "edit",
+      "id": "09593498b531307b",
+      "item": {
+        "type": "markdown",
+        "id": "09593498b531307b",
+        "text": "It is not difficult to design and build modern information systems that support the process of publishing scientific knowledge and enabling fellow scientists to properly and efficiently scrutinise the quality of the results. \n"
+      },
+      "date": 1570821066214
+    },
+    {
+      "type": "add",
+      "id": "55e4c07c12556063",
+      "item": {
+        "type": "markdown",
+        "id": "55e4c07c12556063",
+        "text": "What is harder is to build a set of appropriate incentives and apply these to the actions of the various parties in the process. More thought still needs to be put into the soft cultures that have evolved over recent history, and to ensure that the process of evolution of these structures - that is the question of governance over time is fit for purpose - that is it is responsive to the purpose of the endeavour - namely \n"
+      },
+      "after": "09593498b531307b",
+      "date": 1570821249033
+    },
+    {
+      "type": "edit",
+      "id": "55e4c07c12556063",
+      "item": {
+        "type": "markdown",
+        "id": "55e4c07c12556063",
+        "text": "What is harder is to build a set of appropriate incentives and apply these to the actions of the various parties in the process. More thought still needs to be put into the soft cultures that have evolved over recent history, and to ensure that the process of evolution of these structures - that is the question of governance over time is fit for purpose - that is it is responsive to the purpose of the endeavour - namely \"[[knowledge creation]] for the [[common good]]\".\n"
+      },
+      "date": 1570821264283
+    },
+    {
+      "type": "edit",
+      "id": "55e4c07c12556063",
+      "item": {
+        "type": "markdown",
+        "id": "55e4c07c12556063",
+        "text": "What is harder is to build a set of appropriate incentives and apply these to the actions of the various parties in the process. More thought still needs to be put into the soft cultures that have evolved over recent history, and to ensure that the process of evolution of these structures is responsive to the purpose of the endeavour - namely \"[[knowledge creation]] for the [[common good]]\".\n"
+      },
+      "date": 1570821309704
+    },
+    {
+      "type": "add",
+      "id": "6c903504f7d7a012",
+      "item": {
+        "type": "markdown",
+        "id": "6c903504f7d7a012",
+        "text": " - that is the question of governance over time is fit for purpose - that"
+      },
+      "after": "55e4c07c12556063",
+      "date": 1570821316820
+    },
+    {
+      "type": "edit",
+      "id": "55e4c07c12556063",
+      "item": {
+        "type": "markdown",
+        "id": "55e4c07c12556063",
+        "text": "# Governance\n"
+      },
+      "date": 1570821321634
+    },
+    {
+      "type": "add",
+      "id": "80bddc3f09c788c6",
+      "item": {
+        "type": "markdown",
+        "id": "80bddc3f09c788c6",
+        "text": "What is harder is to build a set of appropriate incentives and apply these to the actions of the various parties in the process. More thought still needs to be put into the soft cultures that have evolved over recent history, and to ensure that the process of evolution of these structures is responsive to the purpose of the endeavour - namely \"[[knowledge creation]] for the [[common good]]\".\n"
+      },
+      "after": "55e4c07c12556063",
+      "date": 1570821322136
+    },
+    {
+      "type": "edit",
+      "id": "80bddc3f09c788c6",
+      "item": {
+        "type": "markdown",
+        "id": "80bddc3f09c788c6",
+        "text": "What is harder is to build a set of appropriate incentives and apply these to the actions of the various parties in the process.\n"
+      },
+      "date": 1570821328180
+    },
+    {
+      "type": "add",
+      "id": "93829f5d99f57552",
+      "item": {
+        "type": "markdown",
+        "id": "93829f5d99f57552",
+        "text": "More thought still needs to be put into the soft cultures that have evolved over recent history, and to ensure that the process of evolution of these structures is responsive to the purpose of the endeavour - namely \"[[knowledge creation]] for the [[common good]]\".\n"
+      },
+      "after": "80bddc3f09c788c6",
+      "date": 1570821328618
+    },
+    {
+      "type": "edit",
+      "id": "1e1d26f60c81f2c5",
+      "item": {
+        "type": "markdown",
+        "id": "1e1d26f60c81f2c5",
+        "text": "The question then becomes not \"[[Is it good?]]\" but \"Is the process good?\". That is we care more about the following:\n\n1. Make a solid start. [[Is it good enough?]]\n1. [[Will it improve over time?]]\n"
+      },
+      "date": 1570821467560
+    },
+    {
+      "type": "edit",
+      "id": "ad891aca41103cac",
+      "item": {
+        "type": "markdown",
+        "id": "ad891aca41103cac",
+        "text": "Historically, peer review preceeds science. It was taken by [[Robert Boyle]] and others, from the concept of witness evidence in the [[legal system]]. It therefore is not tied to a specific economic model. It is independent from the print-based publishing industry. We have moved on. Given modern communications technology we can both expect and demand to improve on such medieval structures.\n"
+      },
+      "date": 1570821581923
+    },
+    {
+      "type": "edit",
+      "id": "ad891aca41103cac",
+      "item": {
+        "type": "markdown",
+        "id": "ad891aca41103cac",
+        "text": "Historically, peer review preceeds science. It was taken (and adapted slightly), by [[Robert Boyle]] and others from the concept of witness evidence in the [[legal system]]. It therefore is not tied to a specific economic model. It is independent from the print-based publishing industry. We have moved on. Given modern communications technology we can both expect and demand to improve on such medieval structures.\n"
+      },
+      "date": 1570821613510
+    },
+    {
+      "type": "edit",
+      "id": "ad891aca41103cac",
+      "item": {
+        "type": "markdown",
+        "id": "ad891aca41103cac",
+        "text": "Historically, peer review preceeds science. It was taken (and adapted slightly), by [[Robert Boyle]] and others from the concept of witness evidence in the [[legal system]]. It therefore is not tied to a specific economic model. It is surely independent from the print-based publishing industry. We have moved on. Given modern communications technology we can both expect and demand to improve on such medieval structures.\n"
+      },
+      "date": 1570821645427
+    },
+    {
+      "type": "add",
+      "id": "eadf514392d1efce",
+      "item": {
+        "type": "markdown",
+        "id": "eadf514392d1efce",
+        "text": "# So why are we stuck?"
+      },
+      "after": "ad891aca41103cac",
+      "date": 1570821672510
+    },
+    {
+      "id": "8543585d33090f9c",
+      "type": "move",
+      "order": [
+        "9fe1ae97a6c94f62",
+        "eb9a96a95b4ea803",
+        "281dae4647632ff5",
+        "dfd26eb3f62a4824",
+        "8543585d33090f9c",
+        "0f2da145f1219ddf",
+        "6df6094e2fac6b33",
+        "1e1d26f60c81f2c5",
+        "0726246a844f41a3",
+        "f9388ee3cda39067",
+        "5c7ac9d3950e4f3b",
+        "8b9d27ab72591a34",
+        "f09fc08cfc09aea8",
+        "ad891aca41103cac",
+        "eadf514392d1efce",
+        "09593498b531307b",
+        "55e4c07c12556063",
+        "80bddc3f09c788c6",
+        "93829f5d99f57552",
+        "6c903504f7d7a012",
+        "5a0cfa9790fe57d4",
+        "7c328bc2f62d3384",
+        "7af03103da0a8ca0",
+        "d1a19e8d42853f61",
+        "5a088cd4656d5975",
+        "c58ddaf77e39193d",
+        "5707c8d5cf73b3b3",
+        "ee2b0114c49b911d",
+        "02c8f62f30e4e90d",
+        "facaab621582023b",
+        "7a9d6a0a65052f2f",
+        "6497aa20898e76f4",
+        "4cb13236d422207d"
+      ],
+      "date": 1570821874464
+    },
+    {
+      "type": "edit",
+      "id": "dfd26eb3f62a4824",
+      "item": {
+        "type": "markdown",
+        "id": "dfd26eb3f62a4824",
+        "text": "- [[Tokenizing Knowledge]]\n"
+      },
+      "date": 1570821903523
+    },
+    {
+      "id": "8543585d33090f9c",
+      "type": "remove",
+      "date": 1570821910461
+    },
+    {
+      "id": "0f2da145f1219ddf",
+      "type": "remove",
+      "date": 1570821913919
+    },
+    {
+      "id": "6df6094e2fac6b33",
+      "type": "remove",
+      "date": 1570821917149
+    },
+    {
+      "id": "1e1d26f60c81f2c5",
+      "type": "remove",
+      "date": 1570821922276
+    },
+    {
+      "id": "0726246a844f41a3",
+      "type": "remove",
+      "date": 1570821925339
+    },
+    {
+      "id": "1e1d26f60c81f2c5",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "1e1d26f60c81f2c5",
+        "text": "The question then becomes not \"[[Is it good?]]\" but \"Is the process good?\". That is we care more about the following:\n\n1. Make a solid start. [[Is it good enough?]]\n1. [[Will it improve over time?]]\n"
+      },
+      "after": "f9388ee3cda39067",
+      "date": 1570821936975
+    },
+    {
+      "id": "0726246a844f41a3",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "0726246a844f41a3",
+        "text": "Of which the second question is both the most important, the hardest to answer, and the question most regularly ignored until it is too late. In this singular aspect you find the failure of your [[utopia]] of choice."
+      },
+      "after": "1e1d26f60c81f2c5",
+      "date": 1570821939298
+    },
+    {
+      "type": "edit",
+      "id": "f9388ee3cda39067",
+      "item": {
+        "type": "markdown",
+        "id": "f9388ee3cda39067",
+        "text": "- Caution. [[Is it good enough?]]\n"
+      },
+      "date": 1570822001246
+    },
+    {
+      "type": "remove",
+      "id": "f9388ee3cda39067",
+      "date": 1570822009358
+    },
+    {
+      "type": "edit",
+      "id": "dfd26eb3f62a4824",
+      "item": {
+        "type": "markdown",
+        "id": "dfd26eb3f62a4824",
+        "text": "1. [[Tokenizing Knowledge]]\n1. Caution. [[Is it good enough?]]\n"
+      },
+      "date": 1570822017322
+    },
+    {
+      "type": "edit",
+      "id": "dfd26eb3f62a4824",
+      "item": {
+        "type": "markdown",
+        "id": "dfd26eb3f62a4824",
+        "text": "1. [[Tokenizing Knowledge]]\n1. __Caution__. [[Is it good enough?]]\n"
+      },
+      "date": 1570822025251
+    },
+    {
+      "id": "1e1d26f60c81f2c5",
+      "type": "remove",
+      "date": 1570822031923
+    },
+    {
+      "id": "0726246a844f41a3",
+      "type": "remove",
+      "date": 1570822035042
+    },
+    {
+      "id": "5c7ac9d3950e4f3b",
+      "type": "remove",
+      "date": 1570822038466
+    },
+    {
+      "type": "remove",
+      "id": "8b9d27ab72591a34",
+      "date": 1570822050878
+    },
+    {
+      "type": "edit",
+      "id": "dfd26eb3f62a4824",
+      "item": {
+        "type": "markdown",
+        "id": "dfd26eb3f62a4824",
+        "text": "1. [[Tokenizing Knowledge]]\n1. __Caution__. [[Is it good enough?]]\n1. [[Building on peer review]]\n"
+      },
+      "date": 1570822052476
+    },
+    {
+      "id": "f09fc08cfc09aea8",
+      "type": "remove",
+      "date": 1570822059157
+    },
+    {
+      "id": "ad891aca41103cac",
+      "type": "remove",
+      "date": 1570822061923
+    },
+    {
+      "type": "remove",
+      "id": "eadf514392d1efce",
+      "date": 1570822100296
+    },
+    {
+      "type": "edit",
+      "id": "dfd26eb3f62a4824",
+      "item": {
+        "type": "markdown",
+        "id": "dfd26eb3f62a4824",
+        "text": "1. [[Tokenizing Knowledge]]\n1. __Caution__. [[Is it good enough?]]\n1. [[Building on peer review]]\n1. [[So why are we stuck?]]"
+      },
+      "date": 1570822101911
+    },
+    {
+      "id": "09593498b531307b",
+      "type": "remove",
+      "date": 1570822106881
+    },
+    {
+      "type": "edit",
+      "id": "9fe1ae97a6c94f62",
+      "item": {
+        "type": "markdown",
+        "id": "9fe1ae97a6c94f62",
+        "text": "In his 1962 paper The __Republic of Science__, [[Michael Polanyi]] envisages a world of independent scientists free to pursue their own intellectual interests, while entitled to build on each others research - [https://mitpress-request.mit.edu/sites/default/files/titles/content/9780262690201_sch_0001.pdf pdf]\n\n"
+      },
+      "date": 1570822894548
+    },
+    {
+      "type": "add",
+      "id": "c25a8e885cb0971e",
+      "item": {
+        "type": "markdown",
+        "id": "c25a8e885cb0971e",
+        "text": "In this [[conversation]] we will explore an implementation of this idea on a bespoke [[blockchain]] for [[knowledge creation]]."
+      },
+      "after": "9fe1ae97a6c94f62",
+      "date": 1570822895715
+    },
+    {
+      "id": "eb9a96a95b4ea803",
+      "type": "move",
+      "order": [
+        "9fe1ae97a6c94f62",
+        "eb9a96a95b4ea803",
+        "c25a8e885cb0971e",
+        "281dae4647632ff5",
+        "dfd26eb3f62a4824",
+        "55e4c07c12556063",
+        "80bddc3f09c788c6",
+        "93829f5d99f57552",
+        "6c903504f7d7a012",
+        "5a0cfa9790fe57d4",
+        "7c328bc2f62d3384",
+        "7af03103da0a8ca0",
+        "d1a19e8d42853f61",
+        "5a088cd4656d5975",
+        "c58ddaf77e39193d",
+        "5707c8d5cf73b3b3",
+        "ee2b0114c49b911d",
+        "02c8f62f30e4e90d",
+        "facaab621582023b",
+        "7a9d6a0a65052f2f",
+        "6497aa20898e76f4",
+        "4cb13236d422207d"
+      ],
+      "date": 1570822902446
+    },
+    {
+      "type": "edit",
+      "id": "9fe1ae97a6c94f62",
+      "item": {
+        "type": "markdown",
+        "id": "9fe1ae97a6c94f62",
+        "text": "In his 1962 paper The __Republic of Science__, [[Michael Polanyi]] envisages a world of independent scientists free to pursue their own intellectual interests, while entitled to build on each others research.\n\n"
+      },
+      "date": 1570822912872
+    },
+    {
+      "type": "edit",
+      "id": "eb9a96a95b4ea803",
+      "item": {
+        "type": "markdown",
+        "id": "eb9a96a95b4ea803",
+        "text": "> For in the free cooperation of independent scientists we shall find a highly simplified model of a free society, which presents in isolation certain basic features of it that are more difficult to identify within the comprehensive functions of a national body. p1 - [https://mitpress-request.mit.edu/sites/default/files/titles/content/9780262690201_sch_0001.pdf pdf]\n"
+      },
+      "date": 1570822921100
+    },
+    {
+      "type": "edit",
+      "id": "c25a8e885cb0971e",
+      "item": {
+        "type": "markdown",
+        "id": "c25a8e885cb0971e",
+        "text": "In this [[conversation]] we will explore an implementation of this idea on a bespoke [[blockchain]] for [[knowledge creation]]. To understand the approach to the design, let us examine in order:"
+      },
+      "date": 1570823073963
+    },
+    {
+      "type": "edit",
+      "id": "c25a8e885cb0971e",
+      "item": {
+        "type": "markdown",
+        "id": "c25a8e885cb0971e",
+        "text": "In this [[conversation]] we will explore an implementation of this idea on a bespoke [[blockchain]] for [[knowledge creation]]. To understand the approach to the design, let us examine in order the following concepts:"
+      },
+      "date": 1570823092663
+    },
+    {
+      "type": "edit",
+      "id": "dfd26eb3f62a4824",
+      "item": {
+        "type": "markdown",
+        "id": "dfd26eb3f62a4824",
+        "text": "1. [[Tokenizing Knowledge]]\n1. __Caution__. [[Is it good enough?]]\n1. [[Building on peer review]]\n1. [[So why are we so stuck?]]"
+      },
+      "date": 1570824046433
+    },
+    {
+      "type": "edit",
+      "id": "dfd26eb3f62a4824",
+      "item": {
+        "type": "markdown",
+        "id": "dfd26eb3f62a4824",
+        "text": "1. [[Tokenizing Knowledge]]\n1. __Caution__. [[Is it good enough?]]\n1. [[Building on peer review]]\n1. [[So why are we so stuck?]]\n1. [[Governance of Science]]"
+      },
+      "date": 1570824936546
+    },
+    {
+      "id": "80bddc3f09c788c6",
+      "type": "remove",
+      "date": 1570824944627
+    },
+    {
+      "id": "93829f5d99f57552",
+      "type": "remove",
+      "date": 1570824947515
+    },
+    {
+      "id": "6c903504f7d7a012",
+      "type": "remove",
+      "date": 1570824953277
+    },
+    {
+      "id": "5a0cfa9790fe57d4",
+      "type": "remove",
+      "date": 1570824962454
+    },
+    {
+      "type": "remove",
+      "id": "55e4c07c12556063",
+      "date": 1570824965245
+    },
+    {
+      "type": "remove",
+      "id": "7c328bc2f62d3384",
+      "date": 1570824968122
+    }
+  ]
+}

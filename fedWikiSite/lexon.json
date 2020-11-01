@@ -1,0 +1,561 @@
+{
+  "title": "Lexon",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "57ff1c7a0e7cfa9a",
+      "text": "Lexon is a new type of program language that anyone can read without prior knowledge of programming.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "79d8809703957eb2",
+      "text": "Lexon was made for blockchain [[smart contracts]]. It can actually be used to write legal contracts that are [[blockchain]] smart contracts.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "e59e7ce5cd2cf910",
+      "text": "To a good degree, Lexon achieves the Holy Grail of [[Computational Law]]: it captures the meaning of contracts for automatic processing. \n"
+    },
+    {
+      "type": "markdown",
+      "id": "e51f68773d885a12",
+      "text": "But Lexon is also useful for any [[community]] or [[company]] that wants its smart contracts to be [[readable]] for all its members, programmers or not. \n"
+    },
+    {
+      "type": "markdown",
+      "id": "0f2d3183eac1fc3d",
+      "text": "[[Programming]] should long have been this easy. And [[Legal prose]] should long have been as accessible and affordable as contracts written in Lexon are. \n"
+    },
+    {
+      "type": "markdown",
+      "id": "03a49ff931b6bafc",
+      "text": "# Why aren’t they? \n"
+    },
+    {
+      "type": "markdown",
+      "id": "65a964e346490ba4",
+      "text": "[[Programmer]]s like the languages they have. There was no pressing need for a new type of language. And by definition, programmers don't have a need for a [[language]] for non- programmers. \n"
+    },
+    {
+      "type": "markdown",
+      "id": "d5c280bc4944f323",
+      "text": "As for [[lawyer]]s: they generally don’t need better tools, nor a better business model, no higher reliability of their product or more [[efficient]] ways to create contracts – because lawyers [[bill by the hour]]. This is not cynicism, just true. Both these professions make a good buck. \n"
+    },
+    {
+      "type": "markdown",
+      "id": "ebd4fd26053f6ce9",
+      "text": "# Why change?\n"
+    },
+    {
+      "type": "markdown",
+      "id": "e324c459d942ad19",
+      "text": "Lexon will not replace lawyers, much less coders. But like the music and video industry, there are some learnings around the corner. Like book stores and all of retail: the internet keeps changing our world in fundamental ways. It's not over. \n"
+    },
+    {
+      "type": "markdown",
+      "id": "b16cc8c1d6fb9f52",
+      "text": "Lexon joins the old and the new, the power of the word with the power of the electron, and by this, super charges blockchain technology.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "bf96adb623abd9d2",
+      "text": "Anyone can read Lexon code and understand what it means. \n"
+    },
+    {
+      "type": "markdown",
+      "id": "512f10c9b46a526f",
+      "text": "It can be shown to a judge, and it can also – as is – be run as a program on the blockchain, i.e. a smart contract. It can be understood by business partners as well as a company’s own management. \n"
+    },
+    {
+      "type": "markdown",
+      "id": "fe9f26b90aabc910",
+      "text": "Any type of program can be written this way. And any type of agreement can be [[automated]] and made impossible to break this way.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "8f2eca8a0e0c2faa",
+      "text": "Lexon makes the final step to uncouple [[commercial agreement]]s from the overhead of the judicative and executive powers and their astronomical costs and glacial speed. A digital contract written in Lexon costs pennies to set in motion and can effect money to change hand in minutes.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "34ddf00c7137cec2",
+      "text": "Lexon makes this power accessible to anyone. This is the democratization and mainstreaming of blockchain technology, which previously had a strong inward-looking focus, by developers for developers. \n"
+    },
+    {
+      "type": "markdown",
+      "id": "0bb4e2b3a8f99afd",
+      "text": "Now, anyone can read Lexon programs without any knowledge of programming. [[Understanding English is enough]].\n"
+    },
+    {
+      "type": "markdown",
+      "id": "46cd73b40acd638f",
+      "text": "Lexon code can as is be compiled to a blockchain [[smart contract]] that can be run on the [[Ethereum]] blockchain. \n"
+    },
+    {
+      "type": "markdown",
+      "id": "a13b3d235baf55c0",
+      "text": "To write a smart contract in this way extends its audience by a thousand times. It may also be the answer to the centuries-old riddle how legal contracts could gainfully be articulated in a more [[rigorous and mathematical]] way. \n"
+    },
+    {
+      "type": "markdown",
+      "id": "922982367692c501",
+      "text": "People asked to enter into a [[smart contract]] or become attached to a DAO can now read for themselves what the actual agreement is, with no [[translation]] in-between them and the mechanism that is executed on the blockchain. And without having to [[trust]] the smart contract programmers. \n"
+    },
+    {
+      "type": "markdown",
+      "id": "ca7c33f97cf40538",
+      "text": "[[General council]]s can now have their lawyers [[verify]] what IT has understood should be expressed as [[smart contract]] code, and make sure the programming of [[decentralized device]]s is [[compliant]] with all applicable [[regulation]]. \n"
+    },
+    {
+      "type": "markdown",
+      "id": "9fab1105e2e03032",
+      "text": "[[Society]] at large can use this language to articulate the [[laws of robotics]] that will be required to keep machines and services [[honest]]. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "fork",
+      "date": 1571210773544
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "57ff1c7a0e7cfa9a"
+      },
+      "id": "57ff1c7a0e7cfa9a",
+      "type": "add",
+      "date": 1571210775196
+    },
+    {
+      "type": "edit",
+      "id": "57ff1c7a0e7cfa9a",
+      "item": {
+        "type": "markdown",
+        "id": "57ff1c7a0e7cfa9a",
+        "text": "Lexon is a new type of program language that anyone can read without prior knowledge of programming.\nLexon was made for blockchain smart contracts. It can actually be used to write legal contracts that are blockchain smart contracts.\nTo a good degree, Lexon achieves the Holy Grail of Computational Law: it captures the meaning of contracts for automatic processing. \nBut Lexon is also useful for any community or company that wants its smart contracts to be readable for all its members, programmers or not. \n\nProgramming should long have been this easy. And Legal prose should long have been as accessible and affordable as contracts written in Lexon are. Why aren’t they? \nProgrammers like the languages they have. There was no pressing need for a new type of language. And by definition, programmers don't have a need for a language for non- programmers. As for lawyers: they generally don’t need better tools, nor a better business model, no higher reliability of their product or more efficient ways to create contracts – because lawyers bill by the hour. This is not cynicism, just true. Both these professions make a good buck. Why change. \nLexon will not replace lawyers, much less coders. But like the music and video industry, there are some learnings around the corner. Like book stores and all of retail: the internet keeps changing our world in fundamental ways. It's not over. \n\nLexon joins the old and the new, the power of the word with the power of the electron, and by this, super charges blockchain technology.\nAnyone can read Lexon code and understand what it means. \nIt can be shown to a judge, and it can also – as is – be run as a program on the blockchain, i.e. a smart contract. It can be understood by business partners as well as a company’s own management. \n\nAny type of program can be written this way. And any type of agreement can be automated and made impossible to break this way.\nLexon makes the final step to uncouple commercial agreements from the overhead of the judicative and executive powers and their astronomical costs and glacial speed. A digital contract written in Lexon costs pennies to set in motion and can effect money to change hand in minutes. \nLexon makes this power accessible to anyone. This is the democratization and mainstreaming of blockchain technology, which previously had a strong inward-looking focus, by developers for developers. \n\nNow, anyone can read Lexon programs without any knowledge of programming. Understanding English is enough.\nLexon code can as is be compiled to a blockchain smart contract that can be run on the Ethereum blockchain. \nTo write a smart contract in this way extends its audience by a thousand times. It may also be the answer to the centuries-old riddle how legal contracts could gainfully be articulated in a more rigorous and mathematical way. \n\nPeople asked to enter into a smart contract or become attached to a DAO can now read for themselves what the actual agreement is, with no translation in-between them and the mechanism that is executed on the blockchain. And without having to trust the smart contract programmers. \nGeneral councils can now have their lawyers verify what IT has understood should be expressed as smart contract code, and make sure the programming of decentralized devices is compliant with all applicable regulation. \n\nSociety at large can use this language to articulate the Robotic Laws that will be required to keep machines and services honest. "
+      },
+      "date": 1571210785072
+    },
+    {
+      "type": "edit",
+      "id": "57ff1c7a0e7cfa9a",
+      "item": {
+        "type": "markdown",
+        "id": "57ff1c7a0e7cfa9a",
+        "text": "Lexon is a new type of program language that anyone can read without prior knowledge of programming.\n"
+      },
+      "date": 1571210800067
+    },
+    {
+      "type": "add",
+      "id": "79d8809703957eb2",
+      "item": {
+        "type": "markdown",
+        "id": "79d8809703957eb2",
+        "text": "Lexon was made for blockchain smart contracts. It can actually be used to write legal contracts that are blockchain smart contracts.\n"
+      },
+      "after": "57ff1c7a0e7cfa9a",
+      "date": 1571210803899
+    },
+    {
+      "type": "add",
+      "id": "e59e7ce5cd2cf910",
+      "item": {
+        "type": "markdown",
+        "id": "e59e7ce5cd2cf910",
+        "text": "To a good degree, Lexon achieves the Holy Grail of Computational Law: it captures the meaning of contracts for automatic processing. \n"
+      },
+      "after": "79d8809703957eb2",
+      "date": 1571210805769
+    },
+    {
+      "type": "add",
+      "id": "e51f68773d885a12",
+      "item": {
+        "type": "markdown",
+        "id": "e51f68773d885a12",
+        "text": "But Lexon is also useful for any community or company that wants its smart contracts to be readable for all its members, programmers or not. \n"
+      },
+      "after": "e59e7ce5cd2cf910",
+      "date": 1571210807718
+    },
+    {
+      "type": "add",
+      "id": "0f2d3183eac1fc3d",
+      "item": {
+        "type": "markdown",
+        "id": "0f2d3183eac1fc3d",
+        "text": "Programming should long have been this easy. And Legal prose should long have been as accessible and affordable as contracts written in Lexon are. \n"
+      },
+      "after": "e51f68773d885a12",
+      "date": 1571210826819
+    },
+    {
+      "type": "add",
+      "id": "03a49ff931b6bafc",
+      "item": {
+        "type": "markdown",
+        "id": "03a49ff931b6bafc",
+        "text": "# Why aren’t they? \n"
+      },
+      "after": "0f2d3183eac1fc3d",
+      "date": 1571210831899
+    },
+    {
+      "type": "add",
+      "id": "65a964e346490ba4",
+      "item": {
+        "type": "markdown",
+        "id": "65a964e346490ba4",
+        "text": "Programmers like the languages they have. There was no pressing need for a new type of language. And by definition, programmers don't have a need for a language for non- programmers. \n"
+      },
+      "after": "03a49ff931b6bafc",
+      "date": 1571210838011
+    },
+    {
+      "type": "add",
+      "id": "d5c280bc4944f323",
+      "item": {
+        "type": "markdown",
+        "id": "d5c280bc4944f323",
+        "text": "As for lawyers: they generally don’t need better tools, nor a better business model, no higher reliability of their product or more efficient ways to create contracts – because lawyers bill by the hour. This is not cynicism, just true. Both these professions make a good buck. \n"
+      },
+      "after": "65a964e346490ba4",
+      "date": 1571210842094
+    },
+    {
+      "type": "add",
+      "id": "ebd4fd26053f6ce9",
+      "item": {
+        "type": "markdown",
+        "id": "ebd4fd26053f6ce9",
+        "text": "# Why change?\n"
+      },
+      "after": "d5c280bc4944f323",
+      "date": 1571210848512
+    },
+    {
+      "type": "add",
+      "id": "e324c459d942ad19",
+      "item": {
+        "type": "markdown",
+        "id": "e324c459d942ad19",
+        "text": "Lexon will not replace lawyers, much less coders. But like the music and video industry, there are some learnings around the corner. Like book stores and all of retail: the internet keeps changing our world in fundamental ways. It's not over. \n"
+      },
+      "after": "ebd4fd26053f6ce9",
+      "date": 1571210852235
+    },
+    {
+      "type": "add",
+      "id": "b16cc8c1d6fb9f52",
+      "item": {
+        "type": "markdown",
+        "id": "b16cc8c1d6fb9f52",
+        "text": "Lexon joins the old and the new, the power of the word with the power of the electron, and by this, super charges blockchain technology.\n"
+      },
+      "after": "e324c459d942ad19",
+      "date": 1571210856512
+    },
+    {
+      "type": "add",
+      "id": "bf96adb623abd9d2",
+      "item": {
+        "type": "markdown",
+        "id": "bf96adb623abd9d2",
+        "text": "Anyone can read Lexon code and understand what it means. \nIt can be shown to a judge, and it can also – as is – be run as a program on the blockchain, i.e. a smart contract. It can be understood by business partners as well as a company’s own management. \n"
+      },
+      "after": "b16cc8c1d6fb9f52",
+      "date": 1571210858341
+    },
+    {
+      "type": "add",
+      "id": "fe9f26b90aabc910",
+      "item": {
+        "type": "markdown",
+        "id": "fe9f26b90aabc910",
+        "text": "\nAny type of program can be written this way. And any type of agreement can be automated and made impossible to break this way.\nLexon makes the final step to uncouple commercial agreements from the overhead of the judicative and executive powers and their astronomical costs and glacial speed. A digital contract written in Lexon costs pennies to set in motion and can effect money to change hand in minutes. \nLexon makes this power accessible to anyone. This is the democratization and mainstreaming of blockchain technology, which previously had a strong inward-looking focus, by developers for developers. \n\nNow, anyone can read Lexon programs without any knowledge of programming. Understanding English is enough.\nLexon code can as is be compiled to a blockchain smart contract that can be run on the Ethereum blockchain. \nTo write a smart contract in this way extends its audience by a thousand times. It may also be the answer to the centuries-old riddle how legal contracts could gainfully be articulated in a more rigorous and mathematical way. \n\nPeople asked to enter into a smart contract or become attached to a DAO can now read for themselves what the actual agreement is, with no translation in-between them and the mechanism that is executed on the blockchain. And without having to trust the smart contract programmers. \nGeneral councils can now have their lawyers verify what IT has understood should be expressed as smart contract code, and make sure the programming of decentralized devices is compliant with all applicable regulation. \n\nSociety at large can use this language to articulate the Robotic Laws that will be required to keep machines and services honest. "
+      },
+      "after": "bf96adb623abd9d2",
+      "date": 1571210860543
+    },
+    {
+      "type": "edit",
+      "id": "bf96adb623abd9d2",
+      "item": {
+        "type": "markdown",
+        "id": "bf96adb623abd9d2",
+        "text": "Anyone can read Lexon code and understand what it means. \n"
+      },
+      "date": 1571210864097
+    },
+    {
+      "type": "add",
+      "id": "512f10c9b46a526f",
+      "item": {
+        "type": "markdown",
+        "id": "512f10c9b46a526f",
+        "text": "It can be shown to a judge, and it can also – as is – be run as a program on the blockchain, i.e. a smart contract. It can be understood by business partners as well as a company’s own management. \n"
+      },
+      "after": "bf96adb623abd9d2",
+      "date": 1571210866901
+    },
+    {
+      "type": "edit",
+      "id": "fe9f26b90aabc910",
+      "item": {
+        "type": "markdown",
+        "id": "fe9f26b90aabc910",
+        "text": "Any type of program can be written this way. And any type of agreement can be automated and made impossible to break this way.\n"
+      },
+      "date": 1571210868534
+    },
+    {
+      "type": "add",
+      "id": "8f2eca8a0e0c2faa",
+      "item": {
+        "type": "markdown",
+        "id": "8f2eca8a0e0c2faa",
+        "text": "Lexon makes the final step to uncouple commercial agreements from the overhead of the judicative and executive powers and their astronomical costs and glacial speed. A digital contract written in Lexon costs pennies to set in motion and can effect money to change hand in minutes.\n"
+      },
+      "after": "fe9f26b90aabc910",
+      "date": 1571210870424
+    },
+    {
+      "type": "add",
+      "id": "34ddf00c7137cec2",
+      "item": {
+        "type": "markdown",
+        "id": "34ddf00c7137cec2",
+        "text": "Lexon makes this power accessible to anyone. This is the democratization and mainstreaming of blockchain technology, which previously had a strong inward-looking focus, by developers for developers. \n"
+      },
+      "after": "8f2eca8a0e0c2faa",
+      "date": 1571210875843
+    },
+    {
+      "type": "add",
+      "id": "0bb4e2b3a8f99afd",
+      "item": {
+        "type": "markdown",
+        "id": "0bb4e2b3a8f99afd",
+        "text": "Now, anyone can read Lexon programs without any knowledge of programming. Understanding English is enough.\n"
+      },
+      "after": "34ddf00c7137cec2",
+      "date": 1571210879687
+    },
+    {
+      "type": "add",
+      "id": "46cd73b40acd638f",
+      "item": {
+        "type": "markdown",
+        "id": "46cd73b40acd638f",
+        "text": "Lexon code can as is be compiled to a blockchain smart contract that can be run on the Ethereum blockchain. \n"
+      },
+      "after": "0bb4e2b3a8f99afd",
+      "date": 1571210884432
+    },
+    {
+      "type": "add",
+      "id": "a13b3d235baf55c0",
+      "item": {
+        "type": "markdown",
+        "id": "a13b3d235baf55c0",
+        "text": "To write a smart contract in this way extends its audience by a thousand times. It may also be the answer to the centuries-old riddle how legal contracts could gainfully be articulated in a more rigorous and mathematical way. \n"
+      },
+      "after": "46cd73b40acd638f",
+      "date": 1571210886565
+    },
+    {
+      "type": "add",
+      "id": "922982367692c501",
+      "item": {
+        "type": "markdown",
+        "id": "922982367692c501",
+        "text": "People asked to enter into a smart contract or become attached to a DAO can now read for themselves what the actual agreement is, with no translation in-between them and the mechanism that is executed on the blockchain. And without having to trust the smart contract programmers. \n"
+      },
+      "after": "a13b3d235baf55c0",
+      "date": 1571210894569
+    },
+    {
+      "type": "add",
+      "id": "ca7c33f97cf40538",
+      "item": {
+        "type": "markdown",
+        "id": "ca7c33f97cf40538",
+        "text": "General councils can now have their lawyers verify what IT has understood should be expressed as smart contract code, and make sure the programming of decentralized devices is compliant with all applicable regulation. \n"
+      },
+      "after": "922982367692c501",
+      "date": 1571210897400
+    },
+    {
+      "type": "add",
+      "id": "9fab1105e2e03032",
+      "item": {
+        "type": "markdown",
+        "id": "9fab1105e2e03032",
+        "text": "Society at large can use this language to articulate the Robotic Laws that will be required to keep machines and services honest. "
+      },
+      "after": "ca7c33f97cf40538",
+      "date": 1571210901148
+    },
+    {
+      "type": "edit",
+      "id": "79d8809703957eb2",
+      "item": {
+        "type": "markdown",
+        "id": "79d8809703957eb2",
+        "text": "Lexon was made for blockchain [[smart contracts]]. It can actually be used to write legal contracts that are [[blockchain]] smart contracts.\n"
+      },
+      "date": 1571775959987
+    },
+    {
+      "type": "edit",
+      "id": "e59e7ce5cd2cf910",
+      "item": {
+        "type": "markdown",
+        "id": "e59e7ce5cd2cf910",
+        "text": "To a good degree, Lexon achieves the Holy Grail of [[Computational Law]]: it captures the meaning of contracts for automatic processing. \n"
+      },
+      "date": 1571775975426
+    },
+    {
+      "type": "edit",
+      "id": "e51f68773d885a12",
+      "item": {
+        "type": "markdown",
+        "id": "e51f68773d885a12",
+        "text": "But Lexon is also useful for any [[community]] or [[company]] that wants its smart contracts to be [[readable]] for all its members, programmers or not. \n"
+      },
+      "date": 1571776002557
+    },
+    {
+      "type": "edit",
+      "id": "0f2d3183eac1fc3d",
+      "item": {
+        "type": "markdown",
+        "id": "0f2d3183eac1fc3d",
+        "text": "[[Programming]] should long have been this easy. And [[Legal prose]] should long have been as accessible and affordable as contracts written in Lexon are. \n"
+      },
+      "date": 1571776037594
+    },
+    {
+      "type": "edit",
+      "id": "d5c280bc4944f323",
+      "item": {
+        "type": "markdown",
+        "id": "d5c280bc4944f323",
+        "text": "As for [[lawyer]]s: they generally don’t need better tools, nor a better business model, no higher reliability of their product or more efficient ways to create contracts – because lawyers bill by the hour. This is not cynicism, just true. Both these professions make a good buck. \n"
+      },
+      "date": 1571776044531
+    },
+    {
+      "type": "edit",
+      "id": "65a964e346490ba4",
+      "item": {
+        "type": "markdown",
+        "id": "65a964e346490ba4",
+        "text": "[[Programmer]]s like the languages they have. There was no pressing need for a new type of language. And by definition, programmers don't have a need for a [[language]] for non- programmers. \n"
+      },
+      "date": 1571776065510
+    },
+    {
+      "type": "edit",
+      "id": "d5c280bc4944f323",
+      "item": {
+        "type": "markdown",
+        "id": "d5c280bc4944f323",
+        "text": "As for [[lawyer]]s: they generally don’t need better tools, nor a better business model, no higher reliability of their product or more [[efficient]] ways to create contracts – because lawyers [[bill by the hour]]. This is not cynicism, just true. Both these professions make a good buck. \n"
+      },
+      "date": 1571776096413
+    },
+    {
+      "type": "edit",
+      "id": "fe9f26b90aabc910",
+      "item": {
+        "type": "markdown",
+        "id": "fe9f26b90aabc910",
+        "text": "Any type of program can be written this way. And any type of agreement can be [[automated]] and made impossible to break this way.\n"
+      },
+      "date": 1571776168859
+    },
+    {
+      "type": "edit",
+      "id": "8f2eca8a0e0c2faa",
+      "item": {
+        "type": "markdown",
+        "id": "8f2eca8a0e0c2faa",
+        "text": "Lexon makes the final step to uncouple [[commercial agreement]]s from the overhead of the judicative and executive powers and their astronomical costs and glacial speed. A digital contract written in Lexon costs pennies to set in motion and can effect money to change hand in minutes.\n"
+      },
+      "date": 1571776197770
+    },
+    {
+      "type": "edit",
+      "id": "0bb4e2b3a8f99afd",
+      "item": {
+        "type": "markdown",
+        "id": "0bb4e2b3a8f99afd",
+        "text": "Now, anyone can read Lexon programs without any knowledge of programming. [[Understanding English is enough]].\n"
+      },
+      "date": 1571776223869
+    },
+    {
+      "type": "edit",
+      "id": "46cd73b40acd638f",
+      "item": {
+        "type": "markdown",
+        "id": "46cd73b40acd638f",
+        "text": "Lexon code can as is be compiled to a blockchain [[smart contract]] that can be run on the [[Ethereum]] blockchain. \n"
+      },
+      "date": 1571776251913
+    },
+    {
+      "type": "edit",
+      "id": "a13b3d235baf55c0",
+      "item": {
+        "type": "markdown",
+        "id": "a13b3d235baf55c0",
+        "text": "To write a smart contract in this way extends its audience by a thousand times. It may also be the answer to the centuries-old riddle how legal contracts could gainfully be articulated in a more [[rigorous and mathematical]] way. \n"
+      },
+      "date": 1571776282626
+    },
+    {
+      "type": "edit",
+      "id": "922982367692c501",
+      "item": {
+        "type": "markdown",
+        "id": "922982367692c501",
+        "text": "People asked to enter into a [[smart contract]] or become attached to a DAO can now read for themselves what the actual agreement is, with no [[translation]] in-between them and the mechanism that is executed on the blockchain. And without having to [[trust]] the smart contract programmers. \n"
+      },
+      "date": 1571776316786
+    },
+    {
+      "type": "edit",
+      "id": "ca7c33f97cf40538",
+      "item": {
+        "type": "markdown",
+        "id": "ca7c33f97cf40538",
+        "text": "[[General council]]s can now have their lawyers [[verify]] what IT has understood should be expressed as [[smart contract]] code, and make sure the programming of [[decentralized device]]s is [[compliant]] with all applicable [[regulation]]. \n"
+      },
+      "date": 1571776373458
+    },
+    {
+      "type": "edit",
+      "id": "9fab1105e2e03032",
+      "item": {
+        "type": "markdown",
+        "id": "9fab1105e2e03032",
+        "text": "[[Society]] at large can use this language to articulate the [[Robotic Laws]] that will be required to keep machines and services [[honest]]. "
+      },
+      "date": 1571776412979
+    },
+    {
+      "type": "edit",
+      "id": "9fab1105e2e03032",
+      "item": {
+        "type": "markdown",
+        "id": "9fab1105e2e03032",
+        "text": "[[Society]] at large can use this language to articulate the [[laws of robotics]] that will be required to keep machines and services [[honest]]. "
+      },
+      "date": 1571776476362
+    }
+  ]
+}

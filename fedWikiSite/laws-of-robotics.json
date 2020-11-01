@@ -1,0 +1,69 @@
+{
+  "title": "Laws of robotics",
+  "journal": [
+    {
+      "date": 1571776244419,
+      "type": "create",
+      "item": {
+        "story": "",
+        "title": "Laws of robotics"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1571776437598
+    }
+  ],
+  "story": [
+    {
+      "type": "markdown",
+      "id": "844ac19d-6367-4f19-ac47-50a50b62e833",
+      "text": "__Laws of [[Robotics]]__ are a set of laws, rules, or principles, which are intended as a fundamental framework to underpin the behavior of [[robot]]s designed to have a degree of [[autonomy]]. Robots of this degree of complexity do not yet exist, but they have been widely anticipated in [[science fiction]], [[movie]] and are a topic of active [[research and development]] in the fields of [[robotics]] and [[artificial intelligence]] - [https://en.wikipedia.org/wiki/Laws_of_robotics wikipedia]"
+    },
+    {
+      "type": "markdown",
+      "id": "bc56b8ea-953e-4ad6-b9a7-327b88392fa3",
+      "text": "The best known set of laws are [[Three Laws of Robotics]] by [[Isaac Asimov]] in the 1940s, or based upon them, but other sets of laws have been proposed by researchers in the decades since then."
+    },
+    {
+      "type": "markdown",
+      "id": "f457a701-6fad-4526-905e-7c2569594e35",
+      "text": "# Sections"
+    },
+    {
+      "type": "html",
+      "id": "e0ff6099-2ec1-467e-875b-2103a6b7161d",
+      "text": "<form action='https://rest.livecode.world/mediawiki/importSection'><input name=section_title size=60 value='Isaac Asimov's \"Three Laws of Robotics\"'>\n<input name=url type=hidden value='https://en.wikipedia.org/w/index.php?title=Laws of robotics&action=edit&section=1'>\n<input type=submit value=create></form>"
+    },
+    {
+      "type": "html",
+      "id": "7b97d42a-464e-4c01-8a75-0602246956e0",
+      "text": "<form action='https://rest.livecode.world/mediawiki/importSection'><input name=section_title size=60 value='EPSRC / AHRC principles of robotics'>\n<input name=url type=hidden value='https://en.wikipedia.org/w/index.php?title=Laws of robotics&action=edit&section=2'>\n<input type=submit value=create></form>"
+    },
+    {
+      "type": "html",
+      "id": "204de685-43f3-486d-ac7b-8706b8fdb308",
+      "text": "<form action='https://rest.livecode.world/mediawiki/importSection'><input name=section_title size=60 value='Judicial development'>\n<input name=url type=hidden value='https://en.wikipedia.org/w/index.php?title=Laws of robotics&action=edit&section=3'>\n<input type=submit value=create></form>"
+    },
+    {
+      "type": "html",
+      "id": "2f8e86b8-770f-4f15-8e67-a3494b14d79d",
+      "text": "<form action='https://rest.livecode.world/mediawiki/importSection'><input name=section_title size=60 value='Satya Nadella's laws'>\n<input name=url type=hidden value='https://en.wikipedia.org/w/index.php?title=Laws of robotics&action=edit&section=4'>\n<input type=submit value=create></form>"
+    },
+    {
+      "type": "html",
+      "id": "25c1988b-4abe-4132-a745-9dfa20ee6716",
+      "text": "<form action='https://rest.livecode.world/mediawiki/importSection'><input name=section_title size=60 value='Tilden's \"Laws of Robotics\"'>\n<input name=url type=hidden value='https://en.wikipedia.org/w/index.php?title=Laws of robotics&action=edit&section=5'>\n<input type=submit value=create></form>"
+    },
+    {
+      "type": "markdown",
+      "id": "3eaadecc-8b98-4e80-a4e4-2aae704bd102",
+      "text": "# See also"
+    },
+    {
+      "type": "markdown",
+      "id": "8f513461-0020-4062-853a-ef0b5f58d0e0",
+      "text": "- [[Friendly AI]]\n- [[Roboethics]]\n- [[Ethics of artificial intelligence]]\n- [[Military robots]]\n- [[Three Laws of Transhumanism]]\n- [[Clarke's three laws]]\n- [[Niven's laws]]"
+    }
+  ]
+}

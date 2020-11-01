@@ -1,0 +1,587 @@
+{
+  "title": "Open Innovation",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "1c2eeac829d0a783",
+      "text": "When we think of [[innovation]], we think of a lone inventor in a garage.  Possibly a [[researcher]] working at a university, or perhaps the research activities undertaken by a [[private company]]. That is we think of something that happens within a bounded space, that is the bounds of an individual [[legal person]].\n"
+    },
+    {
+      "type": "markdown",
+      "id": "ff86bb4299a6e89c",
+      "text": "Our [[current systems]] are based around this simplified idea of innovation."
+    },
+    {
+      "type": "markdown",
+      "id": "3184e48d1063cdd5",
+      "text": "Open innovation, on the other hand, involves breaking down these [[institutional barriers]], enabling ideas to [[flow]] across [[organisational borders]] - accelerating the pace and reducing the [[cost of innovation]].\n"
+    },
+    {
+      "type": "markdown",
+      "id": "7d8e2e085f1d28d6",
+      "text": "[[Secure distributed ledgers]], of the sort provided by blockchain technology can provide a means for protecting and governing the flow of ideas across such institutional barriers. \n"
+    },
+    {
+      "type": "markdown",
+      "id": "4b3290cad1d9bf8d",
+      "text": "Software in the form of [[smart contracts]] can reduce the administrative costs associated with allocating [[value]] to [[complex]] assemblages of ideas into new products and services. \n"
+    },
+    {
+      "type": "markdown",
+      "id": "33537ccf36fdf4cd",
+      "text": "Indeed blockchain enables us to create entirely new forms of [[intellectual property]] regime, designed for a better fit for the modern world."
+    },
+    {
+      "type": "markdown",
+      "id": "ce5db9ea69f609ed",
+      "text": "What is needed is an [[ecosystem]] of open innovation, supported by a technological platform that enables modern, complex forms of [[interdisciplinary collaboration]] - at as low a cost as possible.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "cb73a62717f6bf81",
+      "text": "An open innovation ecosystem would therefore involve many [[stakeholders]], including lone [[inventors]], [[scientists]], public and private [[funders]], small [[companies]] and large [[multinationals]]."
+    },
+    {
+      "type": "markdown",
+      "id": "0eae49a48be620ea",
+      "text": "Such an [[ecosystem]] is [[complex]]. This complexity needs to be supported by a [[technical platform]] that is able to reduce the costs - in particular the [[legal costs]] associated with complex [[intellectual property]] arrangements.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "12a11ac27a49dbd4",
+      "text": "The [[technical platform]] that supports open innovation needs to be governed on behalf of all [[stakeholders]]. Due to [[privacy]] and security concerns organisations will wish to run their own servers, and [[control]] their own data.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "b340c05a14fddbf1",
+      "text": "A centralised solution will not satisfy the needs of organisation or individuals. We need a flexible [[secure distributed ledger]] which can scale, and evolve alongside the [[growing demands]] of its [[stakeholders]]."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Open Innovation",
+        "story": []
+      },
+      "date": 1571051878757
+    },
+    {
+      "item": {
+        "type": "markdown",
+        "id": "4991ba47c3f157ca",
+        "text": ""
+      },
+      "id": "4991ba47c3f157ca",
+      "type": "add",
+      "date": 1571051879869
+    },
+    {
+      "type": "edit",
+      "id": "4991ba47c3f157ca",
+      "item": {
+        "type": "markdown",
+        "id": "4991ba47c3f157ca",
+        "text": ""
+      },
+      "date": 1571052041778
+    },
+    {
+      "type": "add",
+      "id": "3184e48d1063cdd5",
+      "item": {
+        "type": "markdown",
+        "id": "3184e48d1063cdd5",
+        "text": "Open innovation involves breaking down the institutional barriers to innovation, enabling ideas to flow \n"
+      },
+      "after": "4991ba47c3f157ca",
+      "date": 1571052044241
+    },
+    {
+      "type": "add",
+      "id": "1c2eeac829d0a783",
+      "item": {
+        "type": "markdown",
+        "id": "1c2eeac829d0a783",
+        "text": "When we think of innovation, we associate it typically with something that a lone inventor does in a garage perhaps, or maybe someone working at a university, or within a company. \n"
+      },
+      "after": "4991ba47c3f157ca",
+      "date": 1571056452586
+    },
+    {
+      "type": "add",
+      "id": "ff9e861c1b4c3657",
+      "item": {
+        "type": "markdown",
+        "id": "ff9e861c1b4c3657",
+        "text": "This is a simplification, and it is this simplified version of innovation that our present legal and institutional structures are designed form."
+      },
+      "after": "1c2eeac829d0a783",
+      "date": 1571056453874
+    },
+    {
+      "type": "remove",
+      "id": "4991ba47c3f157ca",
+      "date": 1571056456539
+    },
+    {
+      "type": "edit",
+      "id": "3184e48d1063cdd5",
+      "item": {
+        "type": "markdown",
+        "id": "3184e48d1063cdd5",
+        "text": "Open innovation involves breaking down the institutional barriers to innovation, enabling ideas to flow \n"
+      },
+      "date": 1571056572196,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1571056587891
+    },
+    {
+      "type": "add",
+      "id": "ce5db9ea69f609ed",
+      "item": {
+        "type": "markdown",
+        "id": "ce5db9ea69f609ed",
+        "text": "That is we think of individual persons"
+      },
+      "after": "3184e48d1063cdd5",
+      "date": 1571056594569
+    },
+    {
+      "type": "edit",
+      "id": "3184e48d1063cdd5",
+      "item": {
+        "type": "markdown",
+        "id": "3184e48d1063cdd5",
+        "text": "Open innovation involves breaking down the institutional barriers to innovation, enabling ideas to flow across organisational barriers - accelerating the pace and reducing the cost of innovation.\n"
+      },
+      "date": 1571056654529
+    },
+    {
+      "type": "add",
+      "id": "7d8e2e085f1d28d6",
+      "item": {
+        "type": "markdown",
+        "id": "7d8e2e085f1d28d6",
+        "text": "Secure distributed ledgers, of the sort provided by blockchain technology can provide a means for protecting and governing the flow of ideas across such institutional barriers. \n"
+      },
+      "after": "3184e48d1063cdd5",
+      "date": 1571056802915
+    },
+    {
+      "type": "add",
+      "id": "4b3290cad1d9bf8d",
+      "item": {
+        "type": "markdown",
+        "id": "4b3290cad1d9bf8d",
+        "text": "Software in the form of smart contracts can reduce the administrative costs associated with allocating value to complex assemblages of ideas into new products and services. \n"
+      },
+      "after": "7d8e2e085f1d28d6",
+      "date": 1571056964583
+    },
+    {
+      "type": "add",
+      "id": "33537ccf36fdf4cd",
+      "item": {
+        "type": "markdown",
+        "id": "33537ccf36fdf4cd",
+        "text": "Indeed blockchain enables us to create entirely new forms of intellectual property regime, more fit for the 21st century."
+      },
+      "after": "4b3290cad1d9bf8d",
+      "date": 1571057029103
+    },
+    {
+      "type": "edit",
+      "id": "33537ccf36fdf4cd",
+      "item": {
+        "type": "markdown",
+        "id": "33537ccf36fdf4cd",
+        "text": "Indeed blockchain enables us to create entirely new forms of intellectual property regime, one more fit for the 21st century."
+      },
+      "date": 1571057188568
+    },
+    {
+      "type": "add",
+      "id": "ff86bb4299a6e89c",
+      "item": {
+        "type": "markdown",
+        "id": "ff86bb4299a6e89c",
+        "text": "Our current systems are based around this simplified idea of innovation"
+      },
+      "after": "1c2eeac829d0a783",
+      "date": 1571057405794
+    },
+    {
+      "type": "edit",
+      "id": "ce5db9ea69f609ed",
+      "item": {
+        "type": "markdown",
+        "id": "ce5db9ea69f609ed",
+        "text": "What is needed is an ecosystem of open innovation, supported by technological platform that supports complex forms of collaboration at as low a cost as possible.\n"
+      },
+      "date": 1571058094366
+    },
+    {
+      "type": "add",
+      "id": "0eae49a48be620ea",
+      "item": {
+        "type": "markdown",
+        "id": "0eae49a48be620ea",
+        "text": "Such an open innovation platform, should be governed on behalf of all stakeholders - scientist, researchers, inventors and companies."
+      },
+      "after": "ce5db9ea69f609ed",
+      "date": 1571058166542
+    },
+    {
+      "type": "add",
+      "id": "cb73a62717f6bf81",
+      "item": {
+        "type": "markdown",
+        "id": "cb73a62717f6bf81",
+        "text": "An open innovation ecosystem "
+      },
+      "after": "ce5db9ea69f609ed",
+      "date": 1571058353162
+    },
+    {
+      "type": "edit",
+      "id": "cb73a62717f6bf81",
+      "item": {
+        "type": "markdown",
+        "id": "cb73a62717f6bf81",
+        "text": "An open innovation ecosystem would therefore involve many stakeholders, from lone inventors, to scientists, small companies to private and public funders and large multinationals."
+      },
+      "date": 1571058953203
+    },
+    {
+      "type": "edit",
+      "id": "ff86bb4299a6e89c",
+      "item": {
+        "type": "markdown",
+        "id": "ff86bb4299a6e89c",
+        "text": "Our current systems are based around this simplified idea of innovation - something that happens within an individual legal person."
+      },
+      "date": 1571059259538
+    },
+    {
+      "type": "edit",
+      "id": "1c2eeac829d0a783",
+      "item": {
+        "type": "markdown",
+        "id": "1c2eeac829d0a783",
+        "text": "When we think of innovation, we associate it typically with something that a lone inventor does in a garage, or possibly we think of a researcher working at a university, or perhaps the research activities undertaken by a private company. \n"
+      },
+      "date": 1571059458910
+    },
+    {
+      "type": "edit",
+      "id": "1c2eeac829d0a783",
+      "item": {
+        "type": "markdown",
+        "id": "1c2eeac829d0a783",
+        "text": "When we think of innovation, we associate it typically with something that a lone inventor does in a garage, or possibly we think of a researcher working at a university, or perhaps the research activities undertaken by a private company. That is we think of something that happens within an individual legal person.\n"
+      },
+      "date": 1571059482920
+    },
+    {
+      "type": "edit",
+      "id": "ff86bb4299a6e89c",
+      "item": {
+        "type": "markdown",
+        "id": "ff86bb4299a6e89c",
+        "text": "Our current systems are based around this simplified idea of innovation."
+      },
+      "date": 1571059499539
+    },
+    {
+      "type": "remove",
+      "id": "ff9e861c1b4c3657",
+      "date": 1571059503333
+    },
+    {
+      "type": "edit",
+      "id": "3184e48d1063cdd5",
+      "item": {
+        "type": "markdown",
+        "id": "3184e48d1063cdd5",
+        "text": "Open innovation, on the other hand, involves breaking down the institutional barriers to innovation, enabling ideas to flow across organisational barriers - accelerating the pace and reducing the cost of innovation.\n"
+      },
+      "date": 1571059525134
+    },
+    {
+      "type": "edit",
+      "id": "3184e48d1063cdd5",
+      "item": {
+        "type": "markdown",
+        "id": "3184e48d1063cdd5",
+        "text": "Open innovation, on the other hand, involves breaking down the institutional barriers to innovation, enabling ideas to flow across organisational borders - accelerating the pace and reducing the cost of innovation.\n"
+      },
+      "date": 1571060092308
+    },
+    {
+      "type": "edit",
+      "id": "0eae49a48be620ea",
+      "item": {
+        "type": "markdown",
+        "id": "0eae49a48be620ea",
+        "text": "Such an ecosystem is complex. This complexity needs to be supported by a technical platform that is able to reduce the costs - in particular the legal costs associated with complex intellectual property arrangments.\n"
+      },
+      "date": 1571060191574
+    },
+    {
+      "type": "add",
+      "id": "12a11ac27a49dbd4",
+      "item": {
+        "type": "markdown",
+        "id": "12a11ac27a49dbd4",
+        "text": ", should be governed on behalf of all stakeholders - scientist, researchers, inventors and companies."
+      },
+      "after": "0eae49a48be620ea",
+      "date": 1571060327037
+    },
+    {
+      "type": "edit",
+      "id": "12a11ac27a49dbd4",
+      "item": {
+        "type": "markdown",
+        "id": "12a11ac27a49dbd4",
+        "text": "The technical platform that supports open innovation needs to be a\n"
+      },
+      "date": 1571060724819
+    },
+    {
+      "type": "add",
+      "id": "d2888460996c1636",
+      "item": {
+        "type": "markdown",
+        "id": "d2888460996c1636",
+        "text": "should be governed on behalf of all stakeholders - scientist, researchers, inventors and companies."
+      },
+      "after": "12a11ac27a49dbd4",
+      "date": 1571060731449
+    },
+    {
+      "type": "edit",
+      "id": "12a11ac27a49dbd4",
+      "item": {
+        "type": "markdown",
+        "id": "12a11ac27a49dbd4",
+        "text": "The technical platform that supports open innovation needs "
+      },
+      "date": 1571060739374
+    },
+    {
+      "type": "remove",
+      "id": "d2888460996c1636",
+      "date": 1571060741549
+    },
+    {
+      "type": "edit",
+      "id": "12a11ac27a49dbd4",
+      "item": {
+        "type": "markdown",
+        "id": "12a11ac27a49dbd4",
+        "text": "The technical platform that supports open innovation needs to be governed on behalf of all stakeholders. Due to privacy and security concerns organisations will wish to run their own servers, and control their own their won data.\n"
+      },
+      "date": 1571060821655
+    },
+    {
+      "type": "add",
+      "id": "b340c05a14fddbf1",
+      "item": {
+        "type": "markdown",
+        "id": "b340c05a14fddbf1",
+        "text": "A centralised solution will not satisfy the needs of organisation or individuals. A secure distributed ledger of the type provided by a public blockchain is the "
+      },
+      "after": "12a11ac27a49dbd4",
+      "date": 1571061021846
+    },
+    {
+      "type": "edit",
+      "id": "b340c05a14fddbf1",
+      "item": {
+        "type": "markdown",
+        "id": "b340c05a14fddbf1",
+        "text": "A centralised solution will not satisfy the needs of organisation or individuals. We need a flexible secure distributed ledger which can scale, and evolve alongside the growing demands of its stakeholders."
+      },
+      "date": 1571061129688
+    },
+    {
+      "type": "edit",
+      "id": "1c2eeac829d0a783",
+      "item": {
+        "type": "markdown",
+        "id": "1c2eeac829d0a783",
+        "text": "When we think of innovation, we think of a lone inventor in a garage.  Possibly a researcher working at a university, or perhaps the research activities undertaken by a private company. That is we think of something that happens within a bounded space, that is the bounds of an individual legal person.\n"
+      },
+      "date": 1571061474135
+    },
+    {
+      "type": "edit",
+      "id": "3184e48d1063cdd5",
+      "item": {
+        "type": "markdown",
+        "id": "3184e48d1063cdd5",
+        "text": "Open innovation, on the other hand, involves breaking down these institutional barriers, enabling ideas to flow across organisational borders - accelerating the pace and reducing the cost of innovation.\n"
+      },
+      "date": 1571061642712
+    },
+    {
+      "type": "edit",
+      "id": "33537ccf36fdf4cd",
+      "item": {
+        "type": "markdown",
+        "id": "33537ccf36fdf4cd",
+        "text": "Indeed blockchain enables us to create entirely new forms of intellectual property regime, designed for a better fit for the modern world."
+      },
+      "date": 1571061862571
+    },
+    {
+      "type": "edit",
+      "id": "ce5db9ea69f609ed",
+      "item": {
+        "type": "markdown",
+        "id": "ce5db9ea69f609ed",
+        "text": "What is needed is an ecosystem of open innovation, supported by a technological platform that enables modern, more complex forms of interdisciplinary collaboration - at as low a cost as possible.\n"
+      },
+      "date": 1571061979183
+    },
+    {
+      "type": "edit",
+      "id": "cb73a62717f6bf81",
+      "item": {
+        "type": "markdown",
+        "id": "cb73a62717f6bf81",
+        "text": "An open innovation ecosystem would therefore involve many stakeholders, including lone inventors, scientists, public and private funders, small companies and large multinationals."
+      },
+      "date": 1571062229140
+    },
+    {
+      "type": "edit",
+      "id": "1c2eeac829d0a783",
+      "item": {
+        "type": "markdown",
+        "id": "1c2eeac829d0a783",
+        "text": "When we think of [[innovation]], we think of a lone inventor in a garage.  Possibly a [[researcher]] working at a university, or perhaps the research activities undertaken by a [[private company]]. That is we think of something that happens within a bounded space, that is the bounds of an individual [[legal person]].\n"
+      },
+      "date": 1571761194007
+    },
+    {
+      "type": "edit",
+      "id": "ff86bb4299a6e89c",
+      "item": {
+        "type": "markdown",
+        "id": "ff86bb4299a6e89c",
+        "text": "Our [[current systems]] are based around this simplified idea of innovation."
+      },
+      "date": 1571761212689
+    },
+    {
+      "type": "edit",
+      "id": "3184e48d1063cdd5",
+      "item": {
+        "type": "markdown",
+        "id": "3184e48d1063cdd5",
+        "text": "Open innovation, on the other hand, involves breaking down these [[institutional barriers]], enabling ideas to [[flow]] across [[organisational borders]] - accelerating the pace and reducing the [[cost of innovation]].\n"
+      },
+      "date": 1571761263977
+    },
+    {
+      "type": "edit",
+      "id": "7d8e2e085f1d28d6",
+      "item": {
+        "type": "markdown",
+        "id": "7d8e2e085f1d28d6",
+        "text": "[[Secure distributed ledgers]], of the sort provided by blockchain technology can provide a means for protecting and governing the flow of ideas across such institutional barriers. \n"
+      },
+      "date": 1571761304906
+    },
+    {
+      "type": "edit",
+      "id": "4b3290cad1d9bf8d",
+      "item": {
+        "type": "markdown",
+        "id": "4b3290cad1d9bf8d",
+        "text": "Software in the form of [[smart contracts]] can reduce the administrative costs associated with allocating [[value]] to [[complex]] assemblages of ideas into new products and services. \n"
+      },
+      "date": 1571761352118
+    },
+    {
+      "type": "edit",
+      "id": "33537ccf36fdf4cd",
+      "item": {
+        "type": "markdown",
+        "id": "33537ccf36fdf4cd",
+        "text": "Indeed blockchain enables us to create entirely new forms of [[intellectual property]] regime, designed for a better fit for the modern world."
+      },
+      "date": 1571761366601
+    },
+    {
+      "type": "edit",
+      "id": "ce5db9ea69f609ed",
+      "item": {
+        "type": "markdown",
+        "id": "ce5db9ea69f609ed",
+        "text": "What is needed is an [[ecosystem]] of open innovation, supported by a technological platform that enables modern, complex forms of [[interdisciplinary collaboration]] - at as low a cost as possible.\n"
+      },
+      "date": 1571761402636
+    },
+    {
+      "type": "edit",
+      "id": "cb73a62717f6bf81",
+      "item": {
+        "type": "markdown",
+        "id": "cb73a62717f6bf81",
+        "text": "An open innovation ecosystem would therefore involve many [[stakeholders]], including lone [[inventors]], [[scientists]], public and private [[funders]], small [[companies]] and large [[multinationals]]."
+      },
+      "date": 1571761471074
+    },
+    {
+      "type": "edit",
+      "id": "0eae49a48be620ea",
+      "item": {
+        "type": "markdown",
+        "id": "0eae49a48be620ea",
+        "text": "Such an [[ecosystem]] is [[complex]]. This complexity needs to be supported by a technical platform that is able to reduce the costs - in particular the [[legal costs]] associated with complex [[intellectual property]] arrangements.\n"
+      },
+      "date": 1571761552641
+    },
+    {
+      "type": "edit",
+      "id": "0eae49a48be620ea",
+      "item": {
+        "type": "markdown",
+        "id": "0eae49a48be620ea",
+        "text": "Such an [[ecosystem]] is [[complex]]. This complexity needs to be supported by a [[technical platform]] that is able to reduce the costs - in particular the [[legal costs]] associated with complex [[intellectual property]] arrangements.\n"
+      },
+      "date": 1571761569695
+    },
+    {
+      "type": "edit",
+      "id": "12a11ac27a49dbd4",
+      "item": {
+        "type": "markdown",
+        "id": "12a11ac27a49dbd4",
+        "text": "The [[technical platform]] that supports open innovation needs to be governed on behalf of all [[stakeholders]]. Due to [[privacy]] and security concerns organisations will wish to run their own servers, and [[control]] their own data.\n"
+      },
+      "date": 1571761680801
+    },
+    {
+      "type": "edit",
+      "id": "b340c05a14fddbf1",
+      "item": {
+        "type": "markdown",
+        "id": "b340c05a14fddbf1",
+        "text": "A centralised solution will not satisfy the needs of organisation or individuals. We need a flexible [[secure distributed ledger]] which can scale, and evolve alongside the [[growing demands]] of its [[stakeholders]]."
+      },
+      "date": 1571761734312
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "title": "Reality is the New fiction",
+  "story": [
+    {
+      "type": "factory",
+      "id": "f91ae74dceede81c"
+    },
+    {
+      "type": "markdown",
+      "id": "9cae424d03be92f1",
+      "text": "# Quotes\n"
+    },
+    {
+      "type": "markdown",
+      "id": "8c90d2a6baa0c0d6",
+      "text": "[[Alan Moore]]\n[[jean-Pierre Bekolo]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Reality is the New fiction",
+        "story": []
+      },
+      "date": 1570986014340
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9cae424d03be92f1"
+      },
+      "id": "9cae424d03be92f1",
+      "type": "add",
+      "date": 1570986015279
+    },
+    {
+      "type": "edit",
+      "id": "9cae424d03be92f1",
+      "item": {
+        "type": "markdown",
+        "id": "9cae424d03be92f1",
+        "text": "# Quotes\n"
+      },
+      "date": 1570986049867
+    },
+    {
+      "type": "add",
+      "id": "8c90d2a6baa0c0d6",
+      "item": {
+        "type": "markdown",
+        "id": "8c90d2a6baa0c0d6",
+        "text": "[[Alan Moore]]\n[[jean-Pierre Bekolo]]"
+      },
+      "after": "9cae424d03be92f1",
+      "date": 1570986050407
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f91ae74dceede81c"
+      },
+      "id": "f91ae74dceede81c",
+      "type": "add",
+      "after": "8c90d2a6baa0c0d6",
+      "date": 1570986053211
+    },
+    {
+      "id": "f91ae74dceede81c",
+      "type": "move",
+      "order": [
+        "f91ae74dceede81c",
+        "9cae424d03be92f1",
+        "8c90d2a6baa0c0d6"
+      ],
+      "date": 1570986054761
+    }
+  ]
+}

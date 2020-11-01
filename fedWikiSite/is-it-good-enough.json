@@ -1,0 +1,88 @@
+{
+  "title": "Is it good enough?",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "1e1d26f60c81f2c5",
+      "text": "The question then becomes not \"[[Is it good?]]\" but \"Is the process good?\". That is we care more about the following:\n\n1. Make a solid start. [[Is it good enough?]]\n1. [[Will it improve over time?]]\n"
+    },
+    {
+      "type": "markdown",
+      "id": "0726246a844f41a3",
+      "text": "Of which the second question is both the most important, the hardest to answer, and the question most regularly ignored until it is too late. In this singular aspect you find the failure of your [[utopia]] of choice."
+    },
+    {
+      "type": "markdown",
+      "id": "5c7ac9d3950e4f3b",
+      "text": "Our first task is to make a __good enough__ start. To proceed with [[caution]]. When we build something new, especially when what we build is foundational to our values and the functioning of our society, we should build on solid, tested ground. \n"
+    },
+    {
+      "type": "markdown",
+      "id": "688fe83f616bc39d",
+      "text": "__Next__: [[Building on peer review]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Is it good enough?",
+        "story": []
+      },
+      "date": 1570822007002
+    },
+    {
+      "id": "1e1d26f60c81f2c5",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "1e1d26f60c81f2c5",
+        "text": "The question then becomes not \"[[Is it good?]]\" but \"Is the process good?\". That is we care more about the following:\n\n1. Make a solid start. [[Is it good enough?]]\n1. [[Will it improve over time?]]\n"
+      },
+      "date": 1570822031924
+    },
+    {
+      "id": "0726246a844f41a3",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "0726246a844f41a3",
+        "text": "Of which the second question is both the most important, the hardest to answer, and the question most regularly ignored until it is too late. In this singular aspect you find the failure of your [[utopia]] of choice."
+      },
+      "after": "1e1d26f60c81f2c5",
+      "date": 1570822035043
+    },
+    {
+      "id": "5c7ac9d3950e4f3b",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "5c7ac9d3950e4f3b",
+        "text": "Our first task is to make a __good enough__ start. To proceed with [[caution]]. When we build something new, especially when what we build is foundational to our values and the functioning of our society, we should build on solid, tested ground. \n"
+      },
+      "after": "0726246a844f41a3",
+      "date": 1570822038467
+    },
+    {
+      "type": "add",
+      "id": "688fe83f616bc39d",
+      "item": {
+        "type": "markdown",
+        "id": "688fe83f616bc39d",
+        "text": "__Next__: Instead we need to ask: [[Is it good enough?]]"
+      },
+      "after": "5c7ac9d3950e4f3b",
+      "date": 1570823972022
+    },
+    {
+      "type": "edit",
+      "id": "688fe83f616bc39d",
+      "item": {
+        "type": "markdown",
+        "id": "688fe83f616bc39d",
+        "text": "__Next__: [[Building on peer review]]"
+      },
+      "date": 1570823997387
+    }
+  ]
+}
